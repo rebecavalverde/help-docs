@@ -1,0 +1,40 @@
+.page {
+  max-width: 768px;
+  margin: 0 auto 30px;
+}
+
+@media (max-width: 1275px) {
+  main {
+    display: flex;
+  }
+
+  .page {
+    flex: 1 1 auto;
+    margin: 0 16px 30px 30px;
+  }
+}
+
+@media (max-width: 570px) {
+  main {
+    flex-wrap: wrap;
+  }
+
+  .page, .sidenav {
+    flex: 1 1 100%;
+    margin: 0 16px;
+  }
+
+  .sidenav {
+    order: 2;
+    margin-top: 30px;
+  }
+}
+
+h1, .title {
+  margin-bottom: 15px;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+  letter-spacing: 0.3px;
+  color: @text-dark;
+}

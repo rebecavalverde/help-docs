@@ -1,0 +1,18 @@
+<div class="nav">
+  <div class="nav-left">
+    <a href="/help/" class="logo">
+      <img src="https://flat.io/img/logo-white.svg" alt="Flat Help">
+      <span class="help-center">Help</span>
+    </a>
+    <div class="items">
+      <a href="/help/en/general" class="{% if page.nav == 'general' %}active{% endif %}">FAQ</a>
+      <a href="/help/en/music-notation-software" class="{% if page.nav == 'editor' %}active{% endif %}">Editor</a>
+      <a href="/help/en/education" class="{% if page.nav == 'edu' %}active{% endif %}">Education</a>
+    </div>
+  </div>
+  <div class="items nav-right">
+    <a href="https://flat.io/dashboard" class="user-dashboard">
+      <span class="text">My account</span>
+    </a>
+  </div>
+</div>

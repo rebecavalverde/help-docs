@@ -1,0 +1,26 @@
+sudo: false
+language: node_js
+node_js:
+  - 8
+addons:
+  apt:
+    packages:
+      - libssl1.0.0
+
+before_install:
+  - rvm install 2.3.3
+  - rvm --default use 2.3.3
+install:
+  - npm install -d
+  - bundle install
+
+env:
+  global:
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
+cache:
+  bundler: true
+  directories:
+    - node_modules
+
+script: script/test

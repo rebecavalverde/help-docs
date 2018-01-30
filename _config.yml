@@ -1,0 +1,64 @@
+title: Flat Help
+description: Documentation for Flat and Flat for Education 
+email: hello@flat.io
+
+baseurl: '/help'
+url: 'https://flat.io'
+
+algolia:
+  application_id: '4NUHS4DS6H'
+  index_name: 'production_help_en'
+  # index_name: 'dev_help_en'
+  files_to_exclude:
+    - docs/root.md
+    - docs/notices.md
+    - docs/en/index.md
+
+permalink: /:path/
+
+github:
+  branch: master
+  repository_nwo: FlatIO/help-docs
+
+markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: 'docs'
+    values:
+      layout: doc
+
+plugins:
+  - jekyll-less
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sitemap:
+  destination_path: docs/sitemap.xml
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - script
+  - node_modules
+  - package.json
+  - package-lock.json
+  - _site_test
+  - vendor
+  - netlify.toml
+
+twitter:
+  username: flat_io
+logo: https://flat.io/img/logo_flat.svg
+social:
+  name: Flat
+  links:
+    - https://www.facebook.com/flat.io
+    - https://twitter.com/flat_io
+    - https://plus.google.com/+FlatIO
+    - https://www.linkedin.com/company/flat-io
+    - https://www.youtube.com/user/flatproject
+    - https://www.instagram.com/flat.io
+    - https://github.com/FlatIO

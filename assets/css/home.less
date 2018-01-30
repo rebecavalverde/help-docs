@@ -1,0 +1,145 @@
+
+@bshadow: 0 15px 35px rgba(50,50,50,.1), 0 5px 15px rgba(0,0,0,.01);
+@bshadow-hover: 0 15px 35px rgba(50,50,50,.15), 0 5px 15px rgba(0,0,0,.015);
+
+.hhome-hero {
+  width: 1024px;
+  margin: auto;
+  padding: 0 16px;
+
+  h1 {
+    text-align: center;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 49px;
+    white-space: normal;
+    margin: 100px auto 60px;
+    @media (max-height: 750px) {
+      margin: 30px auto 60px;
+    }
+  }
+
+  .ais-search-box {
+    width: 100%;
+    max-width: 100%;
+    display: block;
+    margin: 30px auto;
+  }
+  .ais-search-box--input {
+    font-size: 18px;
+    line-height: 1.2;
+    padding: 15px 15px 15px 54px;
+    height: 52px;
+    box-shadow: @bshadow;
+    -webkit-box-shadow: @bshadow;
+    transition-duration: .2s;
+    border: 0;
+    &:focus, &:hover {
+      box-shadow: @bshadow-hover;
+      -webkit-box-shadow: @bshadow-hover;
+    }
+  }
+  .ais-search-box--loading-indicator-wrapper,
+  .ais-search-box--magnifier {
+    left: 20px;
+    top: ~"calc(50% - 13px/2)";
+  }
+  .ais-search-box--reset {
+    top: ~"calc(50% - 8px/2)";
+    right: 20px;
+  }
+  .ais-pagination--item__active {
+    background: @link-color;
+  }
+
+  @media (max-width: 1056px) {
+    width: auto;
+    max-width: 1024px;
+  }
+}
+
+.hhome-cards {
+  display: flex;
+  align-content: center;
+  margin: 60px -30px 0 0 ;
+  flex-wrap: wrap;
+
+  .card {
+    flex: 1 0 25%;
+    display: flex;
+    align-items: center;
+
+    padding: 20px;
+    margin: 0 30px 30px 0;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: @bshadow;
+    -webkit-box-shadow: @bshadow;
+    transition-duration: .2s; 
+
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: @bshadow-hover;
+      -webkit-box-shadow: @bshadow-hover;
+    }
+
+    img {
+      margin-right: 20px;
+      flex: 0 0 48px;
+      width: 48px;
+    }
+
+    h2 {
+      margin: 0 0 10px;
+    }
+
+    .description {
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 20px;
+      letter-spacing: 0.3px;
+      color: @text-color;
+    }
+
+    @media (max-width: 1000px) {
+      flex: 1 0 45%;
+    }
+    @media (max-width: 700px) {
+      flex: 1 0 90%;
+    }
+  }
+}
+
+.hresults {
+  #hits {
+    margin-top: 60px;
+  }
+  .result-item {
+    margin: 30px 0;
+    cursor: pointer;
+  }
+  .title {
+    display: flex;
+    span {
+      flex: 1 1 auto;
+    }
+    img {
+      width: 24px;
+    }
+  }
+  .doc-content p {
+    margin-bottom: 0;
+  }
+  .ais-Highlight {
+    color: @link-color;
+    font-weight: bold;
+  }
+  // Pagination
+  #pagination-container {
+    display: flex;
+    justify-content: center;
+  }
+  .ais-pagination {
+    border: none;
+  }
+}
