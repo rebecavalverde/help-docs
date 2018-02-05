@@ -1,18 +1,25 @@
 ---
-title: Flat for Google Docs and Google Slides
-description: Easily add music notation in your Google Docs and Slides with our free add-on
+title: Flat APIs and Embed
+description: Embed music notation in your websites and use our APIs
 nav: general
-pid: gdocs
-permalink: en/general/flat-for-google-docs-music-notation.html
+pid: dev
+permalink: en/general/developers-api-embed.html
 ---
 
-Use Flat's web-based music notation editor to quickly create music notation or tablature in your docs and presentations, get our [Google Docs](https://chrome.google.com/webstore/detail/flat-for-docs-music-notat/fgcopphfnfiaephabcmnaclbdgjjkmaj) and [Google Slides](https://chrome.google.com/webstore/detail/flat-for-slides-music-not/aahnkkbdaknlhinhidfedfblacekahlb) free add-ons.
+Discover our [dedicated developer resources](https://flat.io/developers) to use great technologies in your projects or products or extend our platform capabilities.
 
-[![Music notation in Google Docs and Google Slides]({{'/assets/img/google-docs/music-notation.png' | relative_url}})](https://chrome.google.com/webstore/detail/flat-for-docs-music-notat/fgcopphfnfiaephabcmnaclbdgjjkmaj)
+## [Embed your sheet music on the web](https://flat.io/developers/embed)
 
+Use Flat’s powerful music notation engraving and playback engines in your website or blog to make available any sheet music to your users.
 
-You don't need a Flat account to create the music notation and, simply open our free add-on, enter your notation and click on "Insert". If you need help regarding the editor, [check out the dedicated help](/help/en/music-notation-software/). This add-on is a lite version of our [web-based & collaborative notation software](https://flat.io), and doesn't include all the options available in our dedicated tool.
+## [REST API](https://flat.io/developers/docs/api/)
 
-The notation inserted in your document works like a picture and doesn't have our playback included (you can still play it later, simply select the inserted image and open the add-on again). If you would like to see audio/sounds included in Google Docs/Slides in the future, feel free send a feature request to their product teams (Help > Docs Help > Send feedback).
+Build your app on the top of the Flat platform and easily interact with the best web music notation software.
 
-**If you need help regarding this add-on, please contact us at [google-docs@flat.io](mailto:google-docs@flat.io)**. If you like it, please give us a review on the store and share it to your friends!
+## [Import API](https://flat.io/developers/docs/import/) ("Edit on Flat")
+
+The Import API is the easiest way to add scores to your users’ Flat accounts. With two clicks, a user can edit any sheet music available on the Internet. This component can be simply integrated into your website or app with just a few lines of code.
+
+## Need help?
+
+[Contact our team (developers@flat.io)](mailto:developers@flat.io) if you need any support regarding our APIs and Embed.
