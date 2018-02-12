@@ -4,26 +4,27 @@
     <a href="{{site.baseurl}}/en/music-notation-software/create-your-first-music-score.html" class="{% if page.pid == 'first-score' %}active{% endif %}">Create your first score</a> <!-- 'editor.import' -->
     <a href="{{site.baseurl}}/en/music-notation-software/discover-the-interface.html" class="{% if page.pid == 'discover-interface' %}active{% endif %}">Discover the interface</a>
     <a href="{{site.baseurl}}/en/music-notation-software/inputting-your-first-notes.html" class="{% if page.pid == 'first-notes' %}active{% endif %}">Inputting your first notes</a>
-    <a href="">Add a time signature</a> <!-- 'editor.timesig' -->
-    <a href="">Add a key signature</a> <!-- 'editor.keysig' -->
+    <a href="{{site.baseurl}}/en/music-notation-software/timesig.html" class="{% if page.pid == 'timesig' %}active{% endif %}">Add a time signature</a> <!-- 'editor.timesig' -->
+    <a href="{{site.baseurl}}/en/music-notation-software/keysig.html" class="{% if page.pid == 'keysig' %}active{% endif %}">Add a key signature</a> <!-- 'editor.keysig' -->
     <a href="https://flat.io/support/editor?m=shortcuts">Keyboard shortcuts</a>
   </div>
 
   <div class="nav-title">App features</div>
   <div class="items">
-    <a>Playback</a> <!-- 'editor.player','editor.volume','editor.reverb','editor.swing','editor.deactivatemetronome' -->
     <a href="https://blog.flat.io/introducing-smart-history/">Smart History</a> <!-- 'editor.smarthistory' -->
-    <a>Share and collaborate</a> <!-- 'editor.share','editor.sharepeople' -->
+    <a href="{{site.baseurl}}/en/music-notation-software/share-collaborate.html" class="{% if page.pid == 'share-collaborate' %}active{% endif%}">Share and collaborate</a> <!-- 'editor.sharepeople' -->
+    <a href="{{site.baseurl}}/en/music-notation-software/playback.html" class="{% if page.pid == 'playback' %}active{% endif%}">Playback</a> <!-- 'editor.player','editor.volume','editor.reverb','editor.swing','editor.deactivatemetronome' -->
+    <a href="https://blog.flat.io/synchronize-external-audio-sources-with-flat/">External Audio sources</a>
     <a href="https://blog.flat.io/get-the-most-of-the-new-inline-comments/">Inline comments</a> <!-- 'editor.inlinecomments' -->
   </div>
 
   <div class="nav-title">Document</div>
   <div class="items">
-    <a>Instruments</a> <!-- 'editor.instruments' -->
-    <a>Print and export</a> <!--  'editor.export', 'editor.print', 'editor.printpart','editor.multimeasurerests' -->
+    <a href="{{site.baseurl}}/en/music-notation-software/instruments.html" class="{% if page.pid == 'instruments' %}active{% endif %}">Instruments</a> <!-- 'editor.instruments' -->
+    <a href="{{site.baseurl}}/en/music-notation-software/print-export.html" class="{% if page.pid == 'print-export' %}active{% endif %}">Print and Export</a> <!--  'editor.export', 'editor.print', 'editor.printpart','editor.multimeasurerests' -->
   </div>
 
-  <div class="nav-title">Note mode</div>
+  <!-- <div class="nav-title">Note mode</div> -->
   {% if page.editormode == 'notes' %}
   <div class="items">
     <a href="">Inputting notes</a> <!-- 'editor.addnote' / 'editor.changeduration' -->
@@ -32,19 +33,19 @@
   </div>
   {% endif %}
 
-  <div class="nav-title">Articulation mode</div>
+  <!-- <div class="nav-title">Articulation mode</div> -->
   {% if page.editormode == 'articulation' %}
   {% endif %}
 
-  <div class="nav-title">Dynamic mode</div>
+  <!-- <div class="nav-title">Dynamic mode</div> -->
   {% if page.editormode == 'dynamic' %}
   {% endif %}
 
-  <div class="nav-title">Measure mode</div>
+  <!-- <div class="nav-title">Measure mode</div> -->
   {% if page.editormode == 'measure' %}
   {% endif %}
 
-  <div class="nav-title">Text mode</div>
+  <!-- <div class="nav-title">Text mode</div> -->
   {% if page.editormode == 'text' %}
   <div class="items">
     <a>Lyrics</a> <!--'editor.lyrics','editor.multilineslyrics','editor.lyricsspaces','editor.lyricshyphens'-->

@@ -10,7 +10,7 @@ Discover our [dedicated developer resources](https://flat.io/developers) to use 
 
 ## [Embed your sheet music on the web](https://flat.io/developers/embed)
 
-Use Flat’s powerful music notation engraving and playback engines in your website or blog to make available any sheet music to your users.
+Use Flat's powerful music notation engraving and playback engines in your website or blog to make available any sheet music to your users.
 
 ## [REST API](https://flat.io/developers/docs/api/)
 
@@ -18,7 +18,7 @@ Build your app on the top of the Flat platform and easily interact with the best
 
 ## [Import API](https://flat.io/developers/docs/import/) ("Edit on Flat")
 
-The Import API is the easiest way to add scores to your users’ Flat accounts. With two clicks, a user can edit any sheet music available on the Internet. This component can be simply integrated into your website or app with just a few lines of code.
+The Import API is the easiest way to add scores to your users' Flat accounts. With two clicks, a user can edit any sheet music available on the Internet. This component can be simply integrated into your website or app with just a few lines of code.
 
 ## Need help?
 

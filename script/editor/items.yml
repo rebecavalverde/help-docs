@@ -1,0 +1,22 @@
+print:
+  tpl: content
+printpart:
+  tpl: content
+multimeasurerests:
+  tpl: content
+export:
+  skip: true
+share:
+  skip: true
+player:
+  tpl: content
+volume:
+  tpl: content
+reverb:
+  tpl: content
+swing:
+  tpl: content
+deactivatemetronome:
+  tpl: content
+sharepeople:
+  tpl: content

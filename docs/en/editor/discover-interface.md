@@ -12,8 +12,8 @@ We designed our editor interface to be really simple and easy-to-use, discover i
 
 ![Flat Web App: Web-based music notation editor](/help/assets/img/editor/editor-overview-highlights.png)
 
-1. The playback and MIDI devices settings
-2. Collaboration tools: Smart History, Collaborators and Sharing/Publication settings
+1. The [playback](/help/en/music-notation-software/playback.html) and [MIDI devices settings](https://flat.io/midi-devices/setup).
+2. Collaboration tools: [Smart History](https://blog.flat.io/introducing-smart-history/), [Collaborators and Sharing/Publication](/help/en/music-notation-software/share-collaborate.html) settings.
 3. Toolbars with all the notation tools
 4. Your music notation
 5. For touch screens: a small piano that allows you to quickly inputs notes and chords. You can also open it anytime using the icon on the right of the toolbar.

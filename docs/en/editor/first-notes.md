@@ -4,7 +4,7 @@ description: Discover the different ways to inputting your first music notes on 
 nav: editor
 pid: first-notes
 permalink: en/music-notation-software/inputting-your-first-notes.html
-nexturl: en/music-notation-software/inputting-your-first-notes.html
+nexturl: en/music-notation-software/timesig.html
 nexttext: Add a time signature
 ---
 
