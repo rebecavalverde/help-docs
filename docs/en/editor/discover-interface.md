@@ -10,7 +10,7 @@ nexttext: Inputting your first notes
 
 We designed our editor interface to be really simple and easy-to-use, discover its main elements:
 
-![Flat Web App: Web-based music notation editor]({{'/assets/img/editor/editor-overview-highlights.png' | absolute_url}})
+![Flat Web App: Web-based music notation editor](/help/assets/img/editor/editor-overview-highlights.png)
 
 1. The playback and MIDI devices settings
 2. Collaboration tools: Smart History, Collaborators and Sharing/Publication settings

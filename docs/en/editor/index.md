@@ -14,4 +14,4 @@ Flat is **the first music notation software that anyone can use**. Available rig
 
 Thanks to the web technologies, all the tools needed to view, compose, arrange, collaborate, print, export and share your sheet music are now available to use by anyone! From MIDI devices to real-time collaboration and  full history of all your modifications, the best innovative features from Flat will help you in your daily creations!
 
-[![Flat - Music Score Editor Webapp]({{'/assets/img/editor/online-music-notation-software-overview.png' | absolute_url}})](https://flat.io)
+[![Flat - Music Score Editor Webapp](/help/assets/img/editor/online-music-notation-software-overview.png)](https://flat.io)

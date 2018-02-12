@@ -14,7 +14,7 @@ To create your first music score with Flat and get starting writing your music n
 
 Once you are logged in to Flat, click on the button ["New music score"](https://flat.io/score?m=newscore) on your main dashboard page, or the icon available in the navigation on the top right of your screen on any dashboard page.
 
-[![Create a new score (Navigation)]({{'/assets/img/editor/create-score-nav.png' | absolute_url}})](https://flat.io/score?m=newscore)
+[![Create a new score (Navigation)](/help/assets/img/editor/create-score-nav.png)](https://flat.io/score?m=newscore)
 
 ## 2. Choose the document title or import a MusicXML/MIDI file
 
@@ -22,13 +22,13 @@ You now have the window opened to create your document, choose a title for this 
 
 **Import**: At this time, we support **MusicXML (*.xml / *.mxl) and MIDI** files. If you are using another software, you should be able to export your files to one of these formats (we recommend you to export them as MusicXML, so you will have the exact music notation imported to Flat).
 
-[![Choose the title]({{'/assets/img/editor/create-score-title.png' | absolute_url}})](https://flat.io/score?m=newscore)
+[![Choose the title](/help/assets/img/editor/create-score-title.png)](https://flat.io/score?m=newscore)
 
 ## 3. Add the instruments
 
 Last step, choose the different instruments you want to add to this document. We have today over 100 instruments available, sorted into different categories. 
 
-[![Add the instruments]({{'/assets/img/editor/create-score-instruments.png' | absolute_url}})](https://flat.io/score?m=newscore)
+[![Add the instruments](/help/assets/img/editor/create-score-instruments.png)](https://flat.io/score?m=newscore)
 
 **Tablatures**: If you choose a plucked string instrument, by default we will add a tablature to this one. You can disable this feature on the top of the instruments listing.
 
