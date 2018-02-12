@@ -1,5 +1,5 @@
 ---
-title: Flat - Music Notation Software - Help
+title: Online Music Notation Software - Get started
 description: Get help and learn how to use our music notation software and its online music score editor
 nav: editor
 pid: editor

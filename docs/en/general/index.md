@@ -1,5 +1,5 @@
 ---
-title: Flat Platform - FAQ
+title: Platform - FAQ
 description: Do you have a question about Flat? Our FAQ is here for you
 nav: general
 pid: faq
