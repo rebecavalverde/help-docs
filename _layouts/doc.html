@@ -9,4 +9,12 @@ layout: default
 <div class="page">
   {% unless page.notitle %}<h1>{{ page.title }}</h1>{% endunless %}
   <div class="doc-content">{{ content }}</div>
+  {% if page.nexturl and page.nexttext %}
+  <div class="doc-footer">
+    <a href="{{site.baseurl}}/{{page.nexturl}}" title="Next: {{page.nexttext}}" class="doc-next">
+      <span>{{page.nexttext}}</span>
+      <img src="/help/assets/img/arrow-next.svg">
+    </a>
+  </div>
+  {% endif %}
 </div>

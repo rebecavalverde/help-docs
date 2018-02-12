@@ -19,7 +19,6 @@ https://*.flat.io
 https://*.flat-cdn.com
 https://*.flat-embed.com
 https://flat-prod-*.s3.amazonaws.com
-https://flat-prod-*.*.digitaloceanspaces.com
 ```
 
 ## Providers
