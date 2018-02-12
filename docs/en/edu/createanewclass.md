@@ -40,7 +40,7 @@ In this last case, a new window opens. You can create manually new accounts for 
 If you want, you can set a common password for these new accounts. For that, click on the tik box below "Create new accounts for your students".
 If you have a lot of accounts to create, you can import a spreadsheet in the format .CSV.
 
-![create new accounts for your students](/help/assests/img/createaclass/createnewaccountsforyoourstudents.PNG)
+![create new accounts for your students](/help/assets/img/createaclass/createnewaccountsforyoourstudents.PNG)
 
 **Import**: Format your CSV file with 2 or 3 column like the above input: the username in the first column, the password in the second one, and optionally the email in the third one. If you want to use a common password, you can upload a CSV with only a single column (the username).
 
