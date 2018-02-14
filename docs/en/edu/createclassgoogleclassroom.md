@@ -19,7 +19,7 @@ Then, click on the button **"Create a new class"** in the centre of your screen.
 
 
 ## 2. Choose "Create using Google Classroom."
-You don't need to enter a class name. Click on the button "Create using Google Classroom."
+You don't need to enter a class name. Click on the button **"Create using Google Classroom."**
 
 ![create using Google Classroom](/help/assets/img/create-a-class-with-gc/create1.PNG)
 
@@ -27,7 +27,7 @@ You don't need to enter a class name. Click on the button "Create using Google C
 Insert your email address and your password.
 
 ## 4. Select a course from your Google Classroom
-Once you have connected your Google Classroom account with Flat, you will see your courses. Select one to create your new class on Flat.
+Once you have connected your Google Classroom account with Flat, you will see your courses. **Select one to create your new class on Flat**.
 
 ![select a course on from google classroom](/help/assets/img/create-a-class-with-gc/create2.PNG)
 
