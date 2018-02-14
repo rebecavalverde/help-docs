@@ -23,6 +23,8 @@ You now have a new page opened where you can create and manage your class. 2 way
 
 ![choose a name for your new class](/help/assets/img/createaclass/chooseanameforyournewclass.PNG)
 
+If you use Google Classroom, click on the link above.
+
 ## 3. Invite your students to your new class
 
 (link to Invite students)
