@@ -55,6 +55,27 @@
     }
   }
 
+  
+  h1, h2, h3, h4 {
+    display: flex;
+    align-items: center;
+
+    .header-link {
+      display: none;
+      height: 20px;
+      margin-left: 8px;
+    }
+
+    img {
+      height: 20px;
+      border: 0;
+    }
+
+    &:hover .header-link {
+      display: block;
+    }
+  }
+
   @table-border: #C9CFD5;
   table {
     width: 100%;
