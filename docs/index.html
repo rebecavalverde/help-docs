@@ -81,11 +81,19 @@ layout: default
         instantsearch.widgets.hits({
           container: '#hits',
           templates: {
-            empty: 'No results',
+            empty: '<div class="hhome-cards">' +
+                '<a class="card card-support" href="mailto:hello@flat.io" onClick="Intercom(\'show\');return false;">' +
+                  '<img src="/help/assets/img/home-email.svg">' +
+                  '<div class="t">' +
+                    '<h2>Ask our team</h2>' +
+                    '<div class="description">We couldn\'t find the answer that you need in our help, but our team is here to help you.<br>Drop us a line and our product team will get back to you shortly.</div>' +
+                  '</div>' +
+                '</a>' +
+              '</div>',
             item: function (hit) {
-              return '<div class="result-item" onclick="location.href = \'{{site.baseurl}}' + hit.url + '\';return false">' +
-                  '<a class="title result-link" href="{{site.baseurl}}' + hit.url + '"><span>' + hit._highlightResult.title.value + '</span><img src="/help/assets/img/arrow-circle-right.svg"></a>' +
-                  '<div class="doc-content">' + hit._highlightResult.html.value + '</div>' +
+              return '<div class="result-item" onclick="location.href = \'/help' + hit.url + '\';return false">' +
+                '<a class="title result-link" href="/help' + hit.url + '"><span>' + hit._highlightResult.title.value + '</span><img src="/help/assets/img/arrow-circle-right.svg"></a>' +
+                '<div class="doc-content">' + hit._highlightResult.html.value + '</div>' +
                 '</div>';
             }
           },
