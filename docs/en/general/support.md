@@ -1,5 +1,6 @@
 ---
 title: Get help and support
+ptitle: Get help and support for Flat
 description: Need help or support for Flat or Flat for Education?
 nav: general
 pid: support

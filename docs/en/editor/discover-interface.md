@@ -1,5 +1,6 @@
 ---
 title: Discover the interface
+ptitle: Discover the interface of our online sheet music writer.
 description: Get started with our online music score editor, discover the main elements of our user interface
 nav: editor
 pid: discover-interface

@@ -1,5 +1,6 @@
 ---
 title: Technical requirements
+ptitle: Technical requirements for Flat
 description: The technical requirements to use Flat and Flat for Education.
 nav: general
 pid: techreq

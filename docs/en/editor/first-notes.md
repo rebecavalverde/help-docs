@@ -1,5 +1,6 @@
 ---
 title: Inputting your first notes
+ptitle: Inputting your first notes and get started with our score editor
 description: Discover the different ways to inputting your first music notes on Flat and write your music notation online
 nav: editor
 pid: first-notes

@@ -1,6 +1,7 @@
 ---
 title: Flat for Google Docs and Google Slides
-description: Easily add music notation in your Google Docs and Slides with our free add-on
+ptitle: Add music notation in your Google Docs and Google Slides
+description: Discover our free add-ons for G Suite. In a few clicks, insert any music notation in your Google Docs and Google Slides slides.
 nav: general
 pid: gdocs
 permalink: en/general/flat-for-google-docs-music-notation.html

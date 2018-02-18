@@ -1,6 +1,7 @@
 ---
 title: Flat APIs and Embed
-description: Embed music notation in your websites and use our APIs
+ptitle: Embed your music notation in your websites and use our APIs
+description: "Flat is used by more 1 million composers and musicians today. Discover our free APIs to use in your projects: Music engraving, Sheet music sharing and more."
 nav: general
 pid: dev
 permalink: en/general/developers-api-embed.html

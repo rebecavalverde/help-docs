@@ -1,5 +1,6 @@
 ---
 title: Create your first music score
+ptitle: Create your first music notation with our free score editor
 description: Get started with Flat, the online music notation software, learn how to create your first sheet music on the platform.
 nav: editor
 pid: first-score

@@ -11,5 +11,6 @@
   <link href="/help/assets/instantsearch/instantsearch.min.css" rel="stylesheet" type="text/css">
   <link href="/help/assets/instantsearch/instantsearch-theme-algolia.min.css" rel="stylesheet" type="text/css">
   <script src="/help/assets/instantsearch/instantsearch.min.js"></script>
-  {% seo %}
+  <title>{{page.ptitle | default: page.title}}</title>
+  {% seo title=false %}
 </head>
