@@ -17,19 +17,19 @@ Discover today the perks of using Flat with Google Classroom and why thousands o
 
 ## Start using Google Classroom course on Flat in 3 minutes
 
-Simply [choose the classes that will use Flat](help/en/education/google-classroom/setup-course.html), we will automatically create accounts for your students and [instantly handle the future rosters changes](/help/en/education/google-classroom/faq.html#what-is-the--instant-roster-update).
+Simply [choose the classes that will use Flat](/help/en/education/google-classroom/setup-course.html), we will automatically create accounts for your students and [instantly handle the future rosters changes](/help/en/education/google-classroom/faq.html#what-is-the--instant-roster-update).
 Your students and colleague can directly sign-in to your Flat Private website in 1-click with their G Suite for Education accounts.
 
 ## The same experience than Docs or Slides, but with music notation
 
-Create assignments with Flat just like you would create assignments with Docs or Slides.
+[Create assignments with Flat](/help/en/education/google-classroom/create-music-notation-assignment.html) just like you would create assignments with Docs or Slides.
 You have the exact same features and experience. You can either let your students create a new document, share them a template that will make copies, or live-collaboration with your complete group on a single music score.
 
 ![Create an assignment Flat](/help/assets/img/edu/editor-new-assignment.png)
 
 ## Onboard your students directly from your Google Classroom Stream
 
-All your Flat assignments show up in your Google Classroom Stream. Your students just have to click on the posted assignment to be ready to use Flat and start working on their project.
+[All your Flat assignments show up in your Google Classroom Stream](/help/en/education/google-classroom/student-experience.html). Your students just have to click on the posted assignment to be ready to use Flat and start working on their project.
 Unlike other music notation software, Flat is really easy and user-friendly: your students will quickly have their first notes added to their creation.
 
 ![Music composition assignment on Google Classroom](/help/assets/img/edu/gc-stream-student.png)
@@ -42,7 +42,7 @@ As soon as your students start their assignments, you can see their work and giv
 
 ## Turning in work from Flat
 
-Students can directly turn-in their assignment from our web-based music notation software. We will directly bring them back to their submission on Google Classroom.
+[Students can directly turn-in their assignment](/help/en/education/google-classroom/student-experience.html#turn-in) from our web-based music notation software. We will directly bring them back to their submission on Google Classroom.
 
 ![Turn in From Flat](/help/assets/img/edu/editor-student-turnin-button.png)
 

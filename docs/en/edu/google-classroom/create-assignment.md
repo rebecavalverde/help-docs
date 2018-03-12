@@ -5,6 +5,8 @@ description: From music composition to music theory and live collaborations, Fla
 nav: edu
 pid: gc-create-assignment
 permalink: en/education/google-classroom/create-music-notation-assignment.html
+nexttext: How do my students will experience Flat with Google classroom?
+nexturl: en/education/google-classroom/student-experience.html
 ---
 
 Flat gives you a really similar experience than creating an assignment on Google Classroom using a regular Google Docs/Slides. From **music composition to music theory and live collaborations**, Flat allows you to easily create any assignments that include music notation.
@@ -51,3 +53,4 @@ Once you click on "*Post*", your assignment will be available in your Google Cla
 
 ![Flat assignment example](/help/assets/img/edu/stream-assignment-gc.png)
 
+You can now discover [how your students will experience Flat with Google Classroom](/help/en/education/google-classroom/student-experience.html).

@@ -4,6 +4,8 @@ description: Get started with Flat for Education, consult our help and info rega
 nav: edu
 pid: gc-setup-course
 permalink: en/education/google-classroom/setup-course.html
+nexttext: Create my first Flat activity or assignment with Google Classroom
+nexturl: en/education/google-classroom/create-music-notation-assignment.html
 ---
 
 *You will need a Flat for Education account to use this feature, [check out the introduction](/help/en/education/google-classroom/).*
