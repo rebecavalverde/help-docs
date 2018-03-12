@@ -17,7 +17,7 @@ Discover today the perks of using Flat with Google Classroom and why thousands o
 
 ## Start using Google Classroom course on Flat in 3 minutes
 
-Simply choose the classes that will use Flat, we will automatically create accounts for your students and [instantly handle the future rosters changes](https://blog.flat.io/instant-roster-updates-from-google-classroom/).
+Simply [choose the classes that will use Flat](help/en/education/google-classroom/setup-course.html), we will automatically create accounts for your students and [instantly handle the future rosters changes](/help/en/education/google-classroom/faq.html#what-is-the--instant-roster-update).
 Your students and colleague can directly sign-in to your Flat Private website in 1-click with their G Suite for Education accounts.
 
 ## The same experience than Docs or Slides, but with music notation
