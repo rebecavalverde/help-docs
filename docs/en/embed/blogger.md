@@ -11,7 +11,7 @@ Blogger allows you to embed any custom HTML code. That's a good opportunity to e
 
 ## 1. Create or import your sheet music on Flat
 
-To insert your Flat score in your Google Site, [you will need a Flat account if you don't have one](https://flat.io/auth/signup). You can then upload your score using a MusicXML or MIDI file, or directly create it online using our web-based music notation software. Check [out our dedicated help if you need more information](/help/en/music-notation-software/create-your-first-music-score.html).
+To insert the Flat score into your Blog, [you will need a Flat account if you don't have one](https://flat.io/auth/signup). You can then upload your score using a MusicXML or MIDI file, or directly create it online using our web-based music notation software. Check [out our dedicated help if you need more information](/help/en/music-notation-software/create-your-first-music-score.html).
 
 ## 2. Copy our HTML code
 
