@@ -1,3 +1,7 @@
 [build]
+  command = "npm run build && mv _site _site_help && mkdir _site && mv _site_help _site/help"
+  publish = "_site"
+
+[context.branch-master]
   command = "npm run build && jekyll algolia && mv _site _site_help && mkdir _site && mv _site_help _site/help"
   publish = "_site"
