@@ -20,3 +20,5 @@ deactivatemetronome:
   tpl: content
 sharepeople:
   tpl: content
+instruments:
+  skip: true
