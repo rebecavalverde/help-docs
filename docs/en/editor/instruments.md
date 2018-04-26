@@ -15,7 +15,7 @@ When creating a new score, you have the option to add one or multiple instrument
 
 The chosen instruments are displayed on the right of the screen, they will be added to the score in the displayed order. You can drag and drop them to sort them.
 
-[![Add the instruments](/help/assets/img/editor/create-score-instruments.png)](https://flat.io/score?m=newscore)
+[![Add the instruments](/help/assets/img/editor/create-score-instruments.png)](https://flat.io/my-library?m=newscore)
 
 If you want to create a TAB, check the displayed option "Tabs mode". Tablatures can also be turned on or off later in the instruments settings ([see below](#changing-instruments-in-a-score)).
 
