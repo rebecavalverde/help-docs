@@ -4,6 +4,7 @@ ptitle: Technical requirements for Flat
 description: The technical requirements to use Flat and Flat for Education.
 nav: general
 pid: techreq
+copyright: true
 permalink: en/general/technical-requirements.html
 ---
 

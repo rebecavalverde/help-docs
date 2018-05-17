@@ -1,4 +1,8 @@
-{% if page.pid != 'home' %}
+{% if page.copyright %}
+<div class="footer">
+  <p class="footer-contribute">Copyright © 2015 - 2018 Tutteo Ltd.</p>
+</div>
+{% else if page.pid != 'home' %}
 <div class="footer">
   <p class="footer-contribute">
     This content is <a href="{{site.baseurl}}/notices.html">released under CC-BY-SA-4.0 (see general notices)</a>.

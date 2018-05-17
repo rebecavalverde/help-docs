@@ -3,10 +3,11 @@ title: Data and infrastructure
 description: Information about Flat's hosting infrastructure
 nav: general
 pid: data-infra
+copyright: true
 permalink: en/general/data-infrastructure.html
 ---
 
-Our platform uses multiple Cloud Infrastructure providers (IaaS) to run Flat. To provide the best performances, security, and service, these providers and datacenters are located in multiple countries. We also replicate data across multiple countries.
+Our platform uses multiple cloud providers and subprocessors to run Flat. To provide the best performances, security, and service, these providers and datacenters are located in multiple countries. We also replicate data across multiple countries.
 
 ## Domain names
 
@@ -21,15 +22,30 @@ https://*.flat-embed.com
 https://flat-prod-*.s3.amazonaws.com
 ```
 
-## Providers
+## Infrastructure providers
 
 Flat uses the following providers for its production infrastructure:
 
 | Provider & Entity Country | Hosting Country |
 |:--------------------------|:-----------------------|
-| Amazon Web Services, Inc. (US) | US |
-| DigitalOcean, LLC (US) | US, NL |
-| OVH UK Ltd. (UK) and OVH SAS (FR) | CA, FR |
+| Amazon Web Services Inc. (US) | US |
+| DigitalOcean LLC. (US) | US, NL |
+| OVH UK Ltd. (UK) | CA, FR |
 | Online SAS (FR) | FR |
 
 We also use some additional CDN providers to serve our static app content (which doesn't contain any User Information or User Content).
+
+## Subprocessors
+
+In order to provide our service in the best conditions, we use the following sub-processors. You can find for each of them, the service provided a short explanation about what we do provide through them.
+
+| Subprocessor Name | Service | Usage and Country |
+| ------------------|:--------|:------|
+| Amazon Web Services Inc. | IaaS provider | We use Amazon Web Services for their data storage and email service (in the US). |
+| DigitalOcean LLC. | IaaS provider | We use Digital Ocean for their compute and data storage (in the US and the Netherlands). |
+| OVH UK Ltd. | IaaS provider | We use OVH for their data storage (in France and Canada). |
+| Google LLC. | PaaS/SaaS provider | We use Google for G Suite, Google Cloud, Firebase, Fabric and Google Analytics. |
+| Intercom, Inc. | SaaS provider | We use Intercom for our support tool. |
+| Stripe, Inc. | Payment provider | We use Stripe to process payments on the platform. |
+| PayPal Holdings, Inc. | Payment Provider | We use Paypal to process payments on the platform. |
+| Xero (UK) Ltd. | SaaS provider | We use Xero for the accounting and invoicing of our company. |
