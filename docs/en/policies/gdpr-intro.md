@@ -3,7 +3,7 @@ title: Approach to GDPR
 description: All our ressources to all the questions about GDPR
 nav: general
 pid: gdpr
-permalink: en/general/gdpr-introduction.html
+permalink: en/policies/approach-to-gdpr.html
 copyright: true
 ---
 
@@ -21,7 +21,7 @@ Since the beginning of 2018, we (the entire team) have been actively working to:
 * We picked and designated a Data Protection Officer that will ensure that personal data security is always ensured!
 * We reviewed our entire infrastructure to ensure that we respect every state of the art security practice.
 * We reviewed all our vendors, find out about their GDPR plans to arrange GDPR compliant data processing agreement.
-* We have updated our Privacy Policy and provided a Data processing appendum for schools to reflect our data security commitment.
+* We have updated our Privacy Policy and provided a Data processing addendum for schools to reflect our data security commitment.
 * In order to reinforce our transparency about customer data usage we listed and created a clear explanation for every single one.
 
 ### Understand the GDPR
@@ -69,7 +69,7 @@ We took the advantage of the GDPR to make some enhancements to the platform, her
 
 ### DPA for schools
 
-We now provide a dedicated [data processing appendum (DPA)](...) for schools using [Flat for Education](https://flat.io/edu).
+We now provide a dedicated [data processing addendum (DPA)](...) for schools using [Flat for Education](https://flat.io/edu).
 
 ### Privacy Policy
 

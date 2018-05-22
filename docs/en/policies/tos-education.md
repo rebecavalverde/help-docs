@@ -2,11 +2,11 @@
 title: Flat - Terms of Service - Education user
 permalink: en/policies/terms-of-service-education.html
 nav: general
+pid: terms
 copyright: true
 ---
 
 *These Terms of Service apply to every users using Flat for Education. To view all our policies, check out the [index](/help/en/policies). This is the current version of these terms, dated 5 January 2016.*
-
 
 ## 1. Welcome to Flat
 

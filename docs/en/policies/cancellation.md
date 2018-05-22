@@ -2,6 +2,7 @@
 title: Flat - EU cancellation Policy
 permalink: en/policies/cancellation-policy.html
 nav: general
+pid: terms
 copyright: true
 ---
 

@@ -2,6 +2,7 @@
 title: Age requirements on Flat accounts (Individual users)
 permalink: en/policies/required-age.html
 nav: general
+pid: terms
 copyright: true
 ---
 

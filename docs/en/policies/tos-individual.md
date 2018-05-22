@@ -2,6 +2,7 @@
 title: Flat - Terms of Service - Individual user
 permalink: en/policies/terms-of-service-individual.html
 nav: general
+pid: terms
 copyright: true
 ---
 
