@@ -6,7 +6,7 @@ pid: terms
 copyright: true
 ---
 
-*These Terms of Service apply schools and businesses using [Flat for Education](https://flat.io/edu). To view all our policies, check out the [index](/help/en/policies). This is the current version of these terms, dated 23 May 2018.*
+*These Terms of Service apply schools and businesses using [Flat for Education](https://flat.io/edu). To view all our policies, check out the [index](/help/en/policies). This is the current version of these terms, dated 24 May 2018.*
 
 These Terms of Service set out the terms and conditions upon which you may use the Service and any application or functionality Flat makes available through the Service.
 

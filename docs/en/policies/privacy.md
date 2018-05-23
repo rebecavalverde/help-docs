@@ -6,7 +6,7 @@ pid: terms
 copyright: true
 ---
 
-*This Privacy Policy applies all users. To view all our policies, check out the [index](/help/en/policies). This is the current version of these terms, dated 23 May 2018.*
+*This Privacy Policy applies all users. To view all our policies, check out the [index](/help/en/policies). This is the current version of these terms, dated 24 May 2018.*
 
 ## 1. Flat approach to privacy
 

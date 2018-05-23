@@ -26,7 +26,7 @@ In the United States, Flat is distributed by Tutteo Inc., a company registered i
 
 If you are an individual user of our public platform, the following terms apply to you:
 
-* [Privacy Policy](/help/en/policies/privacy-policy.html) *(Last Update: May 23, 2018)*
+* [Privacy Policy](/help/en/policies/privacy-policy.html) *(Last Update: May 24, 2018)*
   * [Annex 1 - Personal information we collect](/help/en/policies/privacy-policy-annex-1-information-collected.html)
   * [Annex 2 - Personal information collected automatically](/help/en/policies/privacy-policy-annex-2-collected-automatically.html)
   * [Annex 3 - Cookies](/help/en/policies/privacy-policy-annex-3-cookies.html)
@@ -37,12 +37,12 @@ If you are an individual user of our public platform, the following terms apply 
 
 If you are a school or business using our dedicated education product [Flat for Education](https://flat.io/edu), the following terms apply to you:
 
-* [Privacy Policy](/help/en/policies/privacy-policy.html) *(Last Update: May 23, 2018)*
+* [Privacy Policy](/help/en/policies/privacy-policy.html) *(Last Update: May 24, 2018)*
   * [Annex 1 - Personal information we collect](/help/en/policies/privacy-policy-annex-1-information-collected.html)
   * [Annex 2 - Personal information collected automatically](/help/en/policies/privacy-policy-annex-2-collected-automatically.html)
   * [Annex 3 - Cookies](/help/en/policies/privacy-policy-annex-3-cookies.html)
-* [Business Terms of Service](/help/en/policies/terms-of-service-business.html) *(Last Update: May 23, 2018)*
-* [Data Processing Addendum](/help/en/policies/data-processing-addendum.html) *(Last Update: May 23, 2018)*
+* [Business Terms of Service](/help/en/policies/terms-of-service-business.html) *(Last Update: May 24, 2018)*
+* [Data Processing Addendum](/help/en/policies/data-processing-addendum.html) *(Last Update: May 24, 2018)*
 * For you and your users: [Education Terms of Service](/help/en/policies/terms-of-service-education.html) *(Last update: 5 January 2016)*
 
 ## Frequently Asked Questions (FAQ) about our terms

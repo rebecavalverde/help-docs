@@ -6,7 +6,7 @@ pid: terms
 copyright: true
 ---
 
-*This Data Processing Addendum applies schools and businesses using [Flat for Education](https://flat.io/edu). To view all our policies, check out the [index](/help/en/policies). This is the current version of these terms, dated 23 May 2018.*
+*This Data Processing Addendum applies schools and businesses using [Flat for Education](https://flat.io/edu). To view all our policies, check out the [index](/help/en/policies). This is the current version of these terms, dated 24 May 2018.*
 
 ## Background
 
