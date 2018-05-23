@@ -6,9 +6,9 @@ pid: policies-index
 copyright: true
 ---
 
-We are committed to our users' rights to privacy. We want here to share all the information we can about how our products and website work in regards to privacy, terms, personal data and user content.
+We are committed to our users' right to privacy. We want to share here all the information we can about how our products and website work in regards to privacy, terms, personal data and user content.
 
-You can find below a collection of formal terms and policies as well as more informative content to easily understand our efforts to ensure your protection online. We're grateful for your interest and proud to have you as a part of our community!
+You can find below a collection of formal terms and policies as well as more informal content to easily understand our efforts to ensure your protection online. We're grateful for your interest and proud to have you as part of our community!
 
 If you have any questions about this content, [please contact our team](https://flat.io/support).
 
@@ -24,7 +24,7 @@ In the United States, Flat is distributed by Tutteo Inc., a company registered i
 
 ### For individual users
 
-If you are an individual user of our public platform, the following terms applies to you:
+If you are an individual user of our public platform, the following terms apply to you:
 
 * [Privacy Policy](/help/en/policies/privacy-policy.html) *(Last Update: May 23, 2018)*
   * [Annex 1 - Personal information we collect](/help/en/policies/privacy-policy-annex-1-information-collected.html)
@@ -35,7 +35,7 @@ If you are an individual user of our public platform, the following terms applie
 
 ### For schools and businesses using Flat for Education:
 
-If you are a school or business using our dedicated education product [Flat for Education](https://flat.io/edu), the following terms applies to you:
+If you are a school or business using our dedicated education product [Flat for Education](https://flat.io/edu), the following terms apply to you:
 
 * [Privacy Policy](/help/en/policies/privacy-policy.html) *(Last Update: May 23, 2018)*
   * [Annex 1 - Personal information we collect](/help/en/policies/privacy-policy-annex-1-information-collected.html)
@@ -45,17 +45,17 @@ If you are a school or business using our dedicated education product [Flat for 
 * [Data Processing Addendum](/help/en/policies/data-processing-addendum.html) *(Last Update: May 23, 2018)*
 * For you and your users: [Education Terms of Service](/help/en/policies/terms-of-service-education.html) *(Last update: 5 January 2016)*
 
-## Frequently asked questions (FAQ) about our terms
+## Frequently Asked Questions (FAQ) about our terms
 
 ### COPPA and FERPA compliance
 
-**Education accounts ([Flat for Education](https://flat.io/edu))**: Flat for Education accounts are compliant with COPPA and FERPA for an usage by children. You can learn more below about the age requirements to use our service, and in [our dedicated terms in our Terms of Service regarding Student Information in the United States](/help/en/policies/terms-of-service-business.html#12-student-information--united-states).
+**Education accounts ([Flat for Education](https://flat.io/edu))**: Flat for Education accounts are compliant with COPPA and FERPA for use by children. You can learn more below about the age requirements to use our service in [our dedicated terms in our Terms of Service regarding Student Information in the United States](/help/en/policies/terms-of-service-business.html#12-student-information--united-states).
 
-**Individual accounts**: As [mentioned in our Individual Terms of Service](/help/en/policies/terms-of-service-individual.html#5-setting-up-an-account) and [Privacy Policy](/help/en/policies/privacy-policy.html#6-our-policy-towards-children), our Flat Individual Service is not directed to persons under 13 or not capable in your country of residence of entering into a legal binding agreement to use our Service. For this reason, you might be required to verify your age when creating your account.
+**Individual accounts**: As [mentioned in our Individual Terms of Service](/help/en/policies/terms-of-service-individual.html#5-setting-up-an-account) and [Privacy Policy](/help/en/policies/privacy-policy.html#6-our-policy-towards-children), our Flat Individual Service is not directed at persons under the age of 13 or otherwise ineligible in their country of residence to enter into a legal binding agreement to use our Service. For this reason, you might be required to verify your age when creating your account.
 
 ### GDPR compliance
 
-Flat is GDPR compliant, you can learn more about [our approach to the GDPR on our dedicated page](/help/en/general/gdpr-introduction.html). If you are a school in the EEA (European Economic Area) using [Flat for Education](https://flat.io/edu), our Business Terms of Service include a [dedicated data processing addendum (DPA)](). 
+Flat is GDPR compliant and you can learn more about [our approach to the GDPR on our dedicated page](/help/en/general/gdpr-introduction.html). If you are a school in the EEA (European Economic Area) using [Flat for Education](https://flat.io/edu), our Business Terms of Service include a [dedicated data processing addendum (DPA)](). 
 
 ### Age requirements on Flat accounts
 
@@ -65,7 +65,7 @@ For individual accounts, you can check out [our dedicated information](/help/en/
 
 #### Education Accounts (Flat for Education)
 
-For [education accounts](https://flat.io/edu), there is no age requirement to use our Service. Please note that your country might require parents' consent to create account containing Personally Identifiable Information (PII) about their children. If you don't have this consent, you can still use our product by creating generic accounts that won't contain any PII. For example by using only first names or other generic usernames as identifiers.
+For [education accounts](https://flat.io/edu), there is no age requirement to use our Service. Please note that your country might require parental consent to create an account containing Personally Identifiable Information (PII) about their children. If you don't have this consent, you can still use our product by creating generic accounts that won't contain any PII, for example by using only first names or other generic usernames as identifiers.
 
 If you are in the United States, check out our dedicated terms in our [Terms of Service regarding Student Information in the United States](/help/en/policies/terms-of-service-business.html#12-student-information--united-states).
 
@@ -73,4 +73,4 @@ If you are in the EEA (European Economic Area), our Business Terms of Service in
 
 ### User content and ownership
 
-We do not claim ownership in your User Content, check out the complete information [in our Individual Terms ("Your Content")](/help/en/policies/terms-of-service-individual.html#10-your-content) and [Education terms ("Your Content")](/help/en/policies/terms-of-service-education.html#8-your-content).
+We do not claim ownership over your User Content, check out the complete information [in our Individual Terms ("Your Content")](/help/en/policies/terms-of-service-individual.html#10-your-content) and [Education terms ("Your Content")](/help/en/policies/terms-of-service-education.html#8-your-content).
