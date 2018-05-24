@@ -69,7 +69,7 @@ We took advantage of the GDPR to make some enhancements to the platform. Here ar
 
 ### DPA for schools
 
-We now provide a dedicated [data processing addendum (DPA)](...) for schools using [Flat for Education](https://flat.io/edu).
+We now provide a dedicated [data processing addendum (DPA)](/help/en/policies/data-processing-addendum.html) for schools using [Flat for Education](https://flat.io/edu).
 
 ### Privacy Policy
 
