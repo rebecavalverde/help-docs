@@ -55,7 +55,7 @@ If you are a school or business using our dedicated education product [Flat for 
 
 ### GDPR compliance
 
-Flat is GDPR compliant and you can learn more about [our approach to the GDPR on our dedicated page](/help/en/general/gdpr-introduction.html). If you are a school in the EEA (European Economic Area) using [Flat for Education](https://flat.io/edu), our Business Terms of Service include a [dedicated data processing addendum (DPA)](/help/en/policies/data-processing-addendum.html). 
+Flat is GDPR compliant and you can learn more about [our approach to the GDPR on our dedicated page](/help/en/policies/approach-to-gdpr.html). If you are a school in the EEA (European Economic Area) using [Flat for Education](https://flat.io/edu), our Business Terms of Service include a [dedicated data processing addendum (DPA)](/help/en/policies/data-processing-addendum.html). 
 
 ### Age requirements on Flat accounts
 
@@ -69,7 +69,7 @@ For [education accounts](https://flat.io/edu), there is no age requirement to us
 
 If you are in the United States, check out our dedicated terms in our [Terms of Service regarding Student Information in the United States](/help/en/policies/terms-of-service-business.html#12-student-information--united-states).
 
-If you are in the EEA (European Economic Area), our Business Terms of Service includes a [dedicated data processing addendum (DPA)](/help/en/policies/data-processing-addendum.html) to comply with the [GDPR](/help/en/general/gdpr-introduction.html).
+If you are in the EEA (European Economic Area), our Business Terms of Service includes a [dedicated data processing addendum (DPA)](/help/en/policies/data-processing-addendum.html) to comply with the [GDPR](/help/en/policies/approach-to-gdpr.html).
 
 ### User content and ownership
 
