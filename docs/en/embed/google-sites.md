@@ -14,20 +14,21 @@ The [new Google Sites](https://sites.google.com/new) allows you to embed any cus
 
 To insert your Flat score in your Google Site, [you will need a Flat account if you don't have one](https://flat.io/auth/signup). You can then upload your score using a MusicXML or MIDI file, or directly create it online using our web-based music notation software. Check [out our dedicated help if you need more information](/help/en/music-notation-software/create-your-first-music-score.html).
 
-## 2. Copy our HTML code
+## 2. Copy the music score link
 
-To copy the HTML code of our embed into your clipboard, click on "*Share*" in our editor our public viewer, then choose "*Embed*", you will arrive on [our embed generator](https://flat.io/developers/embed/generator):
+To embed your sheet music, you will need to either make the score public on the Internet or get a private sharing link.
 
-![Get the HTML code of the score](https://flat.io/developers/docs/assets/img/share-embed-generator.gif)
+### Public score 
 
+If the score is public, simply copy its link in your browser address bar:
 
-## 3. Get the best display of your notation
+![Public score embedding](/help/assets/img/embed/copy-link-addressbar.gif)
 
-To get the best display of the interactive notation in your Google Sites, we advise you to adjust the *height* of the embed to **100%**. Using this option, you will be able to easily adjust the embed size directly in Google Sites when adding your content.
+### Private score
 
-![Height 100%](/help/assets/img/embed/generator-height-100.png)
+If the score is private, click on "*Collaborate*", then "*Copy the sharing link*". This will generate a private sharing link and copy it to your clipboard.
 
-Then click on "*Copy HTML code*" on the top of the generator page.
+![Score private link](/help/assets/img/embed/copy-sharing-link.gif)
 
 ## 3. Insert into your Google Site
 
@@ -35,9 +36,9 @@ To insert the notation into Google Sites, choose *Insert > Embed* on the right o
 
 ![Google Sites embed](/help/assets/img/embed/google-sites-embed-action.png)
 
-Then choose *Custom code* and paste the previously code, and click on *Next* and *Insert*:
+Then paste the link to your score, and click on *Insert*:
 
-![Insert custom code](/help/assets/img/embed/google-sites-embed-custom-code.png)
+![Insert custom code](/help/assets/img/embed/google-sites-embed-link.png)
 
 You can then adjust the size of the score, your music notation will magically fit the size you choose. This is great if you want to add, for example, some text or another media beside your notation.
 
