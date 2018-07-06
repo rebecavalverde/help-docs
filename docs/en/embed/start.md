@@ -22,6 +22,7 @@ Check out below the dedicated help article for website or app where you want to 
   <a href="{{site.baseurl}}/en/music-notation-embed/google-sites.html"><img src="/help/assets/img/logos/google-sites.png"><span>Google Sites</span></a>
   <a href="{{site.baseurl}}/en/general/flat-for-google-docs-music-notation.html"><img src="/help/assets/img/logos/google-docs.png"><span>Google Docs</span></a>
   <a href="{{site.baseurl}}/en/music-notation-embed/microsoft-onenote.html"><img src="/help/assets/img/logos/microsoft-onenote.svg"><span>Microsoft OneNote</span></a>
+  <a href="{{site.baseurl}}/en/music-notation-embed/microsoft-sway.html"><img src="/help/assets/img/logos/microsoft-sway.svg"><span>Microsoft Sway</span></a>
   <a href="{{site.baseurl}}/en/music-notation-embed/medium-com.html"><img src="/help/assets/img/logos/medium.svg"><span>Medium</span></a>
   <a href="{{site.baseurl}}/en/music-notation-embed/blogger.html"><img src="/help/assets/img/logos/blogger.svg"><span>Blogger</span></a>
   <a href="https://flat.io/developers/embed/generator"><img src="https://flat.io/img/logo-dev-placeholder.svg"><span>HTML Code</span></a>
