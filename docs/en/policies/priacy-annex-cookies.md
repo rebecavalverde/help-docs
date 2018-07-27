@@ -14,3 +14,4 @@ cssPage: large
 | `_gat` | Google | When you first access our website | At the end of your browsing session. | Analytics | To throttle request rate |
 | `__stripe_mid` and `__stripe_sid` | Stripe | When you access a payment page | 1 year | Payments | Session |
 | `intercom-*` | Intercom | When you contact our support or the page you visit includes a support widget | 10 years | Strictly necessary | Session |
+| `crisp-client*` | Crisp | When you contact our support or the page you visit includes a support widget | 6 months | Strictly necessary | Session |
