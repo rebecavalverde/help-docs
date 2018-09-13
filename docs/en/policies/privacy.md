@@ -6,7 +6,7 @@ pid: terms
 copyright: true
 ---
 
-*This Privacy Policy applies all users. To view all our policies, check out the [index](/help/en/policies). This is the current version of these terms, dated 24 May 2018.*
+*This Privacy Policy applies all users. To view all our policies, check out the [index](/help/en/policies). This is the current version of these terms, dated 14 Sep 2018.*
 
 ## 1. Flat approach to privacy
 
@@ -50,7 +50,7 @@ copyright: true
 
 **4.1**	From time to time we may contact you with information about our products and services. Most marketing messages we send will be by email.  If you are using our app we may also send you push notifications. For some marketing messages we may use personal information we collect about you to help us determine the most relevant marketing information to share with you. 
 
-**4.2**	We will only send marketing messages to you if you have given us your consent to do so. We will ask you if you would like to receive these messages when we first collect your contact details. You can also change your marketing preference at a later date by following the instructions outlined below.
+**4.2**	We will only send marketing messages to you if you have given us your consent to do so. We will only send marketing messages to users of our Flat Individual service or to users of our Flat Education service that have a designated “teacher” account. We will ask you if you would like to receive these messages when we first collect your contact details. You can also change your marketing preference at a later date by following the instructions outlined below.
 
 * **Email** – click on the unsubscribe link at the bottom of our marketing emails. If you have an online account with us you might be able to opt-out of marketing emails, features updates and comment notifications through your account settings.
 
