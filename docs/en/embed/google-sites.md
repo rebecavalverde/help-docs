@@ -16,19 +16,13 @@ To insert your Flat score in your Google Site, [you will need a Flat account if 
 
 ## 2. Copy the music score link
 
-To embed your sheet music, you will need to either make the score public on the Internet or get a private sharing link.
+To get the link to your sheet music, go to the *My library* or the *Score Editor*, click on *Share* and choose *Copy private shareable link*.
 
-### Public score 
+![Score private link](/help/assets/img/embed/copy-sharing-link.gif?0)
 
-If the score is public, simply copy its link in your browser address bar:
+If your score is public or is shared with people, click instead on the *link icon* to copy it.
 
-![Public score embedding](/help/assets/img/embed/copy-link-addressbar.gif)
-
-### Private score
-
-If the score is private, click on "*Collaborate*", then "*Copy the sharing link*". This will generate a private sharing link and copy it to your clipboard.
-
-![Score private link](/help/assets/img/embed/copy-sharing-link.gif)
+![Score public link](/help/assets/img/embed/copy-public-link.gif)
 
 ## 3. Insert into your Google Site
 

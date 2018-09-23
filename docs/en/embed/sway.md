@@ -15,10 +15,9 @@ To insert your Flat score in your Sway document, [you will need a Flat account i
 
 ## 2. Copy our HTML code
 
-To copy the HTML code of our embed into your clipboard, click on "*Share*" in our editor our public viewer, then choose "*Embed*", you will arrive on [our embed generator](https://flat.io/developers/embed/generator):
+To copy the HTML code of our embed into your clipboard, go to the *My library* or the *Score Editor*, click on "*Share*" then choose "*Embed*", you will arrive on [our embed generator](https://flat.io/developers/embed/generator):
 
-![Get the HTML code of the score](https://flat.io/developers/docs/assets/img/share-embed-generator.gif)
-
+![Get the HTML code of the score](/help/assets/img/embed/share-embed-generator.gif)
 
 ## 3. Get the best display of your notation
 
