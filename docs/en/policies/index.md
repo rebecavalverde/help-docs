@@ -47,13 +47,19 @@ If you are a school or business using our dedicated education product [Flat for 
 
 ## Frequently Asked Questions (FAQ) about our terms
 
-### COPPA and FERPA compliance
+### COPPA and FERPA compliance (US)
 
 **Education accounts ([Flat for Education](https://flat.io/edu))**: Flat for Education accounts are compliant with COPPA and FERPA for use by children. You can learn more below about the age requirements to use our service in [our dedicated terms in our Terms of Service regarding Student Information in the United States](/help/en/policies/terms-of-service-business.html#12-student-information--united-states).
 
 **Individual accounts**: As [mentioned in our Individual Terms of Service](/help/en/policies/terms-of-service-individual.html#5-setting-up-an-account) and [Privacy Policy](/help/en/policies/privacy-policy.html#6-our-policy-towards-children), our Flat Individual Service is not directed at persons under the age of 13 or otherwise ineligible in their country of residence to enter into a legal binding agreement to use our Service. For this reason, you might be required to verify your age when creating your account.
 
-### GDPR compliance
+### State and District specific agreements (US)
+
+In the US, we can sign agreements specific to your state or district for you to use [Flat for Education](https://flat.io/edu). Please contact us at [edu@flat.io](mailto:edu@flat.io) if you have an agreement for your district you would like us to review and sign.
+
+You can also consult the [Student Data Privacy Consortium (SDPC) website](https://secure2.cpsd.us/a4l/vendor_profile.php?softwareID=828) where some of these agreements are public: Massachusetts Student Privacy Alliance DPA (MSPA) and California Student Data Privacy Agreement (CSDPA).
+
+### GDPR compliance (EEA)
 
 Flat is GDPR compliant and you can learn more about [our approach to the GDPR on our dedicated page](/help/en/policies/approach-to-gdpr.html). If you are a school in the EEA (European Economic Area) using [Flat for Education](https://flat.io/edu), our Business Terms of Service include a [dedicated data processing addendum (DPA)](/help/en/policies/data-processing-addendum.html). 
 
