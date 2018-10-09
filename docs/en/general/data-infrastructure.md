@@ -19,7 +19,6 @@ Allow these domains for Flat and related services:
 https://*.flat.io
 https://*.flat-cdn.com
 https://*.flat-embed.com
-https://flat-prod-*.s3.amazonaws.com
 ```
 
 ## Infrastructure providers
