@@ -59,7 +59,7 @@ In the US, we can sign agreements specific to your state or district for you to 
 
 You can also consult the [Student Data Privacy Consortium (SDPC) website](https://secure2.cpsd.us/a4l/vendor_profile.php?softwareID=828) where some of these agreements are public: Massachusetts Student Privacy Alliance DPA (MSPA) and California Student Data Privacy Agreement (CSDPA).
 
-### GDPR compliance (EEA)
+### GDPR compliance
 
 Flat is GDPR compliant and you can learn more about [our approach to the GDPR on our dedicated page](/help/en/policies/approach-to-gdpr.html). If you are a school in the EEA (European Economic Area) using [Flat for Education](https://flat.io/edu), our Business Terms of Service include a [dedicated data processing addendum (DPA)](/help/en/policies/data-processing-addendum.html). 
 
