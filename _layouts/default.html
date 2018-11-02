@@ -39,7 +39,7 @@
         return response.json();
       }).then(function (support) {
         window.$crisp.push(['set', 'user:email', account.email]);
-        window.$crisp.push(['set', 'user:user:nickname', account.name || account.username]);
+        window.$crisp.push(['set', 'user:nickname', account.name || account.username]);
         window.$crisp.push(['set', 'user:avatar', account.picture]);
         window.loadCrisp(support.crispToken);
       }).catch(function () {
