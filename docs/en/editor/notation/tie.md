@@ -24,6 +24,6 @@ A Tie is a line connecting two notes of the same pitch, played as one note. The 
 
 Input two notes of the same pitch with the duration you want. Then select the first note. Click on the tying tool to bind the two given notes. To remove a tie, click again on the same icon.
 
-If you are trying to tie notes that don't have the same pitch, you are probably [looking for a slur instead]().
+If you are trying to tie notes that don't have the same pitch, you are probably [looking for a slur instead](/help/en/music-notation-software/slur.html).
 
 ![Tie notes](/help/assets/img/editor/tie.gif)
