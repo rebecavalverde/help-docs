@@ -39,6 +39,7 @@ On this page, discover the music notations available on our music notation softw
 | [![Fermata](https://prod.flat-cdn.com/img/icons/editorActions/fermata.svg){:.tb}](/help/en/music-notation-software/fermata.html) | [Fermata](/help/en/music-notation-software/fermata.html) |
 | [![Slurs](https://prod.flat-cdn.com/img/icons/editorActions/slurs.svg){:.tb}](/help/en/music-notation-software/slur.html) | [Slur notes](/help/en/music-notation-software/slur.html) |
 | [![Bow](https://prod.flat-cdn.com/img/icons/editorActions/upbow.svg){:.tb}](/help/en/music-notation-software/bow.html) | [Up bow/Down bow](/help/en/music-notation-software/bow.html) |
+| [![Fingerings](https://prod.flat-cdn.com/img/icons/editorActions/fingering.svg){:.tb}](/help/en/music-notation-software/fingerings.html) | [Fingerings](/help/en/music-notation-software/fingerings.html) |
 | [![Buzz roll](https://prod.flat-cdn.com/img/icons/editorActions/buzzroll.svg){:.tb}](/help/en/music-notation-software/buzznote.html) | [Buzz notes](/help/en/music-notation-software/buzznote.html) |
 {:.feat.flist}
 
