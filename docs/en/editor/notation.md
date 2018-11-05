@@ -24,7 +24,8 @@ On this page, discover the music notations available on our music notation softw
 | [![Dot](https://prod.flat-cdn.com/img/icons/editorActions/dotted.svg){:.tb}](/help/en/music-notation-software/dotted.html) | [Dot a note](/help/en/music-notation-software/dotted.html) |
 | [![Tie](https://prod.flat-cdn.com/img/icons/editorActions/tie.svg){:.tb}](/help/en/music-notation-software/tienote.html) | [Tie two notes](/help/en/music-notation-software/tienote.html) |
 | [![Tuplets](https://prod.flat-cdn.com/img/icons/editorActions/tuplet3.svg){:.tb}](/help/en/music-notation-software/tuplet.html) | [Tuplets](/help/en/music-notation-software/tuplet.html) |
-| [![Grace-note](https://prod.flat-cdn.com/img/icons/editorActions/gracenote.svg){:.tb}](/help/en/music-notation-software/graceNote.html) | [Acciaccatura and Grace-note](/help/en/music-notation-software/graceNote.html) |
+| [![Ghost note](https://prod.flat-cdn.com/img/icons/editorActions/ghost.svg){:.tb}](/help/en/music-notation-software/ghost-note.html) | [Ghost note](/help/en/music-notation-software/ghost-note.html) |
+| [![Grace note](https://prod.flat-cdn.com/img/icons/editorActions/gracenote.svg){:.tb}](/help/en/music-notation-software/graceNote.html) | [Acciaccatura and Grace note](/help/en/music-notation-software/graceNote.html) |
 | [![Concert Pitch](https://prod.flat-cdn.com/img/icons/editorActions/concertPitch.svg){:.tb}](/help/en/music-notation-software/concertpitch.html) | [Dislay the score in Concert Pitch](/help/en/music-notation-software/concertpitch.html) |
 | [![Transposition](https://prod.flat-cdn.com/img/icons/editorActions/transpose.svg){:.tb}](/help/en/music-notation-software/transpose.html) | [Transposition](/help/en/music-notation-software/transpose.html) |
 {:.feat.flist}

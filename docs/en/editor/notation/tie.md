@@ -13,7 +13,7 @@ tie.purpose: The tie add the duration of the left and the right notes. They must
 
 | Available in toolbar | **Note** |
 | Toolbar icon | ![Tie](https://prod.flat-cdn.com/img/icons/editorActions/tie.svg){:.tb} |
-| Keyboard shortcut |  <span class="kb-container"><span class="kb">,</span></span> |
+| Default keyboard shortcut |  <span class="kb-container"><span class="kb">,</span></span> |
 {:.feat}
 
 ## What is a tie?

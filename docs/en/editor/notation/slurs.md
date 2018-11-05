@@ -12,7 +12,7 @@ toggleSlurAtNote.title: Slurs
 
 | Available in toolbar | **Articulation** |
 | Toolbar icon | ![Slurs](https://prod.flat-cdn.com/img/icons/editorActions/slurs.svg){:.tb} |
-| Keyboard shortcut |  <span class="kb-container"><span class="kb">s</span></span> |
+| Default keyboard shortcut |  <span class="kb-container"><span class="kb">s</span></span> |
 {:.feat}
 
 ## What is a slur?
