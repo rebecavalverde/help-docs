@@ -21,7 +21,7 @@ toggleDiminuendoBelow.title: Diminuendo
 
 Crescendo and Diminuendo are changing music dynamics, which indicate that the volume should gradually increase or decrease. These wedges are symbolized with “hairpins” below the chords. 
 
-## How to add a Cresendo or Diminuendo to my sheet music?
+## How to add a Crescendo or Diminuendo to my sheet music?
 
 Click on the crescendo or diminuendo button in the “Dynamics” toolbar and set it on the measure and staff you want. If you need to expand or shrink the wedges, double click on your wedge, and buttons will appear to expand or shrink the wedge. 
 
