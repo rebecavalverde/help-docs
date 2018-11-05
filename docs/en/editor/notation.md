@@ -28,6 +28,7 @@ On this page, discover the music notations available on our music notation softw
 | [![Grace note and Acciaccatura](https://prod.flat-cdn.com/img/icons/editorActions/gracenote.svg){:.tb}](/help/en/music-notation-software/grace-note-acciaccatura.html) | [Grace note and Acciaccatura](/help/en/music-notation-software/grace-note-acciaccatura.html) |
 | [![Concert Pitch](https://prod.flat-cdn.com/img/icons/editorActions/concertPitch.svg){:.tb}](/help/en/music-notation-software/concertpitch.html) | [Dislay the score in Concert Pitch](/help/en/music-notation-software/concertpitch.html) |
 | [![Transposition](https://prod.flat-cdn.com/img/icons/editorActions/transpose.svg){:.tb}](/help/en/music-notation-software/transpose.html) | [Transposition](/help/en/music-notation-software/transpose.html) |
+| [![Octave shift / Ottava](https://prod.flat-cdn.com/img/icons/editorActions/8va.svg){:.tb}](/help/en/music-notation-software/octave-shift.html) | [Octave shift / Ottava](/help/en/music-notation-software/octave-shift.html) |
 | [![Color note](https://prod.flat-cdn.com/img/icons/editorActions/noteColor.svg){:.tb}](/help/en/music-notation-software/color-notes.html) | [Color note: Manual colors and automatic colorization using Boomwhackers colors](/help/en/music-notation-software/color-notes.html) |
 {:.feat.flist}
 
