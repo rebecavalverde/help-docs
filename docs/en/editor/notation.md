@@ -50,6 +50,7 @@ On this page, discover the music notations available on our music notation softw
 | [![Arpeggio](https://prod.flat-cdn.com/img/icons/editorActions/arpeggio.svg){:.tb}](/help/en/music-notation-software/arpeggio.html) | [Arpeggio](/help/en/music-notation-software/arpeggio.html) |
 | [![Glissando](https://prod.flat-cdn.com/img/icons/editorActions/glissando.svg){:.tb}](/help/en/music-notation-software/glissando.html) | [Glissando](/help/en/music-notation-software/glissando.html) |
 | [![Mordents](https://prod.flat-cdn.com/img/icons/editorActions/mordent.svg){:.tb}](/help/en/music-notation-software/mordents.html) | [Mordents](/help/en/music-notation-software/mordents.html) |
+| [![Turns](https://prod.flat-cdn.com/img/icons/editorActions/turn.svg){:.tb}](/help/en/music-notation-software/turns.html) | [Turns](/help/en/music-notation-software/turns.html) |
 {:.feat.flist}
 
 ## Dynamic
