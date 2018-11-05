@@ -27,7 +27,7 @@ On this page, discover the music notations available on our music notation softw
 | [![Grace-note](https://prod.flat-cdn.com/img/icons/editorActions/gracenote.svg){:.tb}](/help/en/music-notation-software/graceNote.html) | [Acciaccatura and Grace-note](/help/en/music-notation-software/graceNote.html) |
 | [![Concert Pitch](https://prod.flat-cdn.com/img/icons/editorActions/concertPitch.svg){:.tb}](/help/en/music-notation-software/concertpitch.html) | [Dislay the score in Concert Pitch](/help/en/music-notation-software/concertpitch.html) |
 | [![Transposition](https://prod.flat-cdn.com/img/icons/editorActions/transpose.svg){:.tb}](/help/en/music-notation-software/transpose.html) | [Transposition](/help/en/music-notation-software/transpose.html) |
-{:.feat}
+{:.feat.flist}
 
 ## Articulation
 
@@ -36,20 +36,20 @@ On this page, discover the music notations available on our music notation softw
 | [![Slurs](https://prod.flat-cdn.com/img/icons/editorActions/slurs.svg){:.tb}](/help/en/music-notation-software/slur.html) | [Slur notes](/help/en/music-notation-software/slur.html) |
 | [![Bow](https://prod.flat-cdn.com/img/icons/editorActions/upbow.svg){:.tb}](/help/en/music-notation-software/bow.html) | [Up bow/Down bow](/help/en/music-notation-software/bow.html) |
 | [![Buzz roll](https://prod.flat-cdn.com/img/icons/editorActions/buzzroll.svg){:.tb}](/help/en/music-notation-software/buzznote.html) | [Buzz notes](/help/en/music-notation-software/buzznote.html) |
-{:.feat}
+{:.feat.flist}
 
 ## Ornament
 
 | [![Trill](https://prod.flat-cdn.com/img/icons/editorActions/trill.svg){:.tb}](/help/en/music-notation-software/trill.html) | [Trill](/help/en/music-notation-software/trill.html) |
 | [![Tremolo](https://prod.flat-cdn.com/img/icons/editorActions/tremolo.svg){:.tb}](/help/en/music-notation-software/tremolo.html) | [Tremolo](/help/en/music-notation-software/tremolo.html) |
-{:.feat}
+{:.feat.flist}
 
 ## Dynamic
 
 | [![Crescendo and Diminuendo](https://prod.flat-cdn.com/img/icons/editorActions/crescendo.svg){:.tb}](/help/en/music-notation-software/wedges.html) | [Crescendo and Diminuendo](/help/en/music-notation-software/wedges.html) |
 | [![Add dynamics](https://prod.flat-cdn.com/img/icons/editorActions/p.svg){:.tb}](/help/en/music-notation-software/dynamics.html) | [Add and remove dynamics](/help/en/music-notation-software/dynamics.html) |
 | [![Pizzicato and Arco](https://prod.flat-cdn.com/img/icons/editorActions/pizz.svg){:.tb}](/help/en/music-notation-software/pizz.html) | [Pizzicato and Arco](/help/en/music-notation-software/pizz.html) |
-{:.feat}
+{:.feat.flist}
 
 ## Measure
 
@@ -61,11 +61,11 @@ On this page, discover the music notations available on our music notation softw
 | [![Rehearsals](https://prod.flat-cdn.com/img/icons/editorActions/rehearsalLetter.svg){:.tb}](/help/en/music-notation-software/rehearsal.html) | [Rehearsals](/help/en/music-notation-software/rehearsal.html) |
 | [![Repeats](https://prod.flat-cdn.com/img/icons/editorActions/barlineRepearRight.svg){:.tb}](/help/en/music-notation-software/repeat.html) | [Repeats](/help/en/music-notation-software/repeat.html) |
 | [![Endings](https://prod.flat-cdn.com/img/icons/editorActions/ending1.svg){:.tb}](/help/en/music-notation-software/endings.html) | [Endings](/help/en/music-notation-software/endings.html) |
-{:.feat}
+{:.feat.flist}
 
 ## Text
 
 | [![Lyrics](https://prod.flat-cdn.com/img/icons/editorActions/lyric.svg){:.tb}](/help/en/music-notation-software/lyrics.html) | [Lyrics](/help/en/music-notation-software/lyrics.html) |
 | [![Chords](https://prod.flat-cdn.com/img/icons/editorActions/chord.svg){:.tb}](/help/en/music-notation-software/chords.html) | [Chords](/help/en/music-notation-software/chords.html) |
 | [![Text annotation](https://prod.flat-cdn.com/img/icons/editorActions/annotation.svg){:.tb}](/help/en/music-notation-software/annotation.html) | [Text annotation / expression](/help/en/music-notation-software/annotation.html) |
-{:.feat}
+{:.feat.flist}
