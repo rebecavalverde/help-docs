@@ -16,6 +16,10 @@ Use Flat's web-based music notation editor to quickly create music notation or t
 
 You don't need a Flat account to create the music notation and, simply open our free add-on, enter your notation and click on "Insert". If you need help regarding the editor, [check out the dedicated help](/help/en/music-notation-software/). This add-on is a lite version of our [web-based & collaborative notation software](https://flat.io), and doesn't include all the options available in our dedicated tool.
 
+## How the notation tools work?
+
+You can discover all the tools available [on this dedicated help page](/help/en/music-notation-software/notation-features.html), and how to use them.
+
 ## How to edit the music notation?
 
 To edit your inserted notation, select the picture and re-open the add-on. To validate the changes and insert the updated music notation, click on the button *Edit*.
