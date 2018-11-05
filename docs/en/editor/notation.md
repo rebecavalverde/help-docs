@@ -47,6 +47,7 @@ On this page, discover the music notations available on our music notation softw
 
 | [![Trill](https://prod.flat-cdn.com/img/icons/editorActions/trill.svg){:.tb}](/help/en/music-notation-software/trill.html) | [Trill](/help/en/music-notation-software/trill.html) |
 | [![Tremolo](https://prod.flat-cdn.com/img/icons/editorActions/tremolo.svg){:.tb}](/help/en/music-notation-software/tremolo.html) | [Tremolo](/help/en/music-notation-software/tremolo.html) |
+| [![Arpeggio](https://prod.flat-cdn.com/img/icons/editorActions/arpeggio.svg){:.tb}](/help/en/music-notation-software/arpeggio.html) | [Arpeggio](/help/en/music-notation-software/arpeggio.html) |
 {:.feat.flist}
 
 ## Dynamic
