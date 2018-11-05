@@ -1,9 +1,6 @@
 ---
 permalink: 404.html
 
-toggleTrill.title: Trill
-toggleTrill.shortDescription: add/remove a trill at the selected note
-
 toggleTurn.title: Turn
 toggleTurn.shortDescription: add/remove a turn at the selected note
 
