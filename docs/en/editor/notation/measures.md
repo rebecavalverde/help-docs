@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 measure.title: Measure
 clef.title: Clef
 keySignature.title: Key signature

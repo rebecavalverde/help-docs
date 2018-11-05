@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 addUnpitchedNote: Add unpitched note
 removeUnpitchedNote.title: Remove unpitched note
 setUnpitchedNoteHeadNormal.title: Normal Head

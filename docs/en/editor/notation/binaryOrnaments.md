@@ -1,4 +1,6 @@
 ---
+permalink: 404.html
+
 toggleTrill.title: Trill
 toggleTrill.shortDescription: add/remove a trill at the selected note
 

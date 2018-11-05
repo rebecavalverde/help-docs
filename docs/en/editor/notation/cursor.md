@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 cursor.title: Cursor
 unselect.title: Unselect everything
 goRight.title: Go to the previous note

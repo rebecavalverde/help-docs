@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 tuplets.title: Tuplet
 addTuplet.title: Add a tuplet
 addTuplet.errNotAvailableDuration: Cannot insert a tuplet of the current duration at this place

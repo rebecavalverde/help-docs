@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 toggleCoda.title: Coda
 toggleCoda.shortDescription: add/remove a "Coda" before the selected measure
 toggleCoda.purpose: The Coda marks a section to be played at the end of the score.

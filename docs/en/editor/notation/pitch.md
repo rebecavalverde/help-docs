@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 pitch.title: Note Pitch
 shiftOctaveUp.title: Increase from an octave
 shiftOctaveDown.title: Decrease from an octave

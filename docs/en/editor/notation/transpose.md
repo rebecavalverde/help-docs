@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 transpose.title: Transpose
 transposeFromTo.title: Transpose by key
 transposePart.title: Transpose part

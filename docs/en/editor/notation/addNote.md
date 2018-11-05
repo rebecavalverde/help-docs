@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 addNote.title: Add notes
 addNoteA.title: Add a "A" note
 addNoteB.title: Add a "B" note

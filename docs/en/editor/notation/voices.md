@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 voices.title: Voices
 circleVoice.title: Toggle between voices
 goVoice1.title: Use voice 1

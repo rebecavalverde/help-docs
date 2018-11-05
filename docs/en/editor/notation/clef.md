@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 setClefC1.title: Set clef C1
 setClefC2.title: Set clef C2
 setClefC3.title: Set clef C3

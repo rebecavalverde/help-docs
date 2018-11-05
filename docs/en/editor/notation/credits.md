@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 meta.title: Score credits (metadata)
 setAllCredits.title: Set all the credits of the score
 setTitle.title: Set the score title

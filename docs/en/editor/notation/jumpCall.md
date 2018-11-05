@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 toggleFine.title: Fine
 toggleFine.shortDescription: add/remove a "Fine" after the selected measure
 toggleFine.purpose: The Fine means that the score ends after this measure when it is played after a jump back to a segno or to the begining.

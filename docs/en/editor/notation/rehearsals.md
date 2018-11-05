@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 rehearsal.title: Rehearsal
 
 toggleMeasureNumberRehearsal.title: Measure number rehearsal

@@ -1,4 +1,6 @@
 ---
+permalink: 404.html
+
 articulation.title: Articulations
 
 toggleStaccato.title: Staccato

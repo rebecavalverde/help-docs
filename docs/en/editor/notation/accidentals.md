@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 accidental.title: Accidentals
 
 natural.title: Natural

@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 instruments.title: Score instruments
 addStaffAndGuessClef.title: Add a new staff on the part and apply some basic rules to have G + F clefs
 addCustomPitchedPart.title: Add custom pitched part

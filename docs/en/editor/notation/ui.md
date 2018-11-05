@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 ui.title: User Interface
 ro.title: Read-only
 rw.title: Read-write

@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 layout.title: Score Layout
 setMargins.title: Set margins
 setTopMargin.title: Set top margin

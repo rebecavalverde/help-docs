@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 ending.title: Ending
 toggleEnding1.title: Toggle 1st Ending
 toggleEnding2.title: Toggle 2nd Ending

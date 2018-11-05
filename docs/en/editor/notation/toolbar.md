@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 toolbar.title: Toolbars
 useToolbar.title: Display and use a toolbar
 useMainToolbar.title: Display the "Document" toolbar

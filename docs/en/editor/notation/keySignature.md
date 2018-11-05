@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 setKey0.title: Set C Major/A Minor key signature (natural)
 setKeyB1.title: Set F Major/D Minor key signature (1b)
 setKeyB2.title: Set Bb Major/G Minor key signature (2b)

@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 barline.title: Barlines
 toggleDoubleBarline.title: Double Barline
 toggleDoubleBarline.shortDescription: add/remove a double barline after the selected measure

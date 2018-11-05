@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 systemBreak.title: System break
 toggleSystemBreak.title: System break
 toggleSystemBreak.shortDescription: add/remove a system break before the selected measure

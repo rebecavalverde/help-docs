@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 octaveShift.title: Octave shifts
 toggle8va.title: Ottava
 toggle8ba.title: Ottava Bassa

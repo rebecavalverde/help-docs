@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 noteColor.title: Note color
 setColor.title: Set color to a note or selection of notes
 setNoteColor.title: Set note color

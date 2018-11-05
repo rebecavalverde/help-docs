@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 export.title: Export
 print.title: Print
 getJSON.title: Get the score as a JSON file

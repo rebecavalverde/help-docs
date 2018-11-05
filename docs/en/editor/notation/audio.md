@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 audio.title: Audio
 togglePlay.title: Toggle Play/Stop
 togglePause.title: Toggle Play/Pause

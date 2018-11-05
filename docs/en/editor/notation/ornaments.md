@@ -1,4 +1,5 @@
 ---
+permalink: 404.html
 ornament.title: Ornament
 toggleTremolo.title: Tremolo
 addTremolo.title: Add a tremolo

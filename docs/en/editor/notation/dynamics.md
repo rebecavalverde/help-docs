@@ -1,4 +1,6 @@
 ---
+permalink: 404.html
+
 dynamic.title: Dynamics
 toggleDynamicsPpp.title: Pianississimo
 toggleDynamicsPpp.shortDescription: add/remove a pianississimo at the selected position
