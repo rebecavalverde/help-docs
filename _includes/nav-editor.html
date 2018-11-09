@@ -32,36 +32,6 @@
     <a href="{{site.baseurl}}/en/music-notation-embed/">Embed on the web</a>
   </div>
 
-  <!-- <div class="nav-title">Note mode</div> -->
-  {% if page.editormode == 'notes' %}
-  <div class="items">
-    <a href="">Inputting notes</a> <!-- 'editor.addnote' / 'editor.changeduration' -->
-    <a>Dotted notes</a> <!-- 'editor.dotted' -->
-    <a>Grace notes</a> <!-- 'editor.graceNote' -->
-  </div>
-  {% endif %}
-
-  <!-- <div class="nav-title">Articulation mode</div> -->
-  {% if page.editormode == 'articulation' %}
-  {% endif %}
-
-  <!-- <div class="nav-title">Dynamic mode</div> -->
-  {% if page.editormode == 'dynamic' %}
-  {% endif %}
-
-  <!-- <div class="nav-title">Measure mode</div> -->
-  {% if page.editormode == 'measure' %}
-  {% endif %}
-
-  <!-- <div class="nav-title">Text mode</div> -->
-  {% if page.editormode == 'text' %}
-  <div class="items">
-    <a>Lyrics</a> <!--'editor.lyrics','editor.multilineslyrics','editor.lyricsspaces','editor.lyricshyphens'-->
-    <a>Chords</a> <!--'editor.chords'-->
-    <a>Expressions & Annotations</a> <!-- 'editor.annotation' -->
-  </div>
-  {% endif %}
-
   <div class="items">
     <div class="nav-title">MIDI</div>
     <a href="https://flat.io/midi-devices/setup?ref=help">Setup your MIDI device</a>
