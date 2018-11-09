@@ -44,7 +44,7 @@ In order to provide our service in the best conditions, we use the following sub
 | DigitalOcean LLC. | IaaS provider | We use Digital Ocean for their compute and data storage (in the US and the Netherlands). |
 | OVH UK Ltd. | IaaS provider | We use OVH for their data storage (in France and Canada). |
 | Google LLC. | PaaS/SaaS provider | We use Google for G Suite, Google Cloud, Firebase, Fabric and Google Analytics. |
-| Intercom, Inc. | SaaS provider | We use Intercom for our support tool. |
+| FrontApp, Inc. | SaaS provider | We use FrontApp for our support tool. |
 | Crisp IM SARL | SaaS provider | We use Crisp for our support tool. |
 | Stripe, Inc. | Payment provider | We use Stripe to process payments on the platform. |
 | PayPal Holdings, Inc. | Payment Provider | We use Paypal to process payments on the platform. |
