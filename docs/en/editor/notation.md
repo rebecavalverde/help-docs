@@ -8,12 +8,18 @@ permalink: en/music-notation-software/notation-features.html
 
 On this page, discover the music notations available on our music notation software, [Flat](https://flat.io), organized by group of features and toolbars. Open the feature page to see how to use it.
 
+* [Parts and Instruments](#parts-and-instruments)
 * [Note](#note)
 * [Articulation](#articulation)
 * [Ornament](#ornament)
 * [Dynamic](#dynamic)
 * [Measure](#measure)
 * [Text](#text)
+
+## Parts and Instruments
+
+| [![Instruments](https://prod.flat-cdn.com/img/icons/_instrument/group-keyboards.svg){:.tb}](/help/en/music-notation-software/instruments-add-remove-order.html) | [Add, Remove and Re-order parts](/help/en/music-notation-software/instruments-add-remove-order.html) |
+| [![Instruments](https://prod.flat-cdn.com/img/icons/_instrument/group-keyboards.svg){:.tb}](/help/en/music-notation-software/instruments-rename.html) | [Rename parts](/help/en/music-notation-software/instruments-rename.html) |
 
 ## Note
 
