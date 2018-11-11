@@ -20,6 +20,8 @@ On this page, discover the music notations available on our music notation softw
 
 | [![Instruments](https://prod.flat-cdn.com/img/icons/_instrument/group-keyboards.svg){:.tb}](/help/en/music-notation-software/instruments-add-remove-order.html) | [Add, Remove and Re-order parts](/help/en/music-notation-software/instruments-add-remove-order.html) |
 | [![Instruments](https://prod.flat-cdn.com/img/icons/_instrument/group-keyboards.svg){:.tb}](/help/en/music-notation-software/instruments-rename.html) | [Rename parts](/help/en/music-notation-software/instruments-rename.html) |
+| [![Instruments](https://prod.flat-cdn.com/img/icons/_instrument/group-keyboards.svg){:.tb}](/help/en/music-notation-software/custom-instruments.html) | [Creating and saving Custom Instruments configurations](/help/en/music-notation-software/custom-instruments.html) |
+{:.feat.flist}
 
 ## Note
 

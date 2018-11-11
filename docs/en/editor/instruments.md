@@ -21,11 +21,11 @@ removePart.title: Remove part
 showInstrumentsSettings.title: Show instruments settings
 ---
 
-Flat provides more than 100 instruments to everyone (Free, Power, and Education accounts), discover here how to use them, [customize them in a score](#changing-instruments-in-a-score), and create [your own instruments configurations](#create-custom-instruments).
+Flat provides more than 100 instruments to everyone (Free, Power, and Education accounts), discover here how to use them, [customize them in a score](#changing-instruments-in-a-score), and create [your own instruments configurations](/help/en/music-notation-software/custom-instruments.html).
 
 ## Score creation
 
-When creating a new score, you have the option to add one or multiple instruments, from our provided list or [your own custom instruments](#create-custom-instruments)
+When creating a new score, you have the option to add one or multiple instruments, from our provided list or [your own custom instruments](/help/en/music-notation-software/custom-instruments.html).
 
 The chosen instruments are displayed on the right of the screen, they will be added to the score in the displayed order. You can drag and drop them to sort them.
 
@@ -49,43 +49,11 @@ The instruments configuration window allows you to:
 
 ## Create custom instruments
 
-The custom instruments allow you to create your own instruments configurations and save them in your Flat accounts. These instruments can be then be used when creating a new score or when changing instruments in your existing documents. Create and manage them [in your account settings](https://flat.io/settings/account/instruments).
+You can use custom instruments configurations to create and save personnalized instruments configurations in your account. This allows you to quickly re-use configurations without having to manually set the parameters to every score you create.
 
-### Pitched instruments
+This includes:
 
-Custom **pitched instruments** allows you to create a complete configuration of your instruments:
+* **[Pitched instruments](/help/en/music-notation-software/custom-instruments.html#pitched-instruments)**: Staves, Clefs, Transposition, Tablature, Tuning, Sound, Part name and abbreviation.
+* **[Unpitched instruments](/help/en/music-notation-software/custom-instruments.html#unpitched-instruments)**: Number of staves lines, the different percussion instruments, their places and heads on the staves, and custom keyboard shortcuts to input the notes.
 
-#### 1. Base instrument
-
-You can choose first an **base instrument** to build your custom instrument. Choose a base instrument to quickly re-use all the settings from an instrument and only change the settings you want. *For example*, if you only want to only have a custom name, always use a specific tuning on your TAB, or create an instrument with a different transposition mode
-
-#### 2. Staves and Clefs
-
-Choose the **staves and clefs** of your instrument.
-
-![Custom staves and clefs](/help/assets/img/editor/custom-instru-pitched-staves-clefs.png)
-
-#### 3. Transposition mode
-
-Choose then the **transposition mode**: the note and octave. If your instrument is non-transposing (plays in concert pitch), choose **C** and **0**.
-
-![Transposition mode](/help/assets/img/editor/custom-instru-pitched-transposition.png)
-
-#### 4. Tablature configuration
-
-You can then completely configure the **tablature** of the instrument. Choose first **how many strings** your plucked string instrument has (at this time we allow from 4 to 14 strings), its **complete tuning and capo**.
-
-![TABs and tuning configuration](/help/assets/img/editor/custom-instru-pitched-tablature.png)
-
-#### 5. Sound
-
-Choose finally the **sound** of the instrument for our playback.
-
-#### 6. Part name and abbreviation
-
-Set the default part name and abbreviation that will be printed on your scores.
-
-### Unpitched instruments *(Coming soon)*
-
-Custom **unpitched instruments** will be available this quarter. They will include the ability to choose the staves settings, different percussion elements, their mapping and keyboard shortcuts to use them.
-
+<div class="btn-cta-wrapper"><a href="/help/en/music-notation-software/custom-instruments.html" class="btn-cta-site">Discover Custom instruments configurations</a></div>
