@@ -13,7 +13,6 @@ toggleTrill.shortDescription: add/remove a trill at the selected note
 
 | Available in toolbar | **Ornament** |
 | Toolbar icon | ![Trill](https://prod.flat-cdn.com/img/icons/editorActions/trill.svg){:.tb} |
-| Default keyboard shortcut | None |
 {:.feat}
 
 ## What is a trill?

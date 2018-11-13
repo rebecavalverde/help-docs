@@ -14,7 +14,6 @@ removeTremolo.title: Remove a tremolo
 
 | Available in toolbar | **Ornament** |
 | Toolbar icon | ![Tremolo](https://prod.flat-cdn.com/img/icons/editorActions/tremolo.svg){:.tb} |
-| Default keyboard shortcut | None |
 {:.feat}
 
 ## What is a tremolo?

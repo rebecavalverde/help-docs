@@ -12,7 +12,6 @@ toggleGlissando.title: Glissando
 
 | Available in toolbar | **Ornament** |
 | Toolbar icon | ![Glissando](https://prod.flat-cdn.com/img/icons/editorActions/glissando.svg){:.tb} |
-| Default keyboard shortcut | None |
 {:.feat}
 
 ## What is a glissando?

@@ -13,7 +13,6 @@ ghostNote.purpose: A note played as a ghost note is played very softly, almost i
 
 | Available in toolbar | **Note** |
 | Toolbar icon | ![Ghost note](https://prod.flat-cdn.com/img/icons/editorActions/ghost.svg){:.tb} |
-| Default keyboard shortcut | None |
 {:.feat}
 
 ## What are ghost notes?

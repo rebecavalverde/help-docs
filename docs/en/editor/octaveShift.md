@@ -13,12 +13,12 @@ toggle15ba.title: Quindicesima Bassa
 
 ## Summary
 
-| Feature | Toolbar | Icon | Default Keyboard shortcut |
-|:--------|:--------|:-----|:------------------|
-| Ottava (8va) | **Note** | ![Ottava](https://prod.flat-cdn.com/img/icons/editorActions/8va.svg){:.tb} | None |
-| Ottava Bassa (8ba) | **Note** | ![Ottava Bassa](https://prod.flat-cdn.com/img/icons/editorActions/8ba.svg){:.tb} | None |
-| Quindicesima (15ma) | **Note** | ![Quindicesima](https://prod.flat-cdn.com/img/icons/editorActions/15ma.svg){:.tb} | None |
-| Quindicesima Bassa (15ma) | **Note** | ![Quindicesima Bassa](https://prod.flat-cdn.com/img/icons/editorActions/15maBelow.svg){:.tb} | None |
+| Feature | Toolbar | Icon |
+|:--------|:--------|:-----|
+| Ottava (8va) | **Note** | ![Ottava](https://prod.flat-cdn.com/img/icons/editorActions/8va.svg){:.tb} |
+| Ottava Bassa (8ba) | **Note** | ![Ottava Bassa](https://prod.flat-cdn.com/img/icons/editorActions/8ba.svg){:.tb} | 
+| Quindicesima (15ma) | **Note** | ![Quindicesima](https://prod.flat-cdn.com/img/icons/editorActions/15ma.svg){:.tb} |
+| Quindicesima Bassa (15ma) | **Note** | ![Quindicesima Bassa](https://prod.flat-cdn.com/img/icons/editorActions/15maBelow.svg){:.tb} |
 {:.feat}
 
 ## How octave shifts work?

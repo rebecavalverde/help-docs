@@ -11,10 +11,10 @@ insertSlashedGrace.title: Acciaccatura
 
 ## Summary
 
-| Feature | Toolbar | Icon | Default keyboard shortcut |
-|:--------|:--------|:-----|:------------------|
-| Grace note | **Note** | ![Gracen note](https://prod.flat-cdn.com/img/icons/editorActions/gracenote.svg){:.tb} | None |
-| Acciaccatura | **Note** | ![Acciaccatura](https://prod.flat-cdn.com/img/icons/editorActions/slashgracenote.svg){:.tb} | None |
+| Feature | Toolbar | Icon |
+|:--------|:--------|:-----|
+| Grace note | **Note** | ![Gracen note](https://prod.flat-cdn.com/img/icons/editorActions/gracenote.svg){:.tb} |
+| Acciaccatura | **Note** | ![Acciaccatura](https://prod.flat-cdn.com/img/icons/editorActions/slashgracenote.svg){:.tb} |
 {:.feat}
 
 ## What is a Grace Note ?

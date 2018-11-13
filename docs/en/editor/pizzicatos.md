@@ -17,7 +17,6 @@ toggleSnapPizzicato.title: Snap Pizzicato
 
 | Available in toolbar | **Dynamic** |
 | Toolbar icon | ![Pizz](https://prod.flat-cdn.com/img/icons/editorActions/pizz.svg){:.tb} |
-| Default keyboard shortcut | None |
 {:.feat}
 
 ## What is a pizzicato?
