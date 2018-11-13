@@ -14,4 +14,5 @@ rangeSelectDown.title: Add the part under to the selection
 rangeSelectUp.title: Add the part above to the selection
 rangeSelectNextNote.title: Add the next note to the selection
 rangeSelectPrevNote.title: Add the previous note to the selection
+duplicate.title: Duplicate
 ---

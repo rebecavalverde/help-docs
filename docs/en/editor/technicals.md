@@ -1,5 +1,7 @@
 ---
 permalink: 404.html
+technical.title: Playing techniques
+
 toggleUpBow.title: Up bow
 toggleUpBow.shortDescription: add/remove an up bow at the selected note
 toggleUpBow.purpose: The up bow indicates that the string player should play the note with an upward bow movement
