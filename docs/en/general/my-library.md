@@ -65,17 +65,18 @@ Your **trash** contains all the deleted scores and collections, up to 1 year aft
 
 You can find below the list of keyboard shortcuts you can use on the *Library* page:
 
-| Select next resource | **Down arrow** or **J** |
-| Select previous resource | **Up arrow** or **K** |
-| Select range of resource | **Shift + Click** |
-| Extend selection to previous resource | **Shift + Up arrow** |
-| Extend selection to next resource | **Shift + Down arrow** |
-| Select all | **Ctrl + A** (Windows, Chrome OS) <br /> **⌘ + A** (Mac OS)
-| Unselect all<br />Cancel action | **Esc** |
-| Open selected collection or score | **Enter** |
-| Create a new score | **Shift + S** |
-| Create a new collection | **Shift + C** |
-| Rename item | **N** |
+| Select next resource | <span class="kbs-multi"><span class="kb-container"><span class="kb">⇣</span></span> or <span class="kb-container"><span class="kb">J</span></span></span> |
+| Select previous resource | <span class="kbs-multi"><span class="kb-container"><span class="kb">⇡</span></span> or <span class="kb-container"><span class="kb">K</span></span></span>  |
+| Select range of resource | <span class="kb-container"><span class="kb">⇧</span> + Click</span> |
+| Extend selection to previous resource | <span class="kb-container"><span class="kb">⇧</span> + <span class="kb">⇡</span></span> |
+| Extend selection to next resource | <span class="kb-container"><span class="kb">⇧</span> + <span class="kb">⇣</span></span> |
+| Select all | <span class="kbs-multi"><span class="kb-container"><span class="kb">Ctrl</span> + <span class="kb">A</span></span> or <span class="kb-container"><span class="kb">⌘</span> + <span class="kb">A</span></span></span> |
+| Unselect all<br />Cancel action | <span class="kb-container"><span class="kb">Esc</span></span> |
+| Open selected collection or score | <span class="kb-container"><span class="kb">Enter</span></span> |
+| Create a new score | <span class="kb-container"><span class="kb">⇧</span> + <span class="kb">S</span></span> |
+| Create a new collection | <span class="kb-container"><span class="kb">⇧</span> + <span class="kb">C</span></span> |
+| Rename item | <span class="kb-container"><span class="kb">N</span></span> |
+{:.feat}
 
 ## FAQ
 
