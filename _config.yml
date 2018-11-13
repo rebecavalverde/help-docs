@@ -15,6 +15,7 @@ algolia:
     - docs/en/index.md
   settings:
     searchableAttributes: [title, headings, unordered(content), nav]
+    attributesForFaceting: [type, searchable(title), searchable(nav)]
   nodes_to_index: 'p,tr'
   max_record_size: 20000
 
