@@ -13,6 +13,10 @@ algolia:
     - docs/root.md
     - docs/notices.md
     - docs/en/index.md
+  settings:
+    searchableAttributes: [title, headings, unordered(content), nav]
+  nodes_to_index: 'p,tr'
+  max_record_size: 20000
 
 permalink: /:path/
 
