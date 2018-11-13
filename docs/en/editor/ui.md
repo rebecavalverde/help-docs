@@ -12,6 +12,7 @@ setZoom.title: Set the zoom value
 fullscreen.title: Toggle fullscreen
 switchScoreDisplayMode.title: Switch display mode
 switchTouchUI.title: Display or Hide the touch keyboard
+showHelp.title: Display Help
 showLayoutSettings.title: Layout settings
 toggleAnnotationMode.title: Annotation
 enableAnnotationMode.titlle: Enable annotation mode

@@ -4,6 +4,14 @@ description: Discover how to add, remove and re-organize score parts
 nav: editor
 pid: instruments-add-remove
 permalink: en/music-notation-software/instruments-add-remove-order.html
+
+showInstrumentsSettings.title: Show instruments settings
+addStaffAndGuessClef.title: Add a new staff on the part and apply some basic rules to have G + F clefs
+addCustomPitchedPart.title: Add custom pitched part
+addCustomUnpitchedPart.title: Add custom unpitched part
+addPartFromTemplate.title: Add part from template
+movePart.title: Change part order
+removePart.title: Remove part
 ---
 
 Once you created a score, you can add, remove or re-organize parts easily. To manage the instruments and part settings, click one instrument button on the left on the toolbar, then click on "**Manage instruments**".
