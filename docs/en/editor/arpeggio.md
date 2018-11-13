@@ -12,7 +12,6 @@ toggleArpeggio.title: Arpeggio
 
 | Available in toolbar | **Ornament** |
 | Toolbar icon | ![Arpeggio](https://prod.flat-cdn.com/img/icons/editorActions/arpeggio.svg){:.tb} |
-| Default keyboard shortcut | None |
 {:.feat}
 
 ## What is a arpeggio?
