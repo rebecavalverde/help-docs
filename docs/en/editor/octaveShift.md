@@ -19,7 +19,7 @@ toggle15ba.title: Quindicesima Bassa
 | Ottava Bassa (8ba) | **Note** | ![Ottava Bassa](https://prod.flat-cdn.com/img/icons/editorActions/8ba.svg){:.tb} | 
 | Quindicesima (15ma) | **Note** | ![Quindicesima](https://prod.flat-cdn.com/img/icons/editorActions/15ma.svg){:.tb} |
 | Quindicesima Bassa (15ma) | **Note** | ![Quindicesima Bassa](https://prod.flat-cdn.com/img/icons/editorActions/15maBelow.svg){:.tb} |
-{:.feat}
+{:.feat.index}
 
 ## How octave shifts work?
 

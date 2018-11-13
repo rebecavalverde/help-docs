@@ -14,7 +14,7 @@ addTwoDots.title: Double Dots
 |:--------|:--------|:-----|:------------------|
 | Dot | **Note** | ![Dot](https://prod.flat-cdn.com/img/icons/editorActions/dotted.svg){:.tb} | <span class="kb-container"><span class="kb">.</span></span> |
 | Double dot | **Note** | ![Double dot](https://prod.flat-cdn.com/img/icons/editorActions/double_dotted.svg){:.tb} | None |
-{:.feat}
+{:.feat.index}
 
 ## What does a dot do to a music note?
 

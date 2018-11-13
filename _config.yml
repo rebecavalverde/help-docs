@@ -16,7 +16,7 @@ algolia:
   settings:
     searchableAttributes: [title, headings, unordered(content), nav]
     attributesForFaceting: [type, searchable(title), searchable(nav)]
-  nodes_to_index: 'p,tr'
+  nodes_to_index: 'p,table.index'
   max_record_size: 20000
 
 permalink: /:path/

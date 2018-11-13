@@ -21,7 +21,7 @@ Flat provides two ways to color the notes heads, automatically and manually. The
 |:--------|:--------|:-----|
 | [Automatic notes color](#automatically-color-your-notes-heads) | **Document** > **Layout settings** > **Notes heads** | ![Automatic color](https://prod.flat-cdn.com/img/icons/editorActions/layout.svg){:.tb} |
 | [Manual notes color](#manually-color-your-notes-heads) | **Note** | ![Note color](https://prod.flat-cdn.com/img/icons/editorActions/noteColor.svg){:.tb} |
-{:.feat}
+{:.feat.index}
 
 ## Automatically color your notes heads
 

@@ -19,7 +19,7 @@ toggleForceUnbeam.title: Force unbeaming
 | [Beaming Policy](#automatic-beaming-policy) | **Note** | ![Beaming Policy](https://prod.flat-cdn.com/img/icons/editorActions/beamPolicy.svg){:.tb} |
 | [Force beam](#manual-notes-beaming) | **Note** | ![Force beam](https://prod.flat-cdn.com/img/icons/editorActions/beam.svg){:.tb} |
 | [Force un-beam](#manual-notes-beaming) | **Note** | ![Force un-beam](https://prod.flat-cdn.com/img/icons/editorActions/unbeam.svg){:.tb} |
-{:.feat}
+{:.feat.index}
 
 ## What is a beam?
 

@@ -32,7 +32,7 @@ changeDurationSixtyFourth.shortDescription: Change the duration of the current n
 | Sixteenth | **Note** | ![Half](https://prod.flat-cdn.com/img/icons/editorActions/sixteenth.svg){:.tb} | <span class="kb-container"><span class="kb">5</span></span> |
 | Thirtysecond | **Note** | ![Half](https://prod.flat-cdn.com/img/icons/editorActions/thirtysecond.svg){:.tb} | <span class="kb-container"><span class="kb">6</span></span> |
 | Sixtyfourth | **Note** | ![Half](https://prod.flat-cdn.com/img/icons/editorActions/sixtyfourth.svg){:.tb} | <span class="kb-container"><span class="kb">7</span></span> |
-{:.feat}
+{:.feat.index}
 
 ## Notes duration basics
 

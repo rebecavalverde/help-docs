@@ -15,7 +15,7 @@ insertSlashedGrace.title: Acciaccatura
 |:--------|:--------|:-----|
 | Grace note | **Note** | ![Gracen note](https://prod.flat-cdn.com/img/icons/editorActions/gracenote.svg){:.tb} |
 | Acciaccatura | **Note** | ![Acciaccatura](https://prod.flat-cdn.com/img/icons/editorActions/slashgracenote.svg){:.tb} |
-{:.feat}
+{:.feat.index}
 
 ## What is a Grace Note ?
 

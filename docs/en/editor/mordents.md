@@ -34,7 +34,7 @@ toggleLongInvertedMordentBelowDeparture.title: Upper mordent below departure
 | Inverted Long mordent with below approach | **Ornament** | ![Inverted Long mordent with below approach](https://prod.flat-cdn.com/img/icons/editorActions/mordentLongInvertedBelowApproach.svg){:.tb} |
 | Inverted Long mordent with above departure | **Ornament** | ![Inverted Long mordent with above departure](https://prod.flat-cdn.com/img/icons/editorActions/mordentLongInvertedAboveDeparture.svg){:.tb} |
 | Inverted Long mordent with below departure | **Ornament** | ![Inverted Long mordent with below departure](https://prod.flat-cdn.com/img/icons/editorActions/mordentLongInvertedBelowDeparture.svg){:.tb} |
-{:.feat}
+{:.feat.index}
 
 ## What is a mordent?
 
