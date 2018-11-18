@@ -91,6 +91,7 @@ layout: default
                 '</a>' +
               '</div>',
             item: function (hit) {
+              hit._highlightResult.title = hit._highlightResult.title || { value: hit.slug || 'Untitled' };
               return '<div class="result-item" onclick="location.href = \'/help' + hit.url + '\';return false">' +
                 '<a class="title result-link" href="/help' + hit.url + '"><span>' + hit._highlightResult.title.value + '</span><img src="/help/assets/img/arrow-circle-right.svg"></a>' +
                 '<div class="doc-content">' + hit._highlightResult.html.value + '</div>' +
