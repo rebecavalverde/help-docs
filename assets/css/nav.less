@@ -48,7 +48,6 @@
 
     a {
       color: #fff;
-      opacity: .8;
       padding: 15px;
       margin: 0 -15px 0 30px;
       &.active, &:hover {
@@ -70,8 +69,20 @@
     opacity: 1;
   }
 
+  a.user-avatar {
+    display: none;
+    padding: 0;
+    img {
+      width: 32px;
+      height: 32px;
+      border: 2px solid #fff;
+      background: #fff;
+      border-radius: 50px;
+    }
+  }
+
   @media(max-width: 650px) {
-    a.user-dashboard {
+    a.user-dashboard, a.user-avatar {
       display: none!important;
     }
   }
