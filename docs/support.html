@@ -43,7 +43,7 @@ layout: default
     window.CRISP_READY_TRIGGER = function () {
       let hour = new Date().getUTCHours() + 1;
       let day = new Date().getDay();
-      let available = window.$crisp.is('website:available') && hour >= 9 && hour <= 22/* && day >= 1 && day <= 5*/;
+      let available = window.$crisp.is('website:available') && hour >= 9 && hour <= 22 && day >= 1 && day <= 5;
       if (available) {
         let c = document.getElementById('chat-on');
         c.style.display = 'flex';
