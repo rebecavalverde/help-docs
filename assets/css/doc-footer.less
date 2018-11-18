@@ -1,5 +1,42 @@
+.doc-more-help {
+  display: flex;
+  max-width: 420px;
+  margin: 30px auto;
+  padding: 20px;
+  
+  background-color: #fff;
+  border-radius: 4px;
+  
+  box-shadow: @bshadow;
+  -webkit-box-shadow: @bshadow;
+  transition-duration: .2s; 
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: @bshadow-hover;
+    -webkit-box-shadow: @bshadow-hover;
+  }
+  
+  img {
+    flex: 0 0 60px;
+    width: 60px;
+    margin-right: 15px;
+  }
+  .t {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+    color: @text-color;
+  }
+  strong {
+    font-weight: 500;
+    color: @link-color;
+  }
+}
+
 .doc-footer {
-  margin: 30px 0 60px;
+  margin: 30px 0 30px;
   display: flex;
   align-items: flex-start;
   justify-content: flex-end;
