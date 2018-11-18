@@ -14,7 +14,7 @@ If you want to read through all of our policies and terms, they are available ri
 
 Countries' regulations require us to check that you are 13 years of age or older and eligible based on your country of residence.
 
-If you are under age and want to use an individual Flat account, you will need the consent of your parent or legal guardian. They can [contact us](https://flat.io/support) regarding that matter. A simple solution here can also be to ask them to create a Flat account for you.
+If you are under age and want to use an individual Flat account, you will need the consent of your parent or legal guardian. They can [contact us](/help/support) regarding that matter. A simple solution here can also be to ask them to create a Flat account for you.
 
 **Note**: These requirements may not be applicable for [Flat for Education](https://flat.io/edu) accounts, which are subject to [different Terms of Service](/help/en/policies/#for-schools-and-businesses-using-flat-for-education).
 

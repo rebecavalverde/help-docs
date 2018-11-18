@@ -10,7 +10,7 @@ We are committed to our users' right to privacy. We want to share here all the i
 
 You can find below a collection of formal terms and policies as well as more informal content to easily understand our efforts to ensure your protection online. We're grateful for your interest and proud to have you as part of our community!
 
-If you have any questions about this content, [please contact our team](https://flat.io/support).
+If you have any questions about this content, [please contact our team](/help/support).
 
 ## Who provides the service?
 

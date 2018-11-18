@@ -20,7 +20,7 @@ We are always working on adding more documentation and content. If something is 
 
 ## Need help with Flat?
 
-We provide support by [Chat](https://flat.io/support) and [Email](mailto:hello@flat.io) for all our products. We usually reply in a few minutes, so feel free to reach out if you need anything regarding our products.
+We provide support by [Chat](/help/support) and [Email](mailto:hello@flat.io) for all our products. We usually reply in a few minutes, so feel free to reach out if you need anything regarding our products.
 
 **Flat for Education**: We will be happy to chat with you if you need support over the phone or Google Hangouts, please send us a quick message to our support ([edu@flat.io](mailto:edu@flat.io)) and we will schedule a call at your convenience.
 

@@ -12,7 +12,7 @@
     </div>
   </div>
   <div class="items nav-right">
-    <a href="https://flat.io/support">Contact us</a>
+    {% if page.pid != 'support' %}<a href="/help/support">Contact us</a>{% endif %}
     <a href="https://flat.io/auth" class="user-dashboard" id="user-signin">
       <span class="text">Sign in</span>
     </a>

@@ -6,7 +6,7 @@ pid: gc-faq
 permalink: en/education/google-classroom/faq.html
 ---
 
-You can find here the most asked questions about using Flat with Google Classroom. If yours is not here, [please ask our team](https://flat.io/support)!
+You can find here the most asked questions about using Flat with Google Classroom. If yours is not here, [please ask our team](/help/support)!
 
 ## Setup and Rostering
 
@@ -14,7 +14,7 @@ You can find here the most asked questions about using Flat with Google Classroo
 
 In most of the cases and if the student is using a free individual account, we will directly migrate his account to an education account and enroll this student in your course.
 If a student was using Facebook or a password to sign in, they will be able to use the Google Signin on your organization page (i.e. [my-school].flat.io) or Flat's homepage.
-If you have an issue with an account migration, [please contact our team](https://flat.io/support).
+If you have an issue with an account migration, [please contact our team](/help/support).
 
 ### Can I use another integration besides Google Classroom?
 

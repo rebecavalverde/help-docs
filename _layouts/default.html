@@ -27,10 +27,11 @@
       }
       function contactFlat() {
         if (window.$crisp) {
+          window.$crisp.push(['do', 'chat:show']);
           window.$crisp.push(['do', 'chat:open']);
         }
         else {
-          window.location = '/support';
+          window.location = '/help/support';
        }
       };
       function setAvatar(src) {

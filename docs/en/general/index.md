@@ -23,4 +23,4 @@ Do you have a question about Flat? Our FAQ is here for you, you can find the ans
 
 ## Need more help?
 
-Do you have a question that is not answered on this website? Please [contact us](https://flat.io/support), we are always one message away and love to hear from you.
+Do you have a question that is not answered on this website? Please [contact us](/help/support), we are always one message away and love to hear from you.

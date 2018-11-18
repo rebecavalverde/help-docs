@@ -55,4 +55,4 @@ Submissions [are also available in your teacher Drive folder](https://blog.flat.
 
 ## Get help anytime from our product team
 
-Have any questions regarding Flat, or need help to get starting or using Flat? Drop us a line, our product team is [always available for you](https://flat.io/support)!
+Have any questions regarding Flat, or need help to get starting or using Flat? Drop us a line, our product team is [always available for you](/help/support)!
