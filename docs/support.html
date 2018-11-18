@@ -40,22 +40,27 @@ layout: default
   </div>
 
   <script>
-    window.CRISP_READY_TRIGGER = function () {
-      let hour = new Date().getUTCHours() + 1;
-      let day = new Date().getDay();
-      let available = window.$crisp.is('website:available') && hour >= 9 && hour <= 22 && day >= 1 && day <= 5;
-      if (available) {
-        let c = document.getElementById('chat-on');
-        c.style.display = 'flex';
-        c.addEventListener('click', function (event) {
-          window.$crisp.push(['do', 'chat:open']);
-          window.$crisp.push(['do', 'chat:show']);
-          event.preventDefault();
-        });
-      }
-      else {
-        document.getElementById('chat-off').style.display = 'flex';
-      }
-    };
+    var hour = new Date().getUTCHours() + 1;
+    var day = new Date().getDay();
+    var timeAvailable = hour >= 9 && hour <= 22 && day >= 1 && day <= 5;
+    if (!timeAvailable) {
+      document.getElementById('chat-off').style.display = 'flex';
+    }
+    else {
+      window.CRISP_READY_TRIGGER = function () {
+        if (window.$crisp.is('website:available')) {
+          var c = document.getElementById('chat-on');
+          c.style.display = 'flex';
+          c.addEventListener('click', function (event) {
+            window.$crisp.push(['do', 'chat:open']);
+            window.$crisp.push(['do', 'chat:show']);
+            event.preventDefault();
+          });
+        }
+        else {
+          document.getElementById('chat-off').style.display = 'flex';
+        }
+      };
+    }
   </script>
 </div>
