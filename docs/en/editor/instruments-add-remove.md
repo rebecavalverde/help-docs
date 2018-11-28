@@ -14,7 +14,7 @@ movePart.title: Change part order
 removePart.title: Remove part
 ---
 
-Once you created a score, you can add, remove or re-organize parts easily. To manage the instruments and part settings, click one instrument button on the left on the toolbar, then click on "**Manage instruments**".
+Once you created a score, you can add, remove or re-organize parts easily. To manage the instruments and part settings, click on the instrument button on the left on the toolbar, then click on "**Manage instruments**".
 
 ![Manage instruments](/help/assets/img/editor/manage-instruments.png)
 

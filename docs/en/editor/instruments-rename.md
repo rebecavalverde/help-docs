@@ -8,7 +8,7 @@ permalink: en/music-notation-software/instruments-rename.html
 renamePart.title: Rename part
 ---
 
-Once you created a score, you can rename the parts in the document settings. To manage the instruments and part settings, click one instrument button on the left on the toolbar, then click on "**Manage instruments**".
+Once you created a score, you can rename the parts in the document settings. To manage the instruments and part settings, click on the instrument button on the left on the toolbar, then click on "**Manage instruments**".
 
 ![Manage instruments](/help/assets/img/editor/manage-instruments.png)
 
