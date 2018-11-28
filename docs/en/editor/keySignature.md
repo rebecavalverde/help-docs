@@ -1,5 +1,9 @@
 ---
-permalink: 404.html
+title: Add a new key signature
+description: Select the first measure that will get the new key signature, then click on the time signature tool and choose the desired one.
+nav: editor
+pid: keysig
+permalink: en/music-notation-software/keysig.html
 setKey0.title: Set C Major/A Minor key signature (natural)
 setKeyB1.title: Set F Major/D Minor key signature (1b)
 setKeyB2.title: Set Bb Major/G Minor key signature (2b)
@@ -16,3 +20,24 @@ setKeyS5.title: Set B Major/G# Minor key signature (5#)
 setKeyS6.title: Set F# Major/D# Minor key signature (6#)
 setKeyS7.title: Set C# Major key signature (7#)
 ---
+
+## Summary
+
+| Feature | Toolbar | Icon |
+|:--------|:--------|:-----|
+| Key Signature | **Measure** | ![Key Signature](https://prod.flat-cdn.com/img/icons/editorActions/keySignature.svg){:.tb} |
+{:.feat}
+
+## Add a new key signature
+
+You can add a new key signature by going to the **"Measure" toolbar**, clicking on the **Key Signature tool and choosing the new key**. If there is no selection, the new key signature will be applied until the next key or the end of the score. If you only want to change the key on multiple measures, select the measure before choosing the new key signature.
+
+![Add a new key signature](/help/assets/img/editor/key.png)
+
+## Change an existing key signature
+
+*This feature is available in our private beta, contact us if you want to have access to this upcoming release.*
+
+You can change an existing key signature by clicking on the key and choosing the new key, or using the tool available in the "Measure" toolbar.
+
+![Change a key signature](/help/assets/img/editor/key-change.png)
