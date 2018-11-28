@@ -33,7 +33,7 @@ The instruments configuration window allows you to:
 
 * [**Add, remove, or change the order** of the instruments](/help/en/music-notation-software/instruments-add-remove-order.html).
 * [Change the **name of a part and the abbreviation**](/help/en/music-notation-software/instruments-rename.html).
-* **Replace** an instrument with another one. This will replace all the settings of the instrument with the new one. If the original or the new instrument is a transposing instrument, this will automatically transpose the part for you to the new transposition mode.
+* **Replace** an instrument with another one. This will replace all the settings of the instrument with the new one. If the original or the new instrument is a transposing instrument, [this will automatically transpose the part for you to the new transposition mode](/help/en/music-notation-software/transpose.html#transpose-a-complete-part-for-a-different-instrument).
 * **Add or remove staves** of an instrument, by clicking on the arrow on the right of the part name.
 * **Enabling/disable TAB** for an instrument and **customize the tuning** of an instrument.
 
