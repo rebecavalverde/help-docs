@@ -25,14 +25,7 @@ You now have the window opened to create your document, choose a title for this 
 
 [![Choose the title](/help/assets/img/editor/create-score-title.png)](https://flat.io/my-library?m=newscore)
 
-**Import**: We support **MusicXML (*.xml / *.mxl) and MIDI (*.midi / *.midi)** files, and recommend you to use MusicXML files if you import sheet music from another software (you will have the exact music notation imported to Flat).
-
-You can also import the following non-standard files formats to Flat (**feature in beta**). Please note that the import of these files formats is provided as convenience only, and we don't offer an official support for them.
-
-* MuseScore: *.mscz
-* TuxGuitar files: *.tg
-* Guitar Pro files: *.gp (v7), *.gpx (v6), *.gp5, *.gp4, *.gp3
-* Power Tab Editor: *.ptb
+Want to import an existing score and tab instead? [Check out our dedicated help and the supported file formats](/help/en/music-notation-software/import.html).
 
 ## 3. Add the instruments
 
