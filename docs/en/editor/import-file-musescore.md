@@ -4,7 +4,7 @@ ptitle: How do import sheet music from MuseScore?
 description: Discover how to import a Musescore or MusicXML file from Musescore on our cloud-based music notation software Flat.
 nav: editor
 pid: faq
-permalink: en/music-notation-software/import-music-notation-from-musescore.html
+permalink: en/music-notation-software/import-sheet-music-from-musescore.html
 ---
 
 To import your sheet music from any version of MuseScore or MuseScore.com on Flat, we advise you to use MusicXML or directly a MuseScore file (feature in beta).

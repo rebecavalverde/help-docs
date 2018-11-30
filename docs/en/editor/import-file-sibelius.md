@@ -4,7 +4,7 @@ ptitle: How do import sheet music from Sibelius (by Avid) using MusicXML?
 description: Discover how to export a MusicXML file from Sibelius and import it on our cloud-based music notation software Flat.
 nav: editor
 pid: faq
-permalink: en/music-notation-software/import-music-notation-from-sibelius.html
+permalink: en/music-notation-software/import-sheet-music-from-sibelius.html
 ---
 
 To import your sheet music from any version of Sibelius on Flat, we advise you to use MusicXML. MusicXML is the standard exchange format for sheet music and includes all your notation details.

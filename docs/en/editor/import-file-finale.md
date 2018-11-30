@@ -4,7 +4,7 @@ ptitle: How do import sheet music from Finale (by MakeMusic) using MusicXML?
 description: Discover how to export a MusicXML file from Finale and import it on our cloud-based music notation software Flat.
 nav: editor
 pid: faq
-permalink: en/music-notation-software/import-music-notation-from-finale.html
+permalink: en/music-notation-software/import-sheet-music-from-finale.html
 ---
 
 To import your sheet music from any version of Finale on Flat, we advise you to use MusicXML. MusicXML is the standard exchange format for sheet music and includes all your notation details.

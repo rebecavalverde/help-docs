@@ -4,7 +4,7 @@ ptitle: How do import sheet music from Noteflight  using MusicXML?
 description: Discover how to export a MusicXML file from Noteflight and import it on our cloud-based music notation software Flat.
 nav: editor
 pid: faq
-permalink: en/music-notation-software/import-music-notation-from-noteflight.html
+permalink: en/music-notation-software/import-sheet-music-from-noteflight.html
 ---
 
 To import your sheet music from Noteflight on Flat, we advise you to use MusicXML. MusicXML is the standard exchange format for sheet music and includes all your notation details.
