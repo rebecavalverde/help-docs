@@ -8,9 +8,6 @@ concertPitch.title: Concert Pitch
 toggleConcertPitch.title: Toggle Concert Pitch
 ---
 
-
-## Summary
-
 | Available in toolbar | **Note** |
 | Toolbar icon | ![Concert Pitch](https://prod.flat-cdn.com/img/icons/editorActions/concertPitch.svg){:.tb} |
 {:.feat}
