@@ -67,7 +67,7 @@ layout: default
         appId: '4NUHS4DS6H',
         apiKey: '5610d85268f93eafca9a82d8de096ca4',
         indexName: 'production_help_en',
-        urlSync: true
+        routing: true,
       });
 
       search.addWidget(
@@ -106,8 +106,6 @@ layout: default
         instantsearch.widgets.pagination({
           container: '#pagination-container',
           maxPages: 10,
-          // scrollTo: false,
-          // showFirstLast: false,
         })
       );
       

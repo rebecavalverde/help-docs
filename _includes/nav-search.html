@@ -1,0 +1,83 @@
+<div class="nav-search">
+  <div id="search-box"></div>
+  <div id="hits"></div>
+  <script>
+    window.onload = function () {
+      var search = instantsearch({
+        appId: '4NUHS4DS6H',
+        apiKey: '5610d85268f93eafca9a82d8de096ca4',
+        indexName: 'production_help_en',
+      });
+
+      search.addWidget(
+        instantsearch.widgets.configure({
+          hitsPerPage: 10,
+        })
+      );
+
+      search.addWidget(
+        instantsearch.widgets.searchBox({
+          container: '#search-box',
+          placeholder: 'What can we help you with? Search for a topic or question…',
+          autofocus: false,
+        })
+      );
+
+      search.addWidget(
+        instantsearch.widgets.hits({
+          container: '#hits',
+          templates: {
+            empty: '<a class="hit-notfound" href="/help/support">' +
+                  '<img src="/help/assets/img/home-email.svg">' +
+                  '<div class="t">' +
+                    '<div class="hit-title"><span>Ask our team</span><img src="/help/assets/img/arrow-circle-right.svg"></div>' +
+                    '<div class="hit-content">We couldn\'t find the answer that you need in our help, but our team is here to help you. Drop us a line and our product team will get back to you shortly.</div>' +
+                  '</div>' +
+                '</a>',
+            item: function (hit) {
+              hit._highlightResult.title = hit._highlightResult.title || { value: hit.slug || 'Untitled' };
+              hit._highlightResult.html = hit._highlightResult.html || { value: '' };
+              return '<div class="hit" onclick="location.href = \'/help' + hit.url + '\';return false">' +
+                '<a class="hit-title" href="/help' + hit.url + '"><span>' + hit._highlightResult.title.value + '</span><img src="/help/assets/img/arrow-circle-right.svg"></a>' +
+                '<div class="doc-content hit-content">' + hit._highlightResult.html.value + '</div>' +
+                '</div>';
+            }
+          },
+        })
+      );
+      
+      search.addWidget(
+        instantsearch.widgets.analytics({
+          pushFunction: function (formattedParameters, state, results) {
+            window.ga('set', 'page', '/help/search/?query=' + state.query + '&' + formattedParameters + '&numberOfHits=' + results.nbHits);
+            window.ga('send', 'pageView');
+          }
+        })
+      );
+
+      var popper = new Popper(
+        document.getElementById('search-box'),
+        document.getElementById('hits'),
+        {
+          placement: 'bottom',
+          modifiers: {
+            preventOverflow: {boundariesElement: 'viewport'},
+          },
+        },
+      );
+
+      search.on('render', function () {
+        var input = document.getElementsByClassName('ais-search-box--input');
+        if (input.length > 0 && input[0].value.length > 0) {
+          document.getElementById('hits').classList.add('open');
+          popper.scheduleUpdate();
+        }
+        else {
+          document.getElementById('hits').classList.remove('open');
+        }
+      });
+
+      search.start();
+    };
+  </script>
+</div>

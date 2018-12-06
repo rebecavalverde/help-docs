@@ -5,7 +5,11 @@
     {% include nav.html %}
     <main>{{ content }}</main>
     {% include footer.html %}
+    <link href="/help/assets/libs/instantsearch/2.10.4/instantsearch.min.css" rel="stylesheet" type="text/css">
+    <link href="/help/assets/libs/instantsearch/2.10.4/instantsearch-theme-algolia.min.css" rel="stylesheet" type="text/css">
+    <script src="/help/assets/libs/instantsearch/2.10.4/instantsearch.min.js"></script>
     <script src="/help/assets/libs/fetch/2.0.3/fetch.min.js"></script>
+    <script src="/help/assets/libs/popper/1.14.6/popper.min.js"></script>
     <script>
       var baseUrl = '/api';
       var fopts = {
