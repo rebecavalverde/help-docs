@@ -71,7 +71,7 @@ On this page, discover the music notations available on our music notation softw
 
 ## Measure
 
-| [![Add measure](https://prod.flat-cdn.com/img/icons/editorActions/insertMeasureAfter.svg){:.tb}](/help/en/music-notation-software/addmeasure.html) | [Add or remove Measures](/help/en/music-notation-software/addmeasure.html) |
+| [![Add measure](https://prod.flat-cdn.com/img/icons/editorActions/insertMeasureAfter.svg){:.tb}![Remove measure](https://prod.flat-cdn.com/img/icons/editorActions/removeMeasure.svg){:.tb}](/help/en/music-notation-software/addmeasure.html) | [Add or remove Measures](/help/en/music-notation-software/addmeasure.html) |
 | [![Clef](https://prod.flat-cdn.com/img/icons/editorActions/clef.svg){:.tb}](/help/en/music-notation-software/clef.html) | [Add or change Clef](/help/en/music-notation-software/clef.html) |
 | [![Key signature](https://prod.flat-cdn.com/img/icons/editorActions/keySignature.svg){:.tb}](/help/en/music-notation-software/keysig.html) | [Add or change Key Signature](/help/en/music-notation-software/keysig.html) |
 | [![Time signature](https://prod.flat-cdn.com/img/icons/editorActions/timeSignature.svg){:.tb}](/help/en/music-notation-software/timesig.html) | [Add or change Time signature](/help/en/music-notation-software/timesig.html) |

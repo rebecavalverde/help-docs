@@ -4,6 +4,7 @@ description: In the measure mode, select the first measure that will get the new
 nav: editor
 pid: clef
 permalink: en/music-notation-software/clef.html
+clef.title: Clef
 setClefC1.title: Set clef C1
 setClefC2.title: Set clef C2
 setClefC3.title: Set clef C3

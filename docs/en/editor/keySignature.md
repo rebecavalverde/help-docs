@@ -4,6 +4,7 @@ description: Select the first measure that will get the new key signature, then 
 nav: editor
 pid: keysig
 permalink: en/music-notation-software/keysig.html
+keySignature.title: Key signature
 setKey0.title: Set C Major/A Minor key signature (natural)
 setKeyB1.title: Set F Major/D Minor key signature (1b)
 setKeyB2.title: Set Bb Major/G Minor key signature (2b)
