@@ -1,0 +1,116 @@
+.ddn-content {
+  display: none;
+  position: absolute;
+  background: #fff;
+  box-shadow: 0px 2px 12px 1px rgba(0,0,0,0.03),
+              0px 10px 30px 5px #DDE4EB;
+  border: none;
+  border-radius: 6px;
+  padding: 12px 0;
+
+  > ul {
+    margin: 0;
+    padding: 0;
+
+    > li {
+      list-style: none;
+
+      > a {
+        display: block;
+        padding: 10px 30px;
+        font-weight: normal;
+        color: @flat-grey-dark;
+        white-space: nowrap;
+        &:hover, &:focus {
+          background: none;
+        }
+      }
+    }
+  }
+
+  &.on-color {
+    box-shadow: 0px 2px 12px 1px rgba(0,0,0,0.03),
+                0px 10px 30px 5px rgba(6,6,6,0.3);
+  }
+}
+
+.ddn.open {
+  > .ddn-content {
+    display: block;
+  }
+}
+
+// Dropdown arrows
+.ddn-content [x-arrow],
+.ttip .tooltip-arrow {
+    border-color: #fff;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    position: absolute;
+    margin: 5px;
+}
+
+.ddn-content[x-placement^="top"],
+.ttip[x-placement^="top"] {
+  margin-bottom: 10px;
+
+  [x-arrow], .tooltip-arrow {
+    border-width: 5px 5px 0 5px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    bottom: -5px;
+    left: ~"calc(50% - 5px)";
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+
+.ddn-content[x-placement^="bottom"],
+.ttip[x-placement^="bottom"] {
+  margin-top: 10px;
+
+  [x-arrow], .tooltip-arrow {
+    border-width: 0 5px 5px 5px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    border-top-color: transparent;
+    top: -5px;
+    left: ~"calc(50% - 5px)";
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+
+.ttip[x-placement^="right"],
+.ddn-content[x-placement^="right"] {
+  margin-left: 10px;
+
+  [x-arrow], .tooltip-arrow {
+    border-width: 5px 5px 5px 0;
+    border-left-color: transparent;
+    border-top-color: transparent;
+    border-bottom-color: transparent;
+    left: -5px;
+    top: ~"calc(50% - 5px)";
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+.ddn-content[x-placement^="left"],
+.ttip[x-placement^="left"] {
+  margin-right: 10px;
+
+  [x-arrow], .tooltip-arrow {
+    border-width: 5px 0 5px 5px;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    right: -5px;
+    top: ~"calc(50% - 5px)";
+    margin-left: 0;
+    margin-right: 0;
+  }
+}

@@ -12,48 +12,7 @@ layout: default
   <div id="search-box"></div>
 
   <div class="hhome-cards" id="cards">
-    <a class="card card-general" href="/help/en/general/">
-      <img src="/help/assets/img/home-general.svg" alt="General Help">
-      <div class="t">
-        <h2>General help</h2>
-        <div class="description">Have a question about Flat, our Platform, your Account? Check out this section.</div>
-      </div>
-    </a>
-    <a class="card card-editor" href="/help/en/music-notation-software/">
-      <img src="/help/assets/img/home-editor.svg" alt="Editor">
-      <div class="t">
-        <h2>Editor</h2>
-        <div class="description">Get started with our music notation software and learn tips about our app.</div>
-      </div>
-    </a>
-    <a class="card card-edu" href="/help/en/education/">
-      <img src="/help/assets/img/home-edu.svg" alt="Flat for Education">
-      <div class="t">
-        <h2>Flat for Education</h2>
-        <div class="description">Learn about our dedicated education features and integrations.</div>
-      </div>
-    </a>
-    <a class="card card-dev" href="/help/en/music-notation-embed/">
-      <img src="/help/assets/img/logos/flat-embed-pub.svg" alt="Flat Music Notation Embed">
-      <div class="t">
-        <h2>Sheet music embed</h2>
-        <div class="description">Embed interactive music notation in your websites, blogs and apps.</div>
-      </div>
-    </a>
-    <a class="card card-dev" href="https://flat.io/developers">
-      <img src="/help/assets/img/home-dev.svg" alt="Developer Help">
-      <div class="t">
-        <h2>APIs for Developers</h2>
-        <div class="description">Developers, discover how to use and integrate our APIs and Music notation Embed.</div>
-      </div>
-    </a>
-    <a class="card card-support" href="/help/support">
-      <img src="/help/assets/img/home-email.svg" alt="Email Support">
-      <div class="t">
-        <h2>Support from our team</h2>
-        <div class="description">Got feedback or questions? Drop us a line and we'll get back to you shortly!</div>
-      </div>
-    </a>
+    {% include categories.html %}
   </div>
 
   <div class="hresults" id="results">
@@ -62,7 +21,7 @@ layout: default
   </div>
 
   <script>
-    window.onload = function () {
+    window.addEventListener('load', function () {
       var search = instantsearch({
         appId: '4NUHS4DS6H',
         apiKey: '5610d85268f93eafca9a82d8de096ca4',
@@ -134,8 +93,6 @@ layout: default
       });
 
       search.start();
-    };
+    });
   </script>
-
-  
 </div>

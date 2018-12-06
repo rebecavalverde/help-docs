@@ -1,0 +1,50 @@
+<div id="nav-categories" class="ddn">
+  <button id="categories-trigger" aria-label="Go to another category">
+    <span>{% if page.nav == 'general' %}General
+    {% elsif page.nav == 'edu' %}Education
+    {% elsif page.nav == 'embed' %}Embed
+    {% elsif page.nav == 'editor' %}Editor
+    {% else %}Help Categories{% endif %}</span>
+    <svg width="10" height="9" viewBox="0 0 14 9" xmlns="http://www.w3.org/2000/svg">
+      <path d="M1.05 1.914l5.827 5.173 5.827-5.174" stroke-linecap="round" stroke="#fff" stroke-width="2" stroke-linejoin="round" fill="none"></path>
+    </svg>
+  </button>
+  <div id="categories-ddn" class="ddn-content on-color">
+    <div x-arrow></div>
+    <div class="ddn-inner">
+      {% include categories.html %}
+    </div>
+  </div>
+
+  <script>
+    window.addEventListener("load", function () {
+      var container = document.getElementById('nav-categories');
+      var trigger = document.getElementById('categories-trigger');
+      var ddn = document.getElementById('categories-ddn');
+
+      var popper = new Popper(trigger, ddn, {
+        placement: 'bottom',
+        modifiers: {
+          preventOverflow: {boundariesElement: 'viewport'},
+        },
+      });
+
+      var clickOutside = function () {
+        container.classList.remove('open');
+        document.removeEventListener('click', clickOutside);
+      };
+
+      trigger.addEventListener('click', function (event) {
+        event.preventDefault();
+        event.stopPropagation();
+
+        container.classList.toggle('open');
+        // clicks outside ddn        
+        if (container.classList.contains('open')) {
+          document.addEventListener('click', clickOutside);
+        }
+        popper.scheduleUpdate();
+      });
+    });
+  </script>
+</div>
