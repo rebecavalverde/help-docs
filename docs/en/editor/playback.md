@@ -6,7 +6,7 @@ pid: playback
 permalink: en/music-notation-software/playback.html
 ---
 
-Flat integrates a great playback that interprets your sheet music directly in your web browser, without any plugins. Discover here [how to use it](#use-the-playback), [change the volume](#change-the-volume), the [instruments' reverb](#customize-the-instruments-reverb), [swing](#enable-the-swing) and [use our metronome](#change-the-metronome-mode).
+Flat integrates a great playback that interprets your sheet music directly in your web browser, without any plugins. Discover here [how to use it](#use-the-playback), [change the volume](#change-the-volume), the [instruments' reverb](#customize-the-instruments-reverb), [swing](#enable-the-swing) and [use our metronome](/help/en/music-notation-software/metronome.html).
 
 ## Implementation notes
 
@@ -34,7 +34,3 @@ At this time, most of the notations are interpreted, except:
 ## Enable the swing
 
 {% include_relative generated/swing.md %}
-
-## Change the metronome mode
-
-{% include_relative generated/deactivatemetronome.md %}
