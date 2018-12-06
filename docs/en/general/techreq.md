@@ -18,9 +18,9 @@ If you use a device with iOS, Flat is also available as a native app for your de
 | Chromium | 33 | Latest stable version |
 | Firefox[^1] | 29 | Latest stable version |
 | Opera | 20 (2014) | Latest stable version |
-| Safari (Mac)[^1]  | 7.1 | Latest stable version |
+| Safari (Mac OS)[^1]  | 7.1 | Latest stable version |
 | Microsoft Edge[^1] | Any version | Latest stable version |
-| Internet explorer[^2] | 11 | Microsoft Edge |
+| Internet explorer[^2] | 11 (provided on a *best effort* basis) | Microsoft Edge |
 
 | Mobile Browser | Preferred Version |
 |:---------------|:------------------|
