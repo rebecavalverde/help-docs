@@ -37,7 +37,7 @@ The instruments configuration window allows you to:
 * **Add or remove staves** of an instrument, by clicking on the arrow on the right of the part name.
 * **Enabling/disable TAB** for an instrument and **customize the tuning** of an instrument.
 
-![Change instruments](https://flat.io/img/help/editor_instruments_en.gif)
+![Change instruments](/help/assets/img/editor/manage-instruments.png)
 
 ## Create custom instruments
 
