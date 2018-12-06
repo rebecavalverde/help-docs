@@ -20,4 +20,4 @@ Discover a quick demo of our iOS app below:
 
 Flat also perfectly works as a mobile web app that you can use online and offline. Simply open [flat.io](https://flat.io) in your preferred mobile web browser and sign in with your Flat account to use it.
 
-<img src="/help/assets/img/editor/editor-mobile-layout.jpg" style="width: 300px; border: 0;" alt="Flat on Chrome for Android">
+<img src="/help/assets/img/editor/mobile-interface.png" style="width: 300px; border: 0;" alt="Flat on Chrome for Android">
