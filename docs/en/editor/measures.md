@@ -21,7 +21,7 @@ removeMeasure.shortDescription: remove the selected measure
 | Insert measure before | **Measure** | ![Insert measure before](https://prod.flat-cdn.com/img/icons/editorActions/insertMeasureBefore.svg){:.tb} |
 | Insert measure after | **Measure** | ![Insert measure after](https://prod.flat-cdn.com/img/icons/editorActions/insertMeasureAfter.svg){:.tb} |
 | Remove measure | **Measure** | ![Remove](https://prod.flat-cdn.com/img/icons/editorActions/removeMeasure.svg){:.tb} |
-{:.feat}
+{:.feat.index}
 
 ## How to add a new measure?
 

@@ -34,7 +34,7 @@ removeTuplet.title: Remove tuplet
 | Septuplet | Note → Tuplet | ![Tuplet](https://prod.flat-cdn.com/img/icons/editorActions/tuplet7.svg){:.tb} |
 | Nonuplet | Note → Tuplet | ![Tuplet](https://prod.flat-cdn.com/img/icons/editorActions/tuplet9.svg){:.tb} |
 | Tuplet (11) | Note → Tuplet | ![Tuplet](https://prod.flat-cdn.com/img/icons/editorActions/tuplet11.svg){:.tb} |
-{:.feat}
+{:.feat.index}
 
 ## What is a tuplet?
 

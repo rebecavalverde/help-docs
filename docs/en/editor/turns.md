@@ -17,7 +17,7 @@ toggleInvertedTurn.shortDescription: add/remove an inverted turn at the selected
 |:--------|:--------|:-----|
 | Turn | **Ornament** | ![Turn](https://prod.flat-cdn.com/img/icons/editorActions/turn.svg){:.tb} |
 | Inverted turn | **Ornament** | ![Inverted turn](https://prod.flat-cdn.com/img/icons/editorActions/turnInverted.svg){:.tb} |
-{:.feat}
+{:.feat.index}
 
 ## What is a turn?
 

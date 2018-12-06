@@ -15,7 +15,7 @@ toggleFermata.purpose: The fermata is used to state that a note/rest can be hold
 | Available in toolbar | **Articulation** |
 | Toolbar icon | ![Fermata](https://prod.flat-cdn.com/img/icons/editorActions/fermata.svg){:.tb} |
 | Default keyboard shortcut (Only in the Articulation toolbar)| <span class="kb-container"><span class="kb">7</span></span> |
-{:.feat}
+{:.feat.index}
 
 ## What is a Fermata?
 
