@@ -1,6 +1,6 @@
 ---
-title: How do import a file from MuseScore?
-ptitle: How do import sheet music from MuseScore?
+title: How to import a file from MuseScore?
+ptitle: How to import sheet music from MuseScore?
 description: Discover how to import a Musescore or MusicXML file from Musescore on our cloud-based music notation software Flat.
 nav: editor
 pid: faq

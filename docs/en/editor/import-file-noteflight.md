@@ -1,6 +1,6 @@
 ---
-title: How do import a file from Noteflight?
-ptitle: How do import sheet music from Noteflight  using MusicXML?
+title: How to import a file from Noteflight?
+ptitle: How to import sheet music from Noteflight using MusicXML?
 description: Discover how to export a MusicXML file from Noteflight and import it on our cloud-based music notation software Flat.
 nav: editor
 pid: faq

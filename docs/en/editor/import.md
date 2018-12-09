@@ -32,8 +32,8 @@ We believe in cloud reversibility, so at any time you [can export your scores ba
 
 Need help to export your files from another software and import them on Flat? Check out the dedicated help pages below:
 
-* [How do import a file from Finale?](/help/en/music-notation-software/import-sheet-music-from-finale.html)
-* [How do import a file from Sibelius?](/help/en/music-notation-software/import-sheet-music-from-sibelius.html)
-* [How do import a file from MuseScore?](/help/en/music-notation-software/import-sheet-music-from-musescore.html)
-* [How do import a file from Noteflight?](/help/en/music-notation-software/import-sheet-music-from-noteflight.html)
+* [How to import a file from Finale?](/help/en/music-notation-software/import-sheet-music-from-finale.html)
+* [How to import a file from Sibelius?](/help/en/music-notation-software/import-sheet-music-from-sibelius.html)
+* [How to import a file from MuseScore?](/help/en/music-notation-software/import-sheet-music-from-musescore.html)
+* [How to import a file from Noteflight?](/help/en/music-notation-software/import-sheet-music-from-noteflight.html)
 {:.faqul}

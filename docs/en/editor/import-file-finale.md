@@ -1,6 +1,6 @@
 ---
-title: How do import a file from Finale?
-ptitle: How do import sheet music from Finale (by MakeMusic) using MusicXML?
+title: How to import a file from Finale?
+ptitle: How to import sheet music from Finale (by MakeMusic) using MusicXML?
 description: Discover how to export a MusicXML file from Finale and import it on our cloud-based music notation software Flat.
 nav: editor
 pid: faq

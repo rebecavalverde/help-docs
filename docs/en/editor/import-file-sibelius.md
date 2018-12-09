@@ -1,6 +1,6 @@
 ---
-title: How do import a file from Sibelius?
-ptitle: How do import sheet music from Sibelius (by Avid) using MusicXML?
+title: How to import a file from Sibelius?
+ptitle: How to import sheet music from Sibelius (by Avid) using MusicXML?
 description: Discover how to export a MusicXML file from Sibelius and import it on our cloud-based music notation software Flat.
 nav: editor
 pid: faq
