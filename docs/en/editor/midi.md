@@ -3,7 +3,7 @@ title: MIDI Input / MIDI Output
 description: Flat MIDI Input / Output, use your MIDI devices to compose in your web browser with Flat. Discover the multiple MIDI options at your disposal.
 nav: editor
 pid: midi
-permalink: en/music-notation-software/midi.html
+permalink: en/music-notation-software/midistart.html
 ---
 
 Flat make use of built-in solutions to connect Flat to your MIDI devices, DAW and sequencers through MIDI ports. This help page explains how to use both the [MIDI input](#midi-input) and [MIDI output](#midi-output) features.
@@ -70,4 +70,4 @@ The MIDI output feature allows redirecting the audio flux to another MIDI-compat
 It opens great playback possibilities, the most obvious usage being with Native Instrument's Kontakt.
 Once an output port has been selected in the MIDI selection menu, each part will be assigned a MIDI channel following the layout order (up to 16 parts, due to MIDI limitations).
 
-You can find more information on how to connect Flat to another software using the MIDI output feature and a virtual MIDI port on [this page](/help/en/music-notation-software/midi-output-setup.html)
+You can find more information on how to connect Flat to another software using the MIDI output feature and a virtual MIDI port on [this page](/help/en/music-notation-software/midioutput.html)

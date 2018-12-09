@@ -3,7 +3,7 @@ title: MIDI Output Setup
 description: Connect Flat to any software or hardware accepting MIDI input. Learn how to connect your favorite music notation editor to synthesizers, sequencers and samplers (like Kontakt).
 nav: editor
 pid: midi
-permalink: en/music-notation-software/midi-output-setup.html
+permalink: en/music-notation-software/midioutput.html
 ---
 
 Flat power users get an exclusive access to our MIDI output feature.
