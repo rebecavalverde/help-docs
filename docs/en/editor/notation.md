@@ -9,6 +9,7 @@ permalink: en/music-notation-software/notation-features.html
 On this page, discover the music notations available on our music notation software, [Flat](https://flat.io), organized by group of features and toolbars. Open the feature page to see how to use it.
 
 * [Parts and Instruments](#parts-and-instruments)
+* [Layout](#layout-and-styles)
 * [Note](#note)
 * [Articulation](#articulation)
 * [Ornament](#ornament)
@@ -16,14 +17,23 @@ On this page, discover the music notations available on our music notation softw
 * [Measure](#measure)
 * [Text](#text)
 
-## Parts, Instruments and Layout
+## Parts and Instruments
 
 | [![Instruments](https://prod.flat-cdn.com/img/icons/_instrument/group-keyboards.svg){:.tb}](/help/en/music-notation-software/instruments-add-remove-order.html) | [Add, Remove and Re-order parts](/help/en/music-notation-software/instruments-add-remove-order.html) |
 | [![Instruments](https://prod.flat-cdn.com/img/icons/_instrument/group-keyboards.svg){:.tb}](/help/en/music-notation-software/display-hide-parts.html) | [Show or Hide parts when working on your sheet music](/help/en/music-notation-software/display-hide-parts.html) |
 | [![Instruments](https://prod.flat-cdn.com/img/icons/_instrument/group-keyboards.svg){:.tb}](/help/en/music-notation-software/instruments-rename.html) | [Rename parts](/help/en/music-notation-software/instruments-rename.html) |
 | [![Instruments](https://prod.flat-cdn.com/img/icons/_instrument/group-keyboards.svg){:.tb}](/help/en/music-notation-software/custom-instruments.html) | [Creating and saving Custom Instruments configurations](/help/en/music-notation-software/custom-instruments.html) |
 | [![Instruments](https://prod.flat-cdn.com/img/icons/_instrument/group-keyboards.svg){:.tb}](/help/en/music-notation-software/transpose.html#transpose-a-complete-part-for-a-different-instrument) | [Transpose a part from one instrument to another](/help/en/music-notation-software/transpose.html#transpose-a-complete-part-for-a-different-instrument) |
+{:.feat.flist}
+
+## Layout and Styles
+
 |  | [Add or change the Title, Subtitle, License, Composer or Lyricist](/help/en/music-notation-software/credits.html) |
+| [![Page Layout](https://prod.flat-cdn.com/img/icons/scoreEditor/pageLayout.svg){:.tb}](/help/en/music-notation-software/layout-page.html) | [Page size, orientation and margins](/help/en/music-notation-software/layout-page.html) |
+| [![Staves](https://prod.flat-cdn.com/img/icons/scoreEditor/staves.svg){:.tb}](/help/en/music-notation-software/layout-staves.html) | [Staves size and spacing between parts and staves](/help/en/music-notation-software/layout-staves.html) |
+| [![Measures](https://prod.flat-cdn.com/img/icons/scoreEditor/measures.svg){:.tb}](/help/en/music-notation-software/layout-measures.html) | [Number of measures per system and notes spacing](/help/en/music-notation-software/layout-measures.html) |
+| [![Measures numbers](https://prod.flat-cdn.com/img/icons/scoreEditor/measuresNumbers.svg){:.tb}](/help/en/music-notation-software/layout-measures-numbers.html) | [Measures numbers](/help/en/music-notation-software/layout-measures-numbers.html) |
+| [![Automatic notes display mode](https://prod.flat-cdn.com/img/icons/editorActions/noteColor.svg){:.tb}](/help/en/music-notation-software/boomwhackers-color-sheet-music.html) | [Automatic Boomwhacker colors and Shape notes](/help/en/music-notation-software/boomwhackers-color-sheet-music.html) |
 {:.feat.flist}
 
 ## Note
