@@ -10,12 +10,12 @@ One of the most common issue while setting up a MIDI device is when the device i
 
 This problem mostly happens with Windows and Linux, as MacOS and ChromeOS offer a generic driver which doesn't require the need for a driver.
 
-On this page, we give the link to the main MIDI devices constructors drivers pages.
+On this page, we give the link to the major MIDI devices manufacturers drivers pages.
 
 | Constructor | Model | Driver page |
 | ----------- | ----- | ----------- |
-| Korg | All models | https://www.korg.com/us/support/download/product/1/285/ |
-| M-Audio | All models | https://m-audio.com/support/drivers |
-| Native Instruments | All models | https://www.native-instruments.com/en/support/downloads/drivers-other-files/ |
-| Yamaha | All models | https://usa.yamaha.com/support/updates/index.html |
+| Korg | All models | [https://www.korg.com/us/support/download/product/1/285/](https://www.korg.com/us/support/download/product/1/285/) |
+| M-Audio | All models | [https://m-audio.com/support/drivers](https://m-audio.com/support/drivers) |
+| Native Instruments | All models | [https://www.native-instruments.com/en/support/downloads/drivers-other-files/](https://www.native-instruments.com/en/support/downloads/drivers-other-files/) |
+| Yamaha | All models | [https://usa.yamaha.com/support/updates/index.html](https://usa.yamaha.com/support/updates/index.html) |
 

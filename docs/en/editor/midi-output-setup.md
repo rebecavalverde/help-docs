@@ -33,7 +33,7 @@ It is quite easy to create a virtual MIDI port on MacOS as you don't need to ins
 #### On Windows and Linux
 Windows and Linux don't offer a built-in way to create virtual MIDI ports, so you will have to install a third-party software.
 
-1. Download the (loopMIDI)[http://www.tobias-erichsen.de/wp-content/uploads/2015/08/loopMIDISetup_1_0_13_24.zip] software created by Tobias Erichsen.
+1. Download the [loopMIDI](http://www.tobias-erichsen.de/wp-content/uploads/2015/08/loopMIDISetup_1_0_13_24.zip) software created by Tobias Erichsen.
 2. Unzip it and proceed to the setup.
 3. Once installed, launch it.
 ![Search for loopMIDI](/help/assets/img/midi/02_search_startmenu-resize.gif)

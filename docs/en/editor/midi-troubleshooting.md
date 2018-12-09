@@ -6,7 +6,7 @@ pid: midi
 permalink: en/music-notation-software/midi-troubleshooting.html
 ---
 
-Most of modern MIDI devices are automatically setup once plugged to a modern computer.
+Most of the modern MIDI devices are automatically set up once plugged to a modern computer.
 However, for older devices and computers and for some exceptions, it may not be recognized once you plug it in.
 
 This page purpose is to list the most common issues when setting up your MIDI device and how to solve them.
@@ -18,7 +18,7 @@ The most common issue is when the MIDI device driver is missing. A "driver" is a
 There are different ways to find the correct driver for your device.
 Often, a CD will be packaged with the MIDI device, containing all the necessary components to run the device, including the drivers.
 
-If you don't have a CD, no worries! You can also find your device driver online. The safest place to get it is from the MIDI device manufacturer website. You can find a list of the most popular manufacturers website [on this page](/help/en/music-notation-software/midi-drivers.html) with the direct link to the drivers download page for each brand.
+If you don't have a CD, no worries! You can also find your device driver online. The safest place to get it is from the MIDI device manufacturer website. You can find a list of the most popular manufacturer's website [on this page](/help/en/music-notation-software/midi-drivers.html) with the direct link to the driver's download page for each brand.
 
 With modern devices and systems, the drivers are automatically installed by the system, or replaced by a generic driver, making the driver installation pointless.
 
@@ -26,10 +26,12 @@ With modern devices and systems, the drivers are automatically installed by the 
 
 MIDI devices older than 15 years were not always including a USB port to transmit MIDI signals. Instead, MIDI ports were used for this purpose.
 
-The only way to use these MIDI devices with your computer as MIDI controllers is to use a MIDI to USB adapter.
+The only way to use these MIDI devices as MIDI controllers with your computer is to use a MIDI to USB adapter.
 
-Those are then quite easy to setup, as they are plug-and-play.
-Yet, a common mistake is to invert the two MIDI wires of the adapter. It may in fact be confusing which wire need to go to which MIDI port.
+![MIDI USB adapter](/help/assets/img/midi/midiusbadapter.jpg)
+
+Those are then quite easy to set up, as they are plug-and-play.
+Yet, a common mistake is to invert the two MIDI wires of the adapter. It may, in fact, be confusing which wire needs to go to which MIDI port.
 
 To make it simple just follow these instructions:
 

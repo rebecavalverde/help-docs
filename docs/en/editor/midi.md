@@ -28,8 +28,11 @@ We are really aware of these missing features and will work on improving them in
 
 ## MIDI port selection
 
+
 The MIDI selection menu is divided into two sections: input and output ports.
 Each section allows to select one port. However, a port cannot be selected as an input and as an output at the same time.
+
+![MIDI selection menu](/help/assets/img/midi/midiselectionmenu.png)
 
 The MIDI selection menu also offers a way to disable the step mode, in order to play with the MIDI device and Flat sounds, without having notes being written on the score.
 
@@ -50,9 +53,16 @@ Chords are also supported and will make the composition process frictionless.
 To start a MIDI recording, click on the record button just beside the play button.
 
 If it's the first time the real-time recording feature is being used with this device, the MIDI calibration window will appear.
+
+![MIDI calibration](/help/assets/img/midi/midicalibration.png)
+
 The purpose of this calibration is to understand the duration the average note is being held and the delay between each, depending on the note sequence. This step isn't mandatory and it is skippable by clicking on the Skip button.
 
-Then, a dark overlay will take place and the metronome will start counting, indicating the start of the recording. Once the sequence has been played, it needs to be stopped by clicking on the stop button. The notes will be analyzed and set from the cursor location, overriding the existing notes on this range.
+Then, a dark overlay will take place and the metronome will start counting, indicating the start of the recording.
+
+![MIDI recording](/help/assets/img/midi/midirecording.png)
+
+Once the sequence has been played, it needs to be stopped by clicking on the stop button. The notes will be analyzed and set from the cursor location, overriding the existing notes on this range.
 
 ## MIDI Output
 
