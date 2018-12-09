@@ -8,6 +8,10 @@ permalink: en/music-notation-software/midi.html
 
 Flat make use of built-in solutions to connect Flat to your MIDI devices, DAW and sequencers through MIDI ports. This help page explains how to use both the [MIDI input](#midi-input) and [MIDI output](#midi-output) features.
 
+## Troubleshooting
+
+You can [here](/help/en/music-notation-software/midi-troubleshooting.html) find our dedicated page on MIDI troubleshooting.
+
 ## Implementation notes
 
 The MIDI Input and Output features are still at an early development stage and several critical features aren't supported yet.
@@ -55,3 +59,5 @@ Then, a dark overlay will take place and the metronome will start counting, indi
 The MIDI output feature allows redirecting the audio flux to another MIDI-compatible software, or MIDI device, through a MIDI port.
 It opens great playback possibilities, the most obvious usage being with Native Instrument's Kontakt.
 Once an output port has been selected in the MIDI selection menu, each part will be assigned a MIDI channel following the layout order (up to 16 parts, due to MIDI limitations).
+
+You can find more information on how to connect Flat to another software using the MIDI output feature and a virtual MIDI port on [this page](/help/en/music-notation-software/midi-output-setup.html)
