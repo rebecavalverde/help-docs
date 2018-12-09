@@ -36,6 +36,11 @@ On this page, discover the music notations available on our music notation softw
 | [![Automatic notes display mode](https://prod.flat-cdn.com/img/icons/editorActions/noteColor.svg){:.tb}](/help/en/music-notation-software/boomwhackers-color-sheet-music.html) | [Automatic Boomwhacker colors and Shape notes](/help/en/music-notation-software/boomwhackers-color-sheet-music.html) |
 {:.feat.flist}
 
+**[Premium features](https://flat.io/pricing) include**:
+* Custom paper size
+* Spacing between staves and systems
+* Automatic Boomwhacker colors and Shape notes.
+
 ## Note
 
 | [![Insert note](https://prod.flat-cdn.com/img/icons/editorActions/quarter.svg){:.tb}](/help/en/music-notation-software/inputting-your-first-notes.html) | [Insert a note](/help/en/music-notation-software/inputting-your-first-notes.html) |

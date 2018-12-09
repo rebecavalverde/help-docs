@@ -14,6 +14,11 @@ getPNG.title: Get the score as a PNG file
 
 You can easily print and export the scores and tabs created or hosted on Flat from our editor and viewer. On the different web interfaces, you will have the exact same widget to export and print.
 
+**[Premium features](https://flat.io/pricing) include**:
+* All printing options listed below
+* Individual parts exporting and printing
+* The removal of "**Made with Flat**" branding when printing and exporting scores
+
 ## Export/Download your score
 
 Flat allows you to easily export your sheet music in different formats:
