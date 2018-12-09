@@ -1,11 +1,13 @@
 ---
-title: Add an accidental
+title: Accidental and double accidental
 description: Click on an added note, then click on sharp or flat. To remove it, click on the natural icon.
 nav: editor
 pid: accidental
 permalink: en/music-notation-software/accidental.html
 ---
 
-Click on an added note, then click on sharp or flat. To remove it, click on the natural icon.
+To **add an accidental** (sharp, flat or natural), click on an existing note, then click on the accidental icon in the toolbar. To **remove it**, click on the natural icon, or click again or the added accidental icon.
 
-![Add an accidental](https://flat.io/img/help/editor_accidental_en.gif)
+You can also add **double sharps and double flats** by clicking twice on the sharp or flat icons.
+
+![Add an accidenta, double accidental, remove an accidental](/help/assets/img/editor/accidentals.gif)
