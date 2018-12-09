@@ -5,3 +5,10 @@ node_modules
 vendor
 npm-debug.log
 assets/instantsearch/instantsearch*
+.DS_Store
+assets/.DS_Store
+assets/img/.DS_Store
+assets/img/midi/.DS_Store
+docs/.DS_Store
+docs/en/.DS_Store
+docs/en/editor/.DS_Store
