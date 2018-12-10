@@ -49,9 +49,7 @@ Set the default part name and abbreviation that will be printed on your scores.
 
 ## Unpitched instruments
 
-*This feature is available in our private beta, contact us if you want to have access to this upcoming release.*
-
-Custom **unpitched instruments** include the staves settings, different percussion elements, their mapping and keyboard shortcuts to use them.
+Custom **unpitched instruments** (in beta) include the staves settings, different percussion elements, their mapping and keyboard shortcuts to use them.
 
 ### 1. Base instrument
 

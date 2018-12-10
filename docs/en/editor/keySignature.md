@@ -37,8 +37,6 @@ You can add a new key signature by going to the **"Measure" toolbar**, clicking 
 
 ## Change an existing key signature
 
-*This feature is available in our private beta, contact us if you want to have access to this upcoming release.*
-
 You can change an existing key signature by clicking on the key and choosing the new key, or using the tool available in the "Measure" toolbar.
 
 ![Change a key signature](/help/assets/img/editor/key-change.png)

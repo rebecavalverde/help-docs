@@ -27,8 +27,6 @@ To set a time signature that is not listed in the suggestions, click on **Custom
 
 ## Change an existing time signature
 
-*This feature is available in our private beta, contact us if you want to have access to this upcoming release.*
-
 You can change an existing time signature by clicking on the time signature and choosing the new one or using the tool available in the "Measure" toolbar.
 
 ![Change a time signature](/help/assets/img/editor/time-change.png)

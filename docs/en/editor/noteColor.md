@@ -11,8 +11,6 @@ setNoteColor.title: Set note color
 setRangeColor.title: Set color to selected notes
 ---
 
-*This feature is available in our private beta, contact us if you want to have access to this upcoming release.*
-
 Flat provides two ways to color the notes heads, automatically and manually. These tools are available in our editor for our Flat Power and Flat for Education users.
 
 ## Summary

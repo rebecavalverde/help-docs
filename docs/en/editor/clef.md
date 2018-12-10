@@ -39,8 +39,6 @@ You can add a new clef by going to the **"Measure" toolbar**, clicking on the **
 
 ## Change an existing clef
 
-*This feature is available in our private beta, contact us if you want to have access to this upcoming release.*
-
 You can change an existing clef by clicking on the clef and choosing the new clef, or using the tool available in the "Measure" toolbar.
 
 ![Change a clef](/help/assets/img/editor/clef-change.png)

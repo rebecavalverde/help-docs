@@ -10,8 +10,6 @@ toggleForceBeam.title: Force beaming
 toggleForceUnbeam.title: Force unbeaming
 ---
 
-*This feature is available in our private beta, contact us if you want to have access to this upcoming release.*
-
 ## Summary
 
 | Feature | Toolbar | Icon |
