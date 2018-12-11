@@ -38,3 +38,5 @@ You can add a pickup measure by changing the time signature, choosing **Customiz
 For example, a 4/4 measure with a 1/4 pickup (real duration of the measure):
 
 ![Pickup measure](/help/assets/img/editor/time-pickup.png)
+
+If you want to shift the measures numbers to skip the anacrusis, [you can do that in the layout settings](/help/en/music-notation-software/layout-measures-numbers.html).
