@@ -5,5 +5,5 @@
   <Url type="text/html" method="get" template="https://flat.io/help?query={searchTerms}"/>
   <Image height="16" width="16" type="image/vnd.microsoft.icon">https://flat.io/img/favicon-16x16.png</Image>
   <moz:SearchForm>https://flat.io/help?query=</moz:SearchForm>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://flat.io/help/opensearch.xml"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://flat.io/help/assets/opensearch.xml"/>
 </OpenSearchDescription>
