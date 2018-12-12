@@ -39,6 +39,6 @@ Put your cursor on a note to change a single note color, or select multiple note
 
 ## Use the transparent color tool to create empty measures
 
-You can use the **transparent color** from the color picker to create empty measures. This is useful for example to make worksheets to print.
+You can use the **transparent color** from the color picker to create empty measures with hidden rests and notes. This is useful for example to make worksheets to print.
 
 ![Transparent color tool](/help/assets/img/editor/transparent-color.gif)
