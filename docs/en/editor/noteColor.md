@@ -25,7 +25,7 @@ Flat provides two ways to color the notes heads, automatically and manually. The
 
 Flat provides an [automatic colorization if you use Boomwhackers instruments](/help/en/music-notation-software/boomwhackers-color-sheet-music.html): we automatically apply Boomwhackers colors to the all the notes heads of your sheet music.
 
-[![Automatic Boomwhackers colors on your sheet music](https://prod.flat-cdn.com/img/icons/scoreEditor/notesheadsScaleBoomwhackers.svg){:.noBorder}](/help/en/music-notation-software/boomwhacker-color-sheet-music.html)
+[![Automatic Boomwhackers colors on your sheet music](https://prod.flat-cdn.com/img/icons/scoreEditor/notesheadsScaleBoomwhackers.svg){:.noBorder}](/help/en/music-notation-software/boomwhackers-color-sheet-music.html)
 
 <div class="btn-cta-wrapper"><a href="/help/en/music-notation-software/boomwhackers-color-sheet-music.html" class="btn-cta-site">Use Boomwhackers colors on your sheet music</a></div>
 
