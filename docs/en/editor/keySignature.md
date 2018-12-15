@@ -31,7 +31,7 @@ setKeyS7.title: Set C# Major key signature (7#)
 
 ## Add a new key signature
 
-You can add a new key signature by going to the **"Measure" toolbar**, clicking on the **Key Signature tool and choosing the new key**. If there is no selection, the new key signature will be applied until the next key or the end of the score. If you only want to change the key on multiple measures, select the measure before choosing the new key signature.
+You can add a new key signature by going to the **"Measure" toolbar**, clicking on the **Key Signature tool and choosing the new key**. If there is no range selection, the new key signature will be applied until the next key or the end of the score. If you only want to change the key on specific measures, make a range selection of the measures before choosing the new key signature.
 
 ![Add a new key signature](/help/assets/img/editor/key.png)
 

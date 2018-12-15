@@ -33,7 +33,7 @@ setClefG2Below8.title: Set clef G2 (Below 8)
 
 ## Add a new clef
 
-You can add a new clef by going to the **"Measure" toolbar**, clicking on the **Clef tool and choosing the new clef**. If there is no selection, the new clef will be applied until the next clef or the end of the score. If you only want to change the clef on multiple measures, select the measure before choosing the clef.
+You can add a new clef by going to the **"Measure" toolbar**, clicking on the **Clef tool and choosing the new clef**. If there is no range selection, the new clef will be applied until the next clef or the end of the score. If you only want to change the clef on specific measures, make a range selection of the measures before choosing the clef.
 
 ![Add a new clef](/help/assets/img/editor/clef.png)
 

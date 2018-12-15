@@ -19,7 +19,7 @@ removeTimeSignatureAtSelected.title: Remove selected time signature
 
 ## Add a new time signature
 
-You can add a new time signature by going to the **"Measure" toolbar**, clicking on the **Time Signature tool and choosing the new one**. If there is no selection, the new time signature will be applied until the next time or the end of the score. If you only want to change the time on multiple measures, select the measure before choosing the new time signature.
+You can add a new time signature by going to the **"Measure" toolbar**, clicking on the **Time Signature tool and choosing the new one**. If there is no range selection, the new time signature will be applied until the next time or the end of the score. If you only want to change the time on specific measures, make a range selection of the measures before choosing the new time signature.
 
 To set a time signature that is not listed in the suggestions, click on **Customize**. Suggestions include the most used time signatures and the one you recently used.
 
