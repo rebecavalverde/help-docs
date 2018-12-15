@@ -98,6 +98,12 @@ On this page, discover the music notations available on our music notation softw
 | [![Rehearsals](https://prod.flat-cdn.com/img/icons/editorActions/rehearsalLetter.svg){:.tb}](/help/en/music-notation-software/rehearsal.html) | [Rehearsals](/help/en/music-notation-software/rehearsal.html) |
 | [![Repeats](https://prod.flat-cdn.com/img/icons/editorActions/barlineRepearRight.svg){:.tb}](/help/en/music-notation-software/repeat.html) | [Repeats](/help/en/music-notation-software/repeat.html) |
 | [![Endings](https://prod.flat-cdn.com/img/icons/editorActions/ending1.svg){:.tb}](/help/en/music-notation-software/endings.html) | [Endings](/help/en/music-notation-software/endings.html) |
+| [![Segno](https://prod.flat-cdn.com/img/icons/editorActions/segno.svg){:.tb}](/help/en/music-notation-software/segno.html) | [Segno](/help/en/music-notation-software/segno.html) |
+| [![Coda](https://prod.flat-cdn.com/img/icons/editorActions/coda.svg){:.tb}](/help/en/music-notation-software/coda.html) | [Coda](/help/en/music-notation-software/coda.html) |
+| [![Fine](https://prod.flat-cdn.com/img/icons/editorActions/fine.svg){:.tb}](/help/en/music-notation-software/fine.html) | [Fine](/help/en/music-notation-software/fine.html) |
+| [![D.S.](https://prod.flat-cdn.com/img/icons/editorActions/dalSegno.svg){:.tb}](/help/en/music-notation-software/dalSegno.html) | [Dal Segno](/help/en/music-notation-software/dalSegno.html) |
+| [![D.C.](https://prod.flat-cdn.com/img/icons/editorActions/dacapo.svg){:.tb}](/help/en/music-notation-software/daCapo.html) | [Da Capo](/help/en/music-notation-software/daCapo.html) |
+| [![To Coda](https://prod.flat-cdn.com/img/icons/editorActions/toCoda.svg){:.tb}](/help/en/music-notation-software/toCoda.html) | [To Coda](/help/en/music-notation-software/toCoda.html) |
 {:.feat.flist}
 
 ## Text
