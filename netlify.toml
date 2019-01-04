@@ -1,7 +1,7 @@
 [build]
-  command = "npm run build && mv _site _site_help && mkdir _site && mv _site_help _site/help"
+  command = "gem install bundler -v '< 2' && npm run build && mv _site _site_help && mkdir _site && mv _site_help _site/help"
   publish = "_site"
 
 [context.production]
-  command = "npm run build && jekyll algolia && mv _site _site_help && mkdir _site && mv _site_help _site/help"
+  command = "gem install bundler -v '< 2' && npm run build && jekyll algolia && mv _site _site_help && mkdir _site && mv _site_help _site/help"
   publish = "_site"
