@@ -61,6 +61,10 @@ Put your cursor on the note where you want to add an articulation, then go to th
 
 ![Add articulations](/help/assets/img/editor/articulations.gif)
 
+You can also add (and remove) an articulation to multiple notes by selecting them, then choosing the Articulation you want:
+
+![Add articulations on multiple notes at once](/help/assets/img/editor/articulations-selection.gif)
+
 ## List of articulations
 
 | Feature | Toolbar | Icon |
