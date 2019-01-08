@@ -33,4 +33,4 @@ At this time, most of the notations are interpreted, except:
 
 ## Enable the swing
 
-{% include_relative generated/swing.md %}
+The swing includes the notation and the playback interpretation. Discover how to use it [in our dedicated help page](/help/en/music-notation-software/swing.html).
