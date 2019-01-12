@@ -13,6 +13,7 @@ fullscreen.title: Toggle fullscreen
 switchScoreDisplayMode.title: Switch display mode
 switchTouchUI.title: Display or Hide the touch keyboard
 showHelp.title: Display Help
+showKeyboardShortcuts.title: Display keyboard shortcuts
 showLayoutSettings.title: Layout settings
 toggleAnnotationMode.title: Annotation
 enableAnnotationMode.titlle: Enable annotation mode

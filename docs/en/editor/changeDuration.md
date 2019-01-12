@@ -19,6 +19,8 @@ changeDurationThirtySecond.title: Thirty-second
 changeDurationThirtySecond.shortDescription: Change the duration of the current note or rest to a thirty-second
 changeDurationSixtyFourth.title: Sixty-fourth
 changeDurationSixtyFourth.shortDescription: Change the duration of the current note or rest to a sixty-fourth
+shortenDuration.title: Shorten current duration
+lengthenDuration.title: Lengthen current duration
 ---
 
 ## Summary

@@ -4,10 +4,15 @@ cursor.title: Cursor
 unselect.title: Unselect everything
 goRight.title: Go to the previous note
 goLeft.title: Go to the next note
+goPreviousMeasure.title: Go to the previous measure
+goNextMeasure.title: Go to the next measure
+goPartBeginning.title: Go to the part beginning
+goPartEnd.title: Go to the part end
 goUpperHead.title: Next chord note head
 goLowerHead.title: Previous Chord note head
 goUpString.title: Next string
 goDownString.title: Previous string
+promptAndGoMeasure.title: Enter measure number and go to the measure
 selectAllDisplayedParts.title: Select all displayed parts
 selectCompletePart.title: Select the complete current part
 rangeSelectDown.title: Add the part under to the selection
