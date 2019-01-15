@@ -45,6 +45,7 @@ On this page, discover the music notations available on our music notation softw
 ## Document
 
 | [![Undo](https://prod.flat-cdn.com/img/icons/editorActions/undo.svg){:.tb}![Redo](https://prod.flat-cdn.com/img/icons/editorActions/redo.svg){:.tb}](/help/en/music-notation-software/undo-redo-actions.html) | [Undo / Redo an action](/help/en/music-notation-software/undo-redo-actions.html) |
+| [![Copy](https://prod.flat-cdn.com/img/icons/editorActions/copy.svg){:.tb}![Cut](https://prod.flat-cdn.com/img/icons/editorActions/cut.svg){:.tb}![Paste](https://prod.flat-cdn.com/img/icons/editorActions/paste.svg){:.tb}](/help/en/music-notation-software/paste.html) | [Copy, Cut and Paste](/help/en/music-notation-software/paste.html) |
 {:.feat.flist}
 
 ## Note
