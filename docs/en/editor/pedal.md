@@ -6,10 +6,17 @@ pid: pedal
 permalink: en/music-notation-software/pedal.html
 ---
 
+## Summary
+
+| Feature | Toolbar | Icon | Default Keyboard shortcut |
+|:--------|:--------|:-----|:------------------|
+| Pedal | **Dyamic** | ![Pedal](https://prod.flat-cdn.com/img/icons/editorActions/pedal.svg){:.tb} | <span class="kbs-multi"><span class="kb-container"><span class="kb">P</span></span></span> |
+{:.feat}
+
 ## What is a pedal marking?
 
-Pedal markings indicate the use of the damper pedal (also called sustain pedal) for compatible instruments (the most famous of them being the piano).<br/>
-In effect, all the notes between the pedal start and pedal end markings will be sustained.<br/>
+Pedal markings indicate the use of the damper pedal (also called sustain pedal) for compatible instruments (the most famous of them being the piano).
+In effect, all the notes between the pedal start and pedal end markings will be sustained.
 Once the pedal end marking is reached, the pedal is released and all the sustained notes which aren't playing at this time will stop sounding.
 
 ## How to use pedal markings on Flat?
@@ -20,9 +27,8 @@ Please note that the tool will only be displayed for compatible instruments, whi
 
 Once clicked, a pedal marking will be added from the cursor location to the end of the measure.
 
-
-The pedal marking have the ability to be moved horizontally along the part through drag and drop. It can also be shrinked or expanded using one of the two round handles on both extremity of the marking.
+The pedal marking has the ability to be moved horizontally along the part through drag and drop. It can also be shrunk or expanded using one of the two round handles on both extremities of the marking.
 
 ![Pedal Marking](/help/assets/img/editor/pedal.gif)
 
-Finally a pedal marking can be removed either by clicking the pedal marking button in the toolbar while the cursor is in the marking range, or, while the pedal marking is directly selected, by using the "Delete" shortcut on the keyboard or using the button in the toolbar.
+Finally, a pedal marking can be removed either by clicking the pedal marking button in the toolbar while the cursor is in the marking range, or while the pedal marking is directly selected, by using the "Delete" shortcut on the keyboard or using the button in the toolbar.
