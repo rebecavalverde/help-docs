@@ -16,7 +16,7 @@ showHelp.title: Display Help
 showKeyboardShortcuts.title: Display keyboard shortcuts
 showLayoutSettings.title: Layout settings
 toggleAnnotationMode.title: Annotation
-enableAnnotationMode.titlle: Enable annotation mode
+enableAnnotationMode.title: Enable annotation mode
 toggleChordMode.title: Chord
 enableChordMode.title: Enable chord mode
 toggleClassicChordMode.title: Classic chord
