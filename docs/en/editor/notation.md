@@ -42,6 +42,11 @@ On this page, discover the music notations available on our music notation softw
 * Spacing between staves and systems
 * Automatic Boomwhacker colors and Shape notes.
 
+## Document
+
+| [![Undo](https://prod.flat-cdn.com/img/icons/editorActions/undo.svg){:.tb}![Redo](https://prod.flat-cdn.com/img/icons/editorActions/redo.svg){:.tb}](/help/en/music-notation-software/undo-redo-actions.html) | [Undo / Redo an action](/help/en/music-notation-software/undo-redo-actions.html) |
+{:.feat.flist}
+
 ## Note
 
 | [![Insert note](https://prod.flat-cdn.com/img/icons/editorActions/quarter.svg){:.tb}](/help/en/music-notation-software/inputting-your-first-notes.html) | [Insert a note](/help/en/music-notation-software/inputting-your-first-notes.html) |
