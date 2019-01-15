@@ -6,7 +6,7 @@ pid: ext-recording
 permalink: en/music-notation-software/synchronize-external-recording.html
 ---
 
-By default Flat provides [a great audio playback](/help/en/music-notation-software/playback.html) hat interprets the music you write and discover directly in your web browser. However, sometimes you want to play a recording of the score or tab to listen to a real interpretation of the creation, or simply help you transcribe it on your score.
+By default, Flat provides [a great audio playback](/help/en/music-notation-software/playback.html) that interprets the music you write and discover directly in your web browser. However, sometimes you want to play a recording of the score or tab to listen to a real interpretation of the creation, or simply help you transcribe it on your score.
 
 You can simply link and synchronize music recordings with your sheet music from the following services:
 
