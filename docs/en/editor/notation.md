@@ -85,6 +85,7 @@ On this page, discover the music notations available on our music notation softw
 | [![Crescendo and Diminuendo](https://prod.flat-cdn.com/img/icons/editorActions/crescendo.svg){:.tb}](/help/en/music-notation-software/wedges.html) | [Crescendo and Diminuendo](/help/en/music-notation-software/wedges.html) |
 | [![Add dynamics](https://prod.flat-cdn.com/img/icons/editorActions/p.svg){:.tb}](/help/en/music-notation-software/dynamics.html) | [Dynamics](/help/en/music-notation-software/dynamics.html) |
 | [![Pizzicato and Arco](https://prod.flat-cdn.com/img/icons/editorActions/pizz.svg){:.tb}](/help/en/music-notation-software/pizz.html) | [Pizzicato and Arco](/help/en/music-notation-software/pizz.html) |
+| [![Pedal](https://prod.flat-cdn.com/img/icons/editorActions/pedal.svg){:.tb}](/help/en/music-notation-software/pedal.html) | [Pedal](/help/en/music-notation-software/pedal.html) |
 {:.feat.flist}
 
 ## Measure
