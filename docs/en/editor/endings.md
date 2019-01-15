@@ -27,6 +27,6 @@ The repeat ending is used with the **repeat barlines**. Here is the typical usec
 
 ## Add a repeat ending
 
-You can add/remove a repeat ending by going to the **"Measure" toolbar**. Select the first measure of the repeat ending section, then click on the desired repeat ending button. 
+You can add/remove a repeat ending by going to the **"Measure" toolbar**. Select the first measure of the repeat ending section, then click on the desired repeat ending button. You can also combine multiple endings on a single measure by clicking on the desired endings.
 
 ![Add an ending](/help/assets/img/editor/endings-toolbar.png)
