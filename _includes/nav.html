@@ -1,10 +1,12 @@
 <div class="nav">
   <div class="nav-left">
-    <a href="/help/" class="logo">
-      <img src="https://prod.flat-cdn.com/img/logo-white.svg" alt="Flat Help" class="large">
-      <img src="https://prod.flat-cdn.com/img/logo-f-white.svg" alt="Flat Help" class="small">
-      <span class="help-center">Help</span>
-    </a>
+    <div class="logo">
+      <a href="/">
+        <img src="https://prod.flat-cdn.com/img/logo-white.svg" alt="Flat Help" class="large">
+        <img src="https://prod.flat-cdn.com/img/logo-f-white.svg" alt="Flat Help" class="small">
+      </a>
+      <a href="/help" class="help-center">Help</a>
+    </div>
     {% if page.pid != 'home' %}{% include nav-search.html %}{% endif %}
   </div>
   <div class="items nav-right">
