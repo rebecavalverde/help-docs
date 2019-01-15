@@ -2,6 +2,7 @@
 title: Undo / Redo an action
 description: You can undo a complete set of actions if you want to cancel what you just composed
 permalink: en/music-notation-software/undo-redo-actions.html
+nav: editor
 pid: undo
 
 undo.title: Undo
