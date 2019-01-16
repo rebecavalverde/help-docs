@@ -65,6 +65,8 @@ On this page, discover the music notations available on our music notation softw
 | [![Transposition](https://prod.flat-cdn.com/img/icons/editorActions/transpose.svg){:.tb}](/help/en/music-notation-software/transpose.html) | [Transposition](/help/en/music-notation-software/transpose.html) |
 | [![Octave shift / Ottava](https://prod.flat-cdn.com/img/icons/editorActions/8va.svg){:.tb}](/help/en/music-notation-software/octave-shift.html) | [Octave shift / Ottava](/help/en/music-notation-software/octave-shift.html) |
 | [![Color note](https://prod.flat-cdn.com/img/icons/editorActions/noteColor.svg){:.tb}](/help/en/music-notation-software/color-notes.html) | [Color note: Manual colors and automatic colorization using Boomwhackers colors](/help/en/music-notation-software/color-notes.html) |
+| [![Enharmonic Switch](https://prod.flat-cdn.com/img/icons/editorActions/switchEnharmonic.svg.svg){:.tb}](/help/en/music-notation-software/enharmonicSwitch.html) | [Enharmonic Switch: Change a note to its enharmonic equivalent](/help/en/music-notation-software/enharmonicSwitch.html) |
+
 {:.feat.flist}
 
 ## Articulation
