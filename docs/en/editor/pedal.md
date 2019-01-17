@@ -12,7 +12,7 @@ togglePedal.title: Pedal
 
 | Feature | Toolbar | Icon | Default Keyboard shortcut |
 |:--------|:--------|:-----|:------------------|
-| Pedal | **Dyamic** | ![Pedal](https://prod.flat-cdn.com/img/icons/editorActions/pedal.svg){:.tb} | <span class="kbs-multi"><span class="kb-container"><span class="kb">P</span></span></span> |
+| Pedal | **Dynamic** | ![Pedal](https://prod.flat-cdn.com/img/icons/editorActions/pedal.svg){:.tb} | <span class="kbs-multi"><span class="kb-container"><span class="kb">P</span></span></span> |
 {:.feat}
 
 ## What is a pedal marking?
