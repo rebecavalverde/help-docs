@@ -1,4 +1,5 @@
 ---
+title: Barlines and Repeats
 permalink: en/music-notation-software/barlines.html
 description: Add double barlines and barline repeats on Flat editor
 nav: editor
