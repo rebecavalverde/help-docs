@@ -28,6 +28,6 @@ A text field will appear at the selected location where you can start writing yo
 ## Chords Keyboard Shortcuts
 
 | Go to the next chord | <span class="kbs-multi"><span class="kb-container"><span class="kb-container"><span class="kb">⇢</span></span> or <span class="kb-container"><span class="kb">Enter</span></span></span> |
-| Go to the previous lyric | <span class="kb-container"><span class="kb">⇠</span></span> |
+| Go to the previous chord | <span class="kb-container"><span class="kb">⇠</span></span> |
 | Exit the Chords mode | <span class="kb-container"><span class="kb">Esc</span></span> |
 {:.feat}
