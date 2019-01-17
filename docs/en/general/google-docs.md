@@ -33,3 +33,17 @@ The notation inserted in your document works like a picture and doesn't have our
 ## I need help or have feedback
 
 **If you need help regarding this add-on, please contact us at [google-docs@flat.io](mailto:google-docs@flat.io)**. If you like it, please give us a review on the store and share it to your friends!
+
+## How to re-authorize the add-on?
+
+To re-authorize the add-on to modify the documents you are working on:
+
+<a href="https://myaccount.google.com/permissions" target="_blank" rel="noopener">In your Google Account, open the list of apps with access to your account</a>, then scroll to "Flat". Click on the app listed, then choose "Remove access".
+
+![Remove add-on authorization](/help/assets/img/google-docs/authz-remove.png)
+
+Re-open the Google Docs/Slides document you are working on, and re-open the add-on (*Add-ons > Flat > Insert musical snippets*), then autorize the add-on to make some modifications to your document:
+
+![Allow Flat Add-on](/help/assets/img/google-docs/authz-addon.png)
+
+That's it, you can now use the add-on.
