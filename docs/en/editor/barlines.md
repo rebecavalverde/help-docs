@@ -34,12 +34,11 @@ It is allowed to omit the left barline repeat. In this case, the repeated sectio
 
 Barline repeats can also be nested. In such cases, the nested repeat markings will only be used the first time, then these sections will only be played once.
 
-
 ## What is the purpose of a double barline
 
 The double barlines are used to highlight a change of "section" in the score. Some conventions require to display a double barline when there is a change of key.
 
-# How to use barline tools on Flat?
+## How to use barline tools on Flat?
 
 Barline repeats and double barlines tools are available in the *Measure* menu and are manipulated in the same, handy way.
 
