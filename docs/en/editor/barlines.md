@@ -1,5 +1,8 @@
 ---
 permalink: en/music-notation-software/barlines.html
+description: Add double barlines and barline repeats on Flat editor
+nav: editor
+pid: barlines
 barline.title: Barlines
 toggleDoubleBarline.title: Double Barline
 toggleDoubleBarline.shortDescription: add/remove a double barline after the selected measure
@@ -25,7 +28,7 @@ toggleRightRepeatBarline.shortDescription: add/remove a repeat backward after th
 ## What are barline repeats?
 
 Barline repeats indicate to repeat one or several measures of a score.
-The left and right barline repeats symbols are used to wrap the section of the score which have to be repeated. The wrapped measures will be played one more time, once the right barline repeat marking has been reached.
+The left and right barline repeat symbols are used to wrap the section of the score which has to be repeated. The wrapped measures will be played one more time, once the right barline repeat marking has been reached.
 
 It is allowed to omit the left barline repeat. In this case, the repeated section will start at the first measure of the score.
 
@@ -34,7 +37,7 @@ Barline repeats can also be nested. In such cases, the nested repeat markings wi
 
 ## What is the purpose of a double barline
 
-The double barline are used to highlight a change of "section" in the score. Some conventions requires to display a double barline when there is a change of key.
+The double barlines are used to highlight a change of "section" in the score. Some conventions require to display a double barline when there is a change of key.
 
 # How to use barline tools on Flat?
 
