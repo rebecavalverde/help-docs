@@ -6,6 +6,8 @@ goRight.title: Go to the previous note
 goLeft.title: Go to the next note
 goPreviousMeasure.title: Go to the previous measure
 goNextMeasure.title: Go to the next measure
+goPreviousStaff.title: Go to the previous staff
+goNextStaff.title: Go to the next staff
 goPartBeginning.title: Go to the part beginning
 goPartEnd.title: Go to the part end
 goUpperHead.title: Next chord note head
