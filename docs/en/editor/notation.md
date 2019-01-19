@@ -105,6 +105,8 @@ On this page, discover the music notations available on our music notation softw
 | [![Key signature](https://prod.flat-cdn.com/img/icons/editorActions/keySignature.svg){:.tb}](/help/en/music-notation-software/keysig.html) | [Key Signature](/help/en/music-notation-software/keysig.html) |
 | [![Time signature](https://prod.flat-cdn.com/img/icons/editorActions/timeSignature.svg){:.tb}](/help/en/music-notation-software/timesig.html) | [Time signature](/help/en/music-notation-software/timesig.html) |
 | [![Tempo](https://prod.flat-cdn.com/img/icons/editorActions/tempo.svg){:.tb}](/help/en/music-notation-software/addtempo.html) | [Tempo marks](/help/en/music-notation-software/addtempo.html) |
+| [![Accelerando](https://prod.flat-cdn.com/img/icons/editorActions/accelerando.svg){:.tb}](/help/en/music-notation-software/tempo-changes.html) | [Accelerando](/help/en/music-notation-software/tempo-changes.html) |
+| [![Ritardando](https://prod.flat-cdn.com/img/icons/editorActions/ritardando.svg){:.tb}](/help/en/music-notation-software/tempo-changes.html) | [Ritardando](/help/en/music-notation-software/tempo-changes.html) |
 | [![Swing](https://prod.flat-cdn.com/img/icons/editorActions/swing.svg){:.tb}](/help/en/music-notation-software/swing.html) | [Swing](/help/en/music-notation-software/swing.html) |
 | [![Rehearsals](https://prod.flat-cdn.com/img/icons/editorActions/rehearsalLetter.svg){:.tb}](/help/en/music-notation-software/rehearsal.html) | [Rehearsals](/help/en/music-notation-software/rehearsal.html) |
 | [![Double barlines](https://prod.flat-cdn.com/img/icons/editorActions/barlineDouble.svg){:.tb}](/help/en/music-notation-software/barlines.html) | [Double barlines](/help/en/music-notation-software/barlines.html) |
