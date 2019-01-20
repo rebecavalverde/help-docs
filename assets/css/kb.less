@@ -30,20 +30,21 @@
 }
 
 // List of shortcuts
-.kbs-lists {
+.kbs-list {
   display: flex;
   align-items: flex-start;
   flex-wrap: wrap;
-  margin-bottom: 30px;
-}
-.kbs-list {
-  flex: 1 1 50%;
+  margin-bottom: 15px;
+  &:last-child {
+    margin-bottom: 0;
+  }
 
   .kb-item {
     display: flex;
     align-items: center;
     line-height: 32px;
     margin-bottom: 8px;
+    width: 100%;
   }
   .kb-shortcuts {
     display: flex;
