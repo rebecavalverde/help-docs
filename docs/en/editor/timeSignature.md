@@ -39,4 +39,6 @@ For example, a 4/4 measure with a 1/4 pickup (real duration of the measure):
 
 ![Pickup measure](/help/assets/img/editor/time-pickup.png)
 
+By default, the time signature change will be applied to the current measure and all the measures until the next time signature or the end of the score. To only apply the pickup duration to one measure, select the notes in the measures before setting the pickup.
+
 If you want to shift the measures numbers to skip the anacrusis, [you can do that in the layout settings](/help/en/music-notation-software/layout-measures-numbers.html).
