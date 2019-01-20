@@ -8,7 +8,7 @@ permalink: en/music-notation-software/inputting-your-first-notes.html
 nexturl: en/music-notation-software/notation-features.html
 nexttext: Discover all the music notation tools
 
-addNote.title: Add notes
+addNote.title: Add note
 addNoteA.title: Add a "A" note
 addNoteB.title: Add a "B" note
 addNoteC.title: Add a "C" note

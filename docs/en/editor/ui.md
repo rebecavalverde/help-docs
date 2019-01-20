@@ -15,6 +15,7 @@ switchTouchUI.title: Display or Hide the touch keyboard
 showHelp.title: Display Help
 showKeyboardShortcuts.title: Display keyboard shortcuts
 showLayoutSettings.title: Layout settings
+showPlaybackSettings.title: Playback settings
 toggleAnnotationMode.title: Annotation
 enableAnnotationMode.title: Enable annotation mode
 toggleChordMode.title: Chord

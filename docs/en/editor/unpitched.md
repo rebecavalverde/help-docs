@@ -1,6 +1,7 @@
 ---
 permalink: 404.html
-addUnpitchedNote: Add unpitched note
+unpitched.title: Unpitched
+addUnpitchedNote.title: Add unpitched note
 removeUnpitchedNote.title: Remove unpitched note
 setUnpitchedNoteHeadNormal.title: Normal Head
 setUnpitchedNoteHeadX.title: X Head
