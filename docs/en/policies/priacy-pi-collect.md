@@ -177,7 +177,7 @@ cssPage: large pi-collect
       <td><strong>All personal information set out above.</strong></td>
       <td>We will use all the personal information we collect to operate, maintain and provide to you the features and functionality of the Service, to communicate with you, to monitor and improve the Service and our business, and to help us develop new products and services.</td>
       <td>The processing is necessary for our legitimate interest, namely to administer and improve the Service.</td>
-      <td>Up to 90 days after the removal of your account, or longer if the data has been anonized.</td>
+      <td>Up to 90 days after the removal of your account, or longer if the data has been anonymized.</td>
     </tr>
   </tbody>
 </table>
