@@ -47,3 +47,19 @@ Re-open the Google Docs/Slides document you are working on, and re-open the add-
 ![Allow Flat Add-on](/help/assets/img/google-docs/authz-addon.png)
 
 That's it, you can now use the add-on.
+
+## Add-ons Changelog
+
+### 2019-01-30
+
+* New template: Ukulele Tabs
+* Improved padding in inserted pictures
+* Better firewall issues detection
+
+### 2018-09-30
+
+* Switch to our *.com domains to reduce the number of firewall issues
+
+### 2018-07-13
+
+* New editor
