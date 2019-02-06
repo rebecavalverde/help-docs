@@ -14,9 +14,10 @@ Our goal is to provide a good trade-off between performance and interpretation q
 
 At this time, most of the notations are interpreted, except:
 
-* Accelerando/Ritardendo
+* Accelerando / Ritardendo
 * Snap pizzicato
 * Bowing Directions
+* Palm mute / Left ring
 * Text
 
 ## Use the Playback
