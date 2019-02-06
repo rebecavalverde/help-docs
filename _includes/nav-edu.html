@@ -34,9 +34,21 @@
     <a href="{{site.baseurl}}/en/education/google-classroom/faq.html" class="{% if page.pid == 'gc-faq' %}active{% endif %}">FAQ</a>
   </div>
 
-  <div class="nav-title">Integrations</div>
+  <a class="nav-title" href="{{site.baseurl}}/en/education/canvas-lms/">Canvas LMS</a>
   <div class="items">
-    <a href="https://blog.flat.io/flat-canvas/">Canvas</a>
+    <a href="{{site.baseurl}}/en/education/canvas-lms/" class="{% if page.pid == 'canvas-intro' %}active{% endif %}">Introduction</a>
+    <a href="{{site.baseurl}}/en/education/canvas-lms/setup-configuration.html"
+      class="{% if page.pid == 'canvas-setup' %}active{% endif %}">Setup & Configuration</a>
+    <a href="{{site.baseurl}}/en/education/canvas-lms/sso.html"
+      class="{% if page.pid == 'canvas-sso' %}active{% endif %}">SSO with Canvas</a>
+    <a href="{{site.baseurl}}/en/education/canvas-lms/embed.html"
+      class="{% if page.pid == 'canvas-embed' %}active{% endif %}">Embed music notation</a>
+    <a href="{{site.baseurl}}/en/education/canvas-lms/assignments.html"
+      class="{% if page.pid == 'canvas-assignments' %}active{% endif %}">Assignments</a>
+  </div>
+
+  <div class="nav-title">Other Integrations</div>
+  <div class="items">
     <a href="https://blog.flat.io/flat-schoology/">Schoology</a>
     <a href="https://blog.flat.io/new-partnership-with-clever/">Clever</a>
     <a href="{{site.baseurl}}/en/general/flat-for-google-docs-music-notation.html">Google Docs & Slides</a>
