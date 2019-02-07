@@ -79,8 +79,7 @@ On this page, discover the music notations available on our music notation softw
 | [![Bow](https://prod.flat-cdn.com/img/icons/editorActions/upbow.svg){:.tb}](/help/en/music-notation-software/bow.html) | [Up bow/Down bow](/help/en/music-notation-software/bow.html) |
 | [![Fingerings](https://prod.flat-cdn.com/img/icons/editorActions/fingering.svg){:.tb}](/help/en/music-notation-software/fingerings.html) | [Fingerings](/help/en/music-notation-software/fingerings.html) |
 | [![Buzz roll](https://prod.flat-cdn.com/img/icons/editorActions/buzzroll.svg){:.tb}](/help/en/music-notation-software/buzznote.html) | [Buzz notes](/help/en/music-notation-software/buzznote.html) |
-{:.feat.flist}
-| [![Plucked ranges](https://prod.flat-cdn.com/img/icons/editorActions/palmMute.svg){:.tb}](/help/en/music-notation-software/plucked-ranges.html) | [Plucked ranges](/help/en/music-notation-software/plucked-ranges.html) |
+| [![Plucked ranges](https://prod.flat-cdn.com/img/icons/editorActions/palmMute.svg){:.tb}](/help/en/music-notation-software/plucked-ranges.html) | [Plucked ranges (Palm Mute & Let Ring)](/help/en/music-notation-software/plucked-ranges.html) |
 {:.feat.flist}
 
 ## Ornament
