@@ -20,47 +20,5 @@ layout: default
         <div class="btn-cta-wrapper"><button class="btn-cta-site">hello@flat.io</button></div>
       </div>
     </a>
-    
-    <a class="scard" href="mailto:hello@flat.io" id="chat-on" style="display: none">
-      <div class="callout"><img src="/help/assets/img/support-chat.svg" alt="Chat"></div>
-      <div class="t">
-        <h2>Open a Chat</h2>
-        <div class="description">Got a question while using Flat? Click here to start chatting with our
-          team. We usually try replying in a few minutes; but if we don’t, we’ll get back to you by email.</div>
-        <div class="btn-cta-wrapper"><button class="btn-cta-site">Chat with us</button></div>
-      </div>
-    </a>
-    <a class="scard" id="chat-off" style="display: none">
-      <div class="callout"><img src="/help/assets/img/support-chat-offline.svg" alt="Chat"></div>
-      <div class="t">
-        <h2>Chat (Offline)</h2>
-        <div class="description">Our team is offline right now. Please send us an email instead and we will get back to you shortly.</div>
-      </div>
-    </a>
   </div>
-
-  <script>
-    var hour = new Date().getUTCHours() + 1;
-    var day = new Date().getDay();
-    var timeAvailable = hour >= 9 && hour <= 22 && day >= 1 && day <= 5;
-    if (!timeAvailable) {
-      document.getElementById('chat-off').style.display = 'flex';
-    }
-    else {
-      window.CRISP_READY_TRIGGER = function () {
-        if (window.$crisp.is('website:available')) {
-          var c = document.getElementById('chat-on');
-          c.style.display = 'flex';
-          c.addEventListener('click', function (event) {
-            window.$crisp.push(['do', 'chat:open']);
-            window.$crisp.push(['do', 'chat:show']);
-            event.preventDefault();
-          });
-        }
-        else {
-          document.getElementById('chat-off').style.display = 'flex';
-        }
-      };
-    }
-  </script>
 </div>
