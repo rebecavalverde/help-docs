@@ -11,6 +11,11 @@ Use Flat's web-based music notation editor to quickly create music notation or t
 
 [![Music notation in Google Docs and Google Slides](/help/assets/img/google-docs/music-notation.png)](https://chrome.google.com/webstore/detail/flat-for-docs-music-notat/fgcopphfnfiaephabcmnaclbdgjjkmaj)
 
+## Install the add-ons
+
+The add-ons are available on the stores: [Google Docs](https://chrome.google.com/webstore/detail/flat-for-docs-music-notat/fgcopphfnfiaephabcmnaclbdgjjkmaj) and [Google Slides](https://chrome.google.com/webstore/detail/flat-for-slides-music-not/aahnkkbdaknlhinhidfedfblacekahlb). Click on these links to install them in your Google Account.
+
+Then, in Docs and Slides, click on **Add-ons > Flat > Insert musical snippet** to open the add-on.
 
 ## Get started with Flat for Docs
 
