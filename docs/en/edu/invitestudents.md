@@ -13,7 +13,6 @@ In that guide we assume that don't rely on any third parties Single Sign On (**S
 * [Microsoft Office365]()
 * [Schoology]()
 * [Canvas]()
-* ...
 
 #### **Add student to an existing classroom**
 
@@ -25,7 +24,7 @@ If you skipped this step in the class creation process or you want to add more s
 
 ![invite students choices](/help/assets/img/invitestudents/invitestudents.png)
 
-You will two options prompted to add students to your class.
+You will get two options prompted to add students to your class.
 
 ### Direct link and class code
 
