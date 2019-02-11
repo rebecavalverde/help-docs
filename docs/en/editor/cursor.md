@@ -14,7 +14,7 @@ goUpperHead.title: Next chord note head
 goLowerHead.title: Previous Chord note head
 goUpString.title: Next string
 goDownString.title: Previous string
-promptAndGoMeasure.title: Enter measure number and go to the measure
+promptAndGoMeasure.title: Go to the inputted measure number
 selectAllDisplayedParts.title: Select all displayed parts
 selectCompletePart.title: Select the complete current part
 rangeSelectDown.title: Add the part under to the selection

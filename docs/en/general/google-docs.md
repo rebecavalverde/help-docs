@@ -7,13 +7,13 @@ pid: gdocs
 permalink: en/general/flat-for-google-docs-music-notation.html
 ---
 
-Use Flat's web-based music notation editor to quickly create music notation or tablature in your documentations and presentations, get our [Google Docs](https://chrome.google.com/webstore/detail/flat-for-docs-music-notat/fgcopphfnfiaephabcmnaclbdgjjkmaj) and [Google Slides](https://chrome.google.com/webstore/detail/flat-for-slides-music-not/aahnkkbdaknlhinhidfedfblacekahlb) free add-ons.
+Use Flat's web-based music notation editor to quickly create music notation or tablature in your documentations and presentations, get our [Google Docs and Google Slides](https://gsuite.google.com/marketplace/app/flat_for_docs/324260072797) free add-ons.
 
-[![Music notation in Google Docs and Google Slides](/help/assets/img/google-docs/music-notation.png)](https://chrome.google.com/webstore/detail/flat-for-docs-music-notat/fgcopphfnfiaephabcmnaclbdgjjkmaj)
+[![Music notation in Google Docs and Google Slides](/help/assets/img/google-docs/music-notation.png)](https://gsuite.google.com/marketplace/app/flat_for_docs/324260072797)
 
 ## Install the add-ons
 
-The add-ons are available on the stores: [Google Docs](https://chrome.google.com/webstore/detail/flat-for-docs-music-notat/fgcopphfnfiaephabcmnaclbdgjjkmaj) and [Google Slides](https://chrome.google.com/webstore/detail/flat-for-slides-music-not/aahnkkbdaknlhinhidfedfblacekahlb). Click on these links to install them in your Google Account.
+The add-ons are available on the [G Suite Marketplace](https://gsuite.google.com/marketplace/app/flat_for_docs/324260072797). [Click here to install them](https://gsuite.google.com/marketplace/app/flat_for_docs/324260072797) in your Google Account.
 
 Then, in Docs and Slides, click on **Add-ons > Flat > Insert musical snippet** to open the add-on.
 
