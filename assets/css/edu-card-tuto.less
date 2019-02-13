@@ -1,0 +1,70 @@
+.edu-card-tuto {
+  position: relative;
+  display: block;
+  background: #fff;
+  border: 1px solid @flat-divider;
+  border-radius: 8px;
+  margin: 30px 0;
+  padding: 30px;
+  transition: all .2s ease-in-out;
+  min-height: 345px;
+
+  &:last-child {
+    margin-bottom: 60px;
+  }
+
+  &:hover {
+    border: 1px solid darken(@flat-divider, 10%);
+  }
+
+  .card-title {
+    font-weight: 500;
+    font-size: 20px;
+    color: @text-dark;
+    letter-spacing: 1px;
+
+    display: flex;
+    align-items: center;
+
+    img {
+      margin-right: 12px;
+    }
+  }
+
+  .card-description {
+    max-width: 275px;
+    margin-top: 20px;
+    text-align: left;
+
+    color: @text-color;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22.6px;
+  }
+
+  .btn-white-gradient {
+    margin-top: 30px;
+    display: inline-flex;
+    align-items: center;
+
+    img {
+      margin-right: 10px;
+    }
+  }
+
+  .screen {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+
+  @media (max-width: 1044px) {
+    min-height: 0;
+    .screen {
+      display: none;
+    }
+    .card-description {
+      max-width: auto;
+    }
+  }
+}
