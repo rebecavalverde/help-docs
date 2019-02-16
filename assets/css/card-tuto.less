@@ -63,12 +63,14 @@
   }
 
   @media (max-width: 1044px) {
-    min-height: 0;
+    &, &.small {
+      min-height: 0;
+    }
     .screen {
       display: none;
     }
     .card-description {
-      max-width: auto;
+      max-width: 100%;
     }
   }
 }
