@@ -13,19 +13,17 @@ To create your first music score with Flat and get starting writing your music n
 
 ## 1. Open the score creation tool
 
-Once you are logged in to Flat, click on the button ["New music score"](https://flat.io/my-library?m=newscore) on your *library, or the icon available in the navigation on the top right of your screen on any dashboard page.
+Once you are logged in to Flat, click on the button ["New music score"](https://flat.io/my-library?m=newscore) on your *library*.
 
 [![Create a new score (My Library)](/help/assets/img/library/newscore-btn.png)](https://flat.io/my-library?m=newscore)
 
-[![Create a new score (Navigation)](/help/assets/img/editor/create-score-nav.png)](https://flat.io/my-library?m=newscore)
-
 ## 2. Choose the document title or import a MusicXML/MIDI file
 
-You now have the window opened to create your document, choose a title for this one, or click on the Import button to import an existing file to Flat.
-
-[![Choose the title](/help/assets/img/editor/create-score-title.png)](https://flat.io/my-library?m=newscore)
+You now have the window opened to create your document, choose a title for this one, and click on *Continue*.
 
 Want to import an existing score and tab instead? [Check out our dedicated help and the supported file formats](/help/en/music-notation-software/import.html).
+
+[![Choose the title](/help/assets/img/editor/create-score-title.png)](https://flat.io/my-library?m=newscore)
 
 ## 3. Add the instruments
 

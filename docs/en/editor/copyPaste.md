@@ -20,7 +20,7 @@ paste.title: Paste
 {:.feat}
 
 
-You can easily duplicate part of your scores by using the copy and paste feature that our web and mobile editor provides. Select the elements that you want to copy by by clicking just before the first element desired and drag your mouse to the extent of your selection. Copy-Paste also works between scores, tabs or windows from the same web browser.
+You can easily duplicate part of your scores by using the copy and paste feature that our web and mobile editor provides. Select the elements that you want to copy by clicking just before the first element desired and drag your mouse to the extent of your selection. Copy-Paste also works between scores, tabs or windows from the same web browser.
 
 ## Copy the selection
 

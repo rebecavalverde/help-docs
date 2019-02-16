@@ -2,8 +2,8 @@
 permalink: 404.html
 cursor.title: Cursor
 unselect.title: Unselect everything
-goRight.title: Go to the previous note
-goLeft.title: Go to the next note
+goLeft.title: Go to the previous note
+goRight.title: Go to the next note
 goPreviousMeasure.title: Go to the previous measure
 goNextMeasure.title: Go to the next measure
 goPreviousStaff.title: Go to the previous staff
