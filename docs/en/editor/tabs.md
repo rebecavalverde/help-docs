@@ -1,5 +1,5 @@
 ---
-title: Working with tabs
+title: Composing with tabs
 ptitle: "Learn how to use tabs on Flat: how do they work, how to configure them, how to input notes, etc."
 nav: editor
 pid: tabs
