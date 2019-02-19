@@ -6,6 +6,8 @@ pid: gc-faq
 permalink: en/education/google-classroom/faq.html
 ---
 
+*If you never tried Flat with Google Classroom, [check out our introduction here](/help/en/education/google-classroom/)*.
+
 You can find here the most asked questions about using Flat with Google Classroom. If yours is not here, [please ask our team](/help/support)!
 
 ## Setup and Rostering
