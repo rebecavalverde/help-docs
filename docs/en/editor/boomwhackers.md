@@ -7,8 +7,6 @@ pid: boomwhacker-color
 permalink: en/music-notation-software/boomwhackers-color-sheet-music.html
 ---
 
-*This feature is available in our private beta, contact us if you want to have access to this upcoming release.*
-
 Flat provides a mode to automatically color all the notes of your sheet music using the [Boomwhackers](https://en.wikipedia.org/wiki/Boomwhacker) colors. This feature is available for all users using Flat Power and Flat for Education.
 
 To enable this Boomwhackers colorization mode, click on the **Layout Settings** icon in the document toolbar, open the **Notes heads** settings and choose **Boomwhackers**. This will update all your existing notes with the Boomwhackers colors.
