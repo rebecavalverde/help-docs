@@ -44,7 +44,7 @@ On this page, discover the music notations available on our music notation softw
 | [![Staves](https://prod.flat-cdn.com/img/icons/scoreEditor/staves.svg){:.tb}](/help/en/music-notation-software/layout-staves.html) | [Staves size and spacing between parts and staves](/help/en/music-notation-software/layout-staves.html) |
 | [![Measures](https://prod.flat-cdn.com/img/icons/scoreEditor/measures.svg){:.tb}](/help/en/music-notation-software/layout-measures.html) | [Number of measures per system and notes spacing](/help/en/music-notation-software/layout-measures.html) |
 | [![Measures numbers](https://prod.flat-cdn.com/img/icons/scoreEditor/measuresNumbers.svg){:.tb}](/help/en/music-notation-software/layout-measures-numbers.html) | [Measures numbers](/help/en/music-notation-software/layout-measures-numbers.html) |
-| [![Automatic notes display mode](https://prod.flat-cdn.com/img/icons/editorActions/noteColor.svg){:.tb}](/help/en/music-notation-software/boomwhackers-color-sheet-music.html) | [Automatic Boomwhacker colors and Shape notes](/help/en/music-notation-software/boomwhackers-color-sheet-music.html) |
+| [![Automatic modes for Notes Heads](https://prod.flat-cdn.com/img/icons/editorActions/noteColor.svg){:.tb}](/help/en/music-notation-software/notes-heads-automatic-modes.html) | [Automatic modes for Notes Heads: Boomwhackers, Notes Names, Shape note (Aiken)](/help/en/music-notation-software/notes-heads-automatic-modes.html) |
 {:.feat.flist}
 
 **[Premium features](https://flat.io/pricing) include**:
