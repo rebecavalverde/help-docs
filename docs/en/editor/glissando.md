@@ -5,7 +5,7 @@ nav: editor
 pid: glissando
 permalink: en/music-notation-software/glissando.html
 
-toggleGlissando.title: Glissando
+action.toggleGlissando: true
 ---
 
 ## Summary

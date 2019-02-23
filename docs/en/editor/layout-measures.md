@@ -4,8 +4,8 @@ nav: editor
 pid: layout-measures
 permalink: en/music-notation-software/layout-measures.html
 
-setSystemBreakPolicy.title: Set system break policy
-setNotesSpacingCoeff.title: Set spacing coefficient between notes
+action.setSystemBreakPolicy: true
+action.setNotesSpacingCoeff: true
 ---
 
 To customize the number of measures per system and notes, **open the Layout Settings, next to the print button**.

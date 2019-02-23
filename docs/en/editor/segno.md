@@ -4,9 +4,7 @@ description: In the measure mode, click on the segno button to add a segno marki
 nav: editor
 pid: segno
 permalink: en/music-notation-software/segno.html
-toggleSegno.title: Segno
-toggleSegno.shortDescription: add/remove a "Segno" before the selected measure
-toggleSegno.purpose: The Segno is a mark to which the playback can jump with a "Dal Segno" notation. 
+action.toggleSegno: true
 ---
 
 ## Summary

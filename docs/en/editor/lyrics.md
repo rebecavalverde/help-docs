@@ -4,11 +4,11 @@ description: To write lyrics, click on the icon then an input will shows up bell
 nav: editor
 pid: lyrics
 permalink: en/music-notation-software/lyrics.html
-lyrics.title: Lyrics
-toggleLyricMode.title: Lyrics
-enableLyricMode.title: Enable Lyrics mode
-addLyric.title: Add lyric
-removeLyric.title: Remove lyric
+action.lyrics: true
+action.toggleLyricMode: true
+action.enableLyricMode: true
+action.addLyric: true
+action.removeLyric: true
 ---
 
 ## Summary

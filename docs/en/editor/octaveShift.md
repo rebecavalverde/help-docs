@@ -4,11 +4,11 @@ description: How to use octave shifts on Flat (Ottava)
 nav: editor
 pid: octave-shift
 permalink: en/music-notation-software/octave-shift.html
-octaveShift.title: Octave shifts
-toggle8va.title: Ottava
-toggle8ba.title: Ottava Bassa
-toggle15va.title: Quindicesima
-toggle15ba.title: Quindicesima Bassa
+action.octaveShift: true
+action.toggle8va: true
+action.toggle8ba: true
+action.toggle15va: true
+action.toggle15ba: true
 ---
 
 ## Summary

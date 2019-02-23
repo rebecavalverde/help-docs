@@ -4,9 +4,7 @@ description: To tie two notes, click on the first, then click on the tie tool. O
 nav: editor
 pid: tienote
 permalink: en/music-notation-software/tienote.html
-tie.title: Tie
-tie.shortDescription: add/remove a tie between the selected note and the next one
-tie.purpose: The tie add the duration of the left and the right notes. They must share the same pitch.
+action.tie: true
 ---
 
 ## Summary

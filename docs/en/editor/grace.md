@@ -4,9 +4,9 @@ description: Select a note and click on the grace button to insert a grace note.
 nav: editor
 pid: graceNote
 permalink: en/music-notation-software/grace-note-acciaccatura.html
-grace.title: Grace notes
-insertGrace.title: Grace-note
-insertSlashedGrace.title: Acciaccatura
+action.grace: true
+action.insertGrace: true
+action.insertSlashedGrace: true
 ---
 
 ## Summary

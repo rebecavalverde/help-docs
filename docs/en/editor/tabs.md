@@ -5,13 +5,13 @@ nav: editor
 pid: tabs
 permalink: en/music-notation-software/tabs.html
 
-tab.title: Tablature
-toggleHammerOnPullOff.title: Hammer On / Pull Off
-toggleSlide.title: Slide
-toggleUpStroke.title: Up Stroke
-toggleDownStroke.title: Down Stroke
-moveNoteToLowerString.title: Move note to lower string
-moveNoteToUpperString.title: Move note to upper string
+action.tab: true
+action.toggleHammerOnPullOff: true
+action.toggleSlide: true
+action.toggleUpStroke: true
+action.toggleDownStroke: true
+action.moveNoteToLowerString: true
+action.moveNoteToUpperString: true
 ---
 
 Flat allows you to write tablatures (aka tabs) for any instruments: you can create any tabs from 3 to 14 strings with the tuning and capo that you want.

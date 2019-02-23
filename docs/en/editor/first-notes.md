@@ -8,27 +8,27 @@ permalink: en/music-notation-software/inputting-your-first-notes.html
 nexturl: en/music-notation-software/notation-features.html
 nexttext: Discover all the music notation tools
 
-addNote.title: Add note
-addNoteA.title: Add a "A" note
-addNoteB.title: Add a "B" note
-addNoteC.title: Add a "C" note
-addNoteD.title: Add a "D" note
-addNoteE.title: Add a "E" note
-addNoteF.title: Add a "F" note
-addNoteG.title: Add a "G" note
-addPreviousNoteA.title: Add a "A" note to the previous chord
-addPreviousNoteB.title: Add a "B" note to the previous chord
-addPreviousNoteC.title: Add a "C" note to the previous chord
-addPreviousNoteD.title: Add a "D" note to the previous chord
-addPreviousNoteE.title: Add a "E" note to the previous chord
-addPreviousNoteF.title: Add a "F" note to the previous chord
-addPreviousNoteG.title: Add a "G" note to the previous chord
-addNoteAtLine.title: Add a note at a specified staff line
-addNotePitch.title: Add a note at a specified pitch
-addPreviousNoteAtLine.title: Add a note to the previous chord at a specified staff line
-addPreviousNotePitch.title: Add a note to the previous chord at a specified pitch
-addNoteTab.title: Add a note on the TAB
-addUnpitchedNote.title: Add an unpitched note
+action.addNote: true
+action.addNoteA: true
+action.addNoteB: true
+action.addNoteC: true
+action.addNoteD: true
+action.addNoteE: true
+action.addNoteF: true
+action.addNoteG: true
+action.addPreviousNoteA: true
+action.addPreviousNoteB: true
+action.addPreviousNoteC: true
+action.addPreviousNoteD: true
+action.addPreviousNoteE: true
+action.addPreviousNoteF: true
+action.addPreviousNoteG: true
+action.addNoteAtLine: true
+action.addNotePitch: true
+action.addPreviousNoteAtLine: true
+action.addPreviousNotePitch: true
+action.addNoteTab: true
+action.addUnpitchedNote: true
 ---
 
 Once you [created your first score](/help/en/music-notation-software/create-your-first-music-score.html) and [set a time and key signature to your score](/help/en/music-notation-software/tutorial-key-time-signature.html), you can now start adding your first notes.

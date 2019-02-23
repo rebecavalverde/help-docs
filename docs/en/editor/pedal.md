@@ -4,8 +4,8 @@ description: Add a pedal marking on Flat editor
 nav: editor
 pid: pedal
 permalink: en/music-notation-software/pedal.html
-pedal.title: Pedal
-togglePedal.title: Pedal
+action.pedal: true
+action.togglePedal: true
 ---
 
 ## Summary

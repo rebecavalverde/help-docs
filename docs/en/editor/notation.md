@@ -4,8 +4,8 @@ description: Discover all the music notation features available on Flat
 nav: editor
 pid: notation
 permalink: en/music-notation-software/notation-features.html
-note.title: Notes
-text.title: Text
+action.note: true
+action.text: true
 ---
 
 On this page, discover the music notations available on our music notation software, [Flat](https://flat.io), organized by group of features and toolbars. Open the feature page to see how to use it.

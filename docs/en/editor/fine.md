@@ -4,9 +4,7 @@ description: In the measure mode, click the fine button to make the selected mea
 nav: editor
 pid: fine
 permalink: en/music-notation-software/fine.html
-toggleFine.title: Fine
-toggleFine.shortDescription: add/remove a "Fine" after the selected measure
-toggleFine.purpose: The Fine means that the score ends after this measure when it is played after a jump back to a segno or to the begining.
+action.toggleFine: true
 ---
 
 ## Summary

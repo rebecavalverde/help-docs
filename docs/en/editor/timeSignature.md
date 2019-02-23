@@ -4,10 +4,10 @@ description: In the measure mode, select the first measure that will get the new
 nav: editor
 pid: timesig
 permalink: en/music-notation-software/timesig.html
-timeSignature.title: Time signature
-setTimeSignature.title: Set time signature
-customizeTimeSignature.title: Display interface to customize time signature
-removeTimeSignatureAtSelected.title: Remove selected time signature
+action.timeSignature: true
+action.setTimeSignature: true
+action.customizeTimeSignature: true
+action.removeTimeSignatureAtSelected: true
 ---
 
 ## Summary

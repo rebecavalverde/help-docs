@@ -5,11 +5,11 @@ nav: editor
 pid: print-export
 permalink: en/music-notation-software/print-export.html
 
-export.title: Export
-print.title: Print
-getJSON.title: Get the score as a JSON file
-getMusicXML.title: Get the score as a MusicXML file
-getPNG.title: Get the score as a PNG file
+action.export: true
+action.print: true
+action.getJSON: true
+action.getMusicXML: true
+action.getPNG: true
 ---
 
 You can easily print and export the scores and tabs created or hosted on Flat from our editor and viewer. On the different web interfaces, you will have the exact same widget to export and print.

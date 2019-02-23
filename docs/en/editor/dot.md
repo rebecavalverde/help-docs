@@ -4,8 +4,8 @@ description: How to add a remove a dot to a note?
 nav: editor
 pid: dotted
 permalink: en/music-notation-software/dotted.html
-addOneDot.title: Dot
-addTwoDots.title: Double Dots
+action.addOneDot: true
+action.addTwoDots: true
 ---
 
 ## Summary

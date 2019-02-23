@@ -5,9 +5,9 @@ nav: editor
 pid: nodesheads-modes
 permalink: en/music-notation-software/notes-heads-automatic-modes.html
 
-setShapeDisplayMode.title: Set notes display mode (shape)
-setColorDisplayMode.title: Set notes display mode (color)
-setPitchesNamesMode.title: Set notes display mode (notes names)
+action.setShapeDisplayMode: true
+action.setColorDisplayMode: true
+action.setPitchesNamesMode: true
 ---
 
 Flat provides different modes for the notes heads: you enable a mode and **we automatically apply the set of rules to your complete sheet music**. Modes currently include automatic colors ([*Boomwhackers color scheme*](/help/en/music-notation-software/boomwhackers-color-sheet-music.html)) and shapes (*Notes names*, *Shape Notes - Aiken*).

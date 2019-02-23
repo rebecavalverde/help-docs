@@ -5,7 +5,7 @@ nav: editor
 pid: arpeggio
 permalink: en/music-notation-software/arpeggio.html
 
-toggleArpeggio.title: Arpeggio
+action.toggleArpeggio: trueArpeggio
 ---
 
 ## Summary

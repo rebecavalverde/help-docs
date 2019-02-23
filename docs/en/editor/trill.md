@@ -5,8 +5,7 @@ nav: editor
 pid: trill
 permalink: en/music-notation-software/trill.html
 
-toggleTrill.title: Trill
-toggleTrill.shortDescription: add/remove a trill at the selected note
+action.toggleTrill: true
 ---
 
 ## Summary

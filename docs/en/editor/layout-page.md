@@ -4,12 +4,12 @@ nav: editor
 pid: layout-page
 permalink: en/music-notation-software/layout-page.html
 
-setMargins.title: Set margins
-setTopMargin.title: Set top margin
-setRightMargin.title: Set right margin
-setBottomMargin.title: Set bottom margin
-setLeftMargin.title: Set left margin
-setPageSize.title: Set page size
+action.setMargins: true
+action.setTopMargin: true
+action.setRightMargin: true
+action.setBottomMargin: true
+action.setLeftMargin: true
+action.setPageSize: true
 ---
 
 To customize the paper size, orientation and the margins, **open the Layout Settings, next to the print button**.

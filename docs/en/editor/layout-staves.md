@@ -4,9 +4,9 @@ nav: editor
 pid: layout-staves
 permalink: en/music-notation-software/layout-staves.html
 
-setStaffSize.title: Set staff size
-setDistanceBetweenStaves.title: Set distance between staves
-setDistanceBetweenSystems.title: Set distance between systems
+action.setStaffSize: true
+action.setDistanceBetweenStaves: true
+action.setDistanceBetweenSystems: true
 ---
 
 To customize the staves size and margins between staves and systems, **open the Layout Settings, next to the print button**.

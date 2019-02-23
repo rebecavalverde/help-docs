@@ -5,13 +5,13 @@ description: To add note of different durations on the same staff, you can creat
 nav: editor
 pid: addvoice
 permalink: en/music-notation-software/addvoice.html
-voices.title: Voices
-circleVoice.title: Toggle between voices
-goVoice1.title: Use voice 1
-goVoice2.title: Use voice 2
-removeVoice1.title: Remove voice 1
-removeVoice2.title: Remove voice 2
-removeCurrentVoice.title: Remove current voice
+action.voices: true
+action.circleVoice: true
+action.goVoice1: true
+action.goVoice2: true
+action.removeVoice1: true
+action.removeVoice2: true
+action.removeCurrentVoice: true
 ---
 
 ## Summary

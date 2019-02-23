@@ -5,21 +5,11 @@ description: Add palm mute and let ring with Flat editor.
 nav: editor
 pid: plucked-ranges
 
-pluckedRange.title: Plucked Ranges
-toggleBelowPalmMute.title: Palm mute (below)
-toggleBelowPalmMute.shortDescription: Add or remove a palm mute at the cursor location, below the staff
-toggleBelowPalmMute.purpose: Palm mutes means that we make a muted sound by having the side of the hand close to the string.
-toggleAbovePalmMute.title: Palm mute (above)
-toggleAbovePalmMute.shortDescription: Add or remove a palm mute at the cursor location, above the staff
-toggleAbovePalmMute.purpose: Palm mutes means that we make a muted sound by having the side of the hand close to the string.
-
-toggleBelowLetRing.title: Let ring (below)
-toggleBelowLetRing.shortDescription: Add or remove a let ring at the cursor location, below the staff
-toggleBelowLetRing.purpose: Let rings are meant to let the string ring, without muting it.
-
-toggleAboveLetRing.title: Let ring (above)
-toggleAboveLetRing.shortDescription: Add or remove a let ring at the cursor location, above the staff
-toggleAboveLetRing.purpose: Let rings are meant to let the string ring, without muting it.
+action.pluckedRange: true
+action.toggleBelowPalmMute: true
+action.toggleAbovePalmMute: true
+action.toggleBelowLetRing: true
+action.toggleAboveLetRing: true
 ---
 
 ## Summary

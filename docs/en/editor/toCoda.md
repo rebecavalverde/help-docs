@@ -4,9 +4,7 @@ description: In the measure mode, click the to coda button to state that the per
 nav: editor
 pid: coda
 permalink: en/music-notation-software/toCoda.html
-toggleToCoda.title: To coda
-toggleToCoda.shortDescription: add/remove a "To coda" after the selected measure
-toggleToCoda.purpose: The To coda makes the playback jump to the coda section.
+action.toggleToCoda: true
 ---
 
 ## Summary

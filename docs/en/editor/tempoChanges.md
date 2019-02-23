@@ -4,13 +4,9 @@ permalink: en/music-notation-software/tempo-changes.html
 description: Add accelerando and ritardando with Flat editor.
 nav: editor
 pid: tempo-changes
-tempoChange.title: Tempo changes
-toggleAccelerando.title: Accelerando
-toggleAccelerando.shortDescription: Add or remove an accelerando at the cursor location
-toggleAccelerando.purpose: Accelerandos are meant to gradually increase the tempo so it becomes faster and faster within the accelerando range.
-toggleRitardando.title: Ritardando
-toggleRitardando.shortDescription: Add or remove a ritardando at the cursor location
-toggleRitardando.purpose: Ritardandos are meant to gradually decrease the tempo so it becomes slower and slower within the ritardando range.
+action.tempoChange: true
+action.toggleAccelerando: true
+action.toggleRitardando: true
 ---
 
 ## Summary

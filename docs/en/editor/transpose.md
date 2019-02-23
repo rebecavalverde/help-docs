@@ -5,12 +5,12 @@ description: Transposing music notation with Flat is really easy to do with a co
 nav: editor
 pid: transpose
 permalink: en/music-notation-software/transpose.html
-transpose.title: Transpose
-transposeFromTo.title: Transpose by key
-transposePart.title: Transpose part
-transposePartFromTo.title: Transpose part by key
-transposeRange.title: Transpose range
-transposeRangeFromTo.title: Transpose range by key
+action.transpose: true
+action.transposeFromTo: true
+action.transposePart: true
+action.transposePartFromTo: true
+action.transposeRange: true
+action.transposeRangeFromTo: true
 ---
 
 There are different tools to transpose your music notation with Flat, based on what you want to do:

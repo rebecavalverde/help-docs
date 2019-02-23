@@ -4,9 +4,8 @@ description: In the measure mode, click the dal segno button to state that the p
 nav: editor
 pid: dal segno
 permalink: en/music-notation-software/dalSegno.html
-toggleDalSegno.title: Dal segno
-toggleDalSegno.shortDescription: add/remove a "Dal segno" after the selected measure
-toggleDalSegno.purpose: The Dal segno makes the playback jump to the segno.
+
+action.toggleDalSegno: true
 ---
 
 ## Summary

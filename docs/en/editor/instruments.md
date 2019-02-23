@@ -6,11 +6,11 @@ nav: editor
 pid: instruments
 permalink: en/music-notation-software/instruments.html
 
-instruments.title: Score instruments
-addStaff.title: Add staff
-changeInstrumentCustom.title: Change instrument configuration
-changeInstrumentFromTemplate.title: Change instrument configuration using a template
-changeTuning.title: Change tablature tuning
+action.instruments: true
+action.addStaff: true
+action.changeInstrumentCustom: true
+action.changeInstrumentFromTemplate: true
+action.changeTuning: true
 ---
 
 Flat provides more than 100 instruments to everyone (Free, Power, and Education accounts), discover here how to use them, [customize them in a score](#changing-instruments-in-a-score), and create [your own instruments configurations](/help/en/music-notation-software/custom-instruments.html).

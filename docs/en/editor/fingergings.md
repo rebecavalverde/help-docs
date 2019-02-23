@@ -5,7 +5,7 @@ nav: editor
 pid: fingerings
 permalink: en/music-notation-software/fingerings.html
 
-toggleFingering.title: Fingerings
+action.toggleFingering: true
 ---
 
 ## Summary

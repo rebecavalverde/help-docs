@@ -5,10 +5,10 @@ title: Color music notes
 nav: editor
 pid: note-color
 permalink: en/music-notation-software/color-notes.html
-noteColor.title: Note color
-setColor.title: Set color to a note or selection of notes
-setNoteColor.title: Set note color
-setRangeColor.title: Set color to selected notes
+action.noteColor: true
+action.setColor: true
+action.setNoteColor: true
+action.setRangeColor: true
 ---
 
 Flat provides two ways to color the notes heads, automatically and manually. These tools are available in our editor for our Flat Power and Flat for Education users.

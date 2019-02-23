@@ -5,8 +5,8 @@ permalink: en/music-notation-software/undo-redo-actions.html
 nav: editor
 pid: undo
 
-undo.title: Undo
-redo.title: Redo
+action.undo: true
+action.redo: true
 ---
 
 On this page, you will see how easy it is to undo & redo actions you just did on the editor

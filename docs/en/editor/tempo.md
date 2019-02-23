@@ -5,10 +5,10 @@ description: Select where you want to add the new mark, click on the tempo mark 
 nav: editor
 pid: addtempo
 permalink: en/music-notation-software/addtempo.html
-tempo.title: Tempo
-setTempo.title: Set a new tempo
-showTempoMarks.title: Display tempo marks
-hideTempoMarks.title: Hide tempo marks
+action.tempo: true
+action.setTempo: true
+action.showTempoMarks: true
+action.hideTempoMarks: true
 ---
 
 ## Summary

@@ -4,10 +4,11 @@ description: Easily duplicate part of your scores by using our copy/paste tool o
 nav: editor
 pid: paste
 permalink: en/music-notation-software/paste.html
-copyPaste.title: Copy/Paste
-copy.title: Copy
-cut.title: Cut
-paste.title: Paste
+
+action.copyPaste: true
+action.copy: true
+action.cut: true
+action.paste: true
 ---
 
 ## Summary

@@ -4,9 +4,7 @@ description: Ghost notes are available in the Note toolbar on Flat, disocver how
 nav: editor
 pid: ghost-note
 permalink: en/music-notation-software/ghost-note.html
-ghostNote.title: Ghost note
-ghostNote.shortDescription: add/remove parenthesis around the selected note head
-ghostNote.purpose: A note played as a ghost note is played very softly, almost inaudibly in order to have a rhythm effect rather than a melodic effect. The pitch is usually not perceived. 
+action.ghostNote: true
 ---
 
 ## Summary

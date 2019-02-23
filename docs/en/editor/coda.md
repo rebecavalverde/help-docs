@@ -4,9 +4,8 @@ description: In the measure mode, click the coda button to make the selected mea
 nav: editor
 pid: coda
 permalink: en/music-notation-software/coda.html
-toggleCoda.title: Coda
-toggleCoda.shortDescription: add/remove a "Coda" before the selected measure
-toggleCoda.purpose: The Coda marks a section to be played at the end of the score.
+
+action.toggleCoda: true
 ---
 
 ## Summary

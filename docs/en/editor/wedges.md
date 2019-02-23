@@ -5,8 +5,8 @@ nav: editor
 pid: wedges
 permalink: en/music-notation-software/wedges.html
 
-toggleCrescendoBelow.title: Crescendo
-toggleDiminuendoBelow.title: Diminuendo
+action.toggleCrescendoBelow: true
+action.toggleDiminuendoBelow: true
 ---
 
 ## Summary

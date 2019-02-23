@@ -5,13 +5,10 @@ nav: editor
 pid: addmeasure
 permalink: en/music-notation-software/addmeasure.html
 
-measure.title: Measure
-insertMeasureBefore.title: Insert measure before
-insertMeasureBefore.shortDescription: insert a measure before the selected measure
-insertMeasureAfter.title: Insert measure after
-insertMeasureAfter.shortDescription: insert a measure after the selected measure
-removeMeasure.title: Remove measure
-removeMeasure.shortDescription: remove the selected measure
+action.measure: true
+action.insertMeasureBefore: true
+action.insertMeasureAfter: true
+action.removeMeasure: true
 ---
 
 ## Summary

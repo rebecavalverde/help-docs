@@ -4,9 +4,7 @@ description: In the note tool-bar, click enharmonic switch button to change the 
 nav: editor
 pid: enharmonic switch
 permalink: en/music-notation-software/enharmonic-switch.html
-switchEnharmonic.title: Switch enharmonic
-switchEnharmonic.shortDescription: change the selected note to its enharmonic
-switchEnharmonic.purpose: The enharmonic has the same sounding pitch, but is displayed differently
+action.switchEnharmonic: true
 ---
 
 ## Summary

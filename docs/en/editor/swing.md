@@ -6,10 +6,10 @@ nav: editor
 pid: swing
 permalink: en/music-notation-software/swing.html
 
-addGlobalSwing.title: Set swing globally
-removeGlobalSwing.title: Remove global swing
-setSwing.title: Swing
-removeSwingAtSelected.title: Remove selected swing
+action.addGlobalSwing: true
+action.removeGlobalSwing: true
+action.setSwing: true
+action.removeSwingAtSelected: true
 ---
 
 ## Summary

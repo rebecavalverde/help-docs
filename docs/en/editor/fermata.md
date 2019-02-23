@@ -5,9 +5,7 @@ nav: editor
 pid: fermata
 permalink: en/music-notation-software/fermata.html
 
-toggleFermata.title: Fermata
-toggleFermata.shortDescription: add/remove a fermata at the selected note/rest
-toggleFermata.purpose: The fermata is used to state that a note/rest can be hold an undefined amount of time.
+action.toggleFermata: true
 ---
 
 ## Summary

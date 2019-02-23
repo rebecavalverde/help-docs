@@ -4,8 +4,9 @@ description: For transposing instrument, we display the transposed score by defa
 nav: editor
 pid: concertpitch
 permalink: en/music-notation-software/concertpitch.html
-concertPitch.title: Concert Pitch
-toggleConcertPitch.title: Toggle Concert Pitch
+
+action.concertPitch: true
+action.toggleConcertPitch: true
 ---
 
 | Available in toolbar | **Note** |

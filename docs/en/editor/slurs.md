@@ -4,8 +4,8 @@ description: To slur several notes, select the first music note then go to the a
 nav: editor
 pid: slur
 permalink: en/music-notation-software/slur.html
-slur.title: Slurs
-toggleSlurAtNote.title: Slurs
+action.slur: true
+action.toggleSlurAtNote: true
 ---
 
 ## Summary

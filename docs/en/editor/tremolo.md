@@ -5,9 +5,9 @@ nav: editor
 pid: tremolo
 permalink: en/music-notation-software/tremolo.html
 
-toggleTremolo.title: Tremolo
-addTremolo.title: Add a tremolo
-removeTremolo.title: Remove a tremolo
+action.toggleTremolo: true
+action.addTremolo: true
+action.removeTremolo: true
 ---
 
 ## Summary

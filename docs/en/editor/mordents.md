@@ -5,19 +5,17 @@ nav: editor
 pid: mordent
 permalink: en/music-notation-software/mordents.html
 
-toggleMordent.title: Mordent
-toggleMordent.shortDescription: add/remove a mordent at the selected note
-toggleLongMordent.title: Long lower mordent
-toggleLongInvertedMordent.title: Long upper mordent
-toggleLongMordentAboveApproach.title: Lower mordent above approach
-toggleLongMordentBelowApproach.title: Lower mordent below approach
+action.toggleMordent: true
+action.toggleLongMordent: true
+action.toggleLongInvertedMordent: true
+action.toggleLongMordentAboveApproach: true
+action.toggleLongMordentBelowApproach: true
 
-toggleInvertedMordent.title: Upper mordent
-toggleInvertedMordent.shortDescription: add/remove an upper mordent at the selected note
-toggleLongInvertedMordentAboveApproach.title: Upper mordent above approach
-toggleLongInvertedMordentBelowApproach.title: Upper mordent below approach
-toggleLongInvertedMordentAboveDeparture.title: Upper mordent above departure
-toggleLongInvertedMordentBelowDeparture.title: Upper mordent below departure
+action.toggleInvertedMordent: true
+action.toggleLongInvertedMordentAboveApproach: true
+action.toggleLongInvertedMordentBelowApproach: true
+action.toggleLongInvertedMordentAboveDeparture: true
+action.toggleLongInvertedMordentBelowDeparture: true
 ---
 
 ## Summary

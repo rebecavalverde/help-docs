@@ -4,8 +4,8 @@ nav: editor
 pid: layout-measures-number
 permalink: en/music-notation-software/layout-measures-numbers.html
 
-setMeasureNumberingPolicy.title: Set measure numbering policy
-setHasPickupShift.title: Enable/disable measure numbering pickup shift
+action.setMeasureNumberingPolicy: true
+action.setHasPickupShift: true
 ---
 
 To customize the measures numbers policy, **open the Layout Settings, next to the print button**.

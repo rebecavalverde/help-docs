@@ -5,9 +5,9 @@ nav: editor
 pid: notes-beaming
 permalink: en/music-notation-software/notes-beaming.html
 
-beaming.title: Beaming notes
-toggleForceBeam.title: Force beaming
-toggleForceUnbeam.title: Force unbeaming
+action.beaming: true
+action.toggleForceBeam: true
+action.toggleForceUnbeam: true
 ---
 
 ## Summary

@@ -5,11 +5,11 @@ nav: editor
 pid: ending
 permalink: en/music-notation-software/endings.html
 
-ending.title: Ending
-toggleEnding1.title: Toggle 1st Ending
-toggleEnding2.title: Toggle 2nd Ending
-toggleEnding3.title: Toggle 3rd Ending
-toggleEnding4.title: Toggle 4th Ending
+action.ending: true
+action.toggleEnding1: true
+action.toggleEnding2: true
+action.toggleEnding3: true
+action.toggleEnding4: true
 ---
 
 ## Summary

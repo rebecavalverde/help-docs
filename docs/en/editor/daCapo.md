@@ -4,9 +4,8 @@ description: In the measure mode, click the Da Capo button to state that the per
 nav: editor
 pid: da capo
 permalink: en/music-notation-software/daCapo.html
-toggleDacapo.title: Dacapo
-toggleDacapo.shortDescription: add/remove a "Dacapo" after the selected measure
-toggleDacapo.purpose: The Dacapo make the playback return to the begining of the score.
+
+action.toggleDacapo: true
 ---
 
 ## Summary

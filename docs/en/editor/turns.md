@@ -5,10 +5,8 @@ nav: editor
 pid: turn
 permalink: en/music-notation-software/turns.html
 
-toggleTurn.title: Turn
-toggleTurn.shortDescription: add/remove a turn at the selected note
-toggleInvertedTurn.title: Inverted turn
-toggleInvertedTurn.shortDescription: add/remove an inverted turn at the selected note
+action.toggleTurn: true
+action.toggleInvertedTurn: true
 ---
 
 ## Summary
