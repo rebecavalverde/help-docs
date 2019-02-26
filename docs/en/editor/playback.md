@@ -32,6 +32,10 @@ At this time, most of the notations are interpreted, except:
 
 {% include_relative generated/reverb.md %}
 
+## Change the playback speed
+
+You can find how to change the global playback speed on [our dedicated help page](/help/en/music-notation-software/playback-speed.html).
+
 ## Enable the swing
 
 The swing includes the notation and the playback interpretation. Discover how to use it [in our dedicated help page](/help/en/music-notation-software/swing.html).
