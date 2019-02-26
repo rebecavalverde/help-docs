@@ -18,7 +18,6 @@ At this time, most of the notations are interpreted, except:
 * Snap pizzicato
 * Bowing Directions
 * Palm mute / Left ring
-* Dead notes
 * Text
 
 ## Use the Playback
