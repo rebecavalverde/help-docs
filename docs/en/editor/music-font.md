@@ -29,4 +29,4 @@ At this time, two music fonts are available: the default and classic one (Bravur
 
 [In 2015](https://blog.flat.io/smufl-and-new-music-font-on-flat/) we implemented [SMuFL](https://www.smufl.org/) (Standard Music Font Layout) in our music engraving engine and started using Bravura, a classic font developed by Steinberg and relesed under the SIL Open Font License.
 
-In February 2019 we added Petaluma to Flat, a Handwritten music font, also developed and open sourced by Steinberg.
+In [February 2019 we added Petaluma to Flat](https://blog.flat.io/new-music-font/), a Handwritten music font, also developed and open sourced by Steinberg.
