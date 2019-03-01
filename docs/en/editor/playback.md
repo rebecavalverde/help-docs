@@ -39,3 +39,7 @@ You can find how to change the global playback speed on [our dedicated help page
 ## Enable the swing
 
 The swing includes the notation and the playback interpretation. Discover how to use it [in our dedicated help page](/help/en/music-notation-software/swing.html).
+
+## Any issue with the playback?
+
+See our [playback troubleshooting page](/help/en/music-notation-software/playback-troubleshooting.html)
