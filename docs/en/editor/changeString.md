@@ -9,6 +9,12 @@ action.moveNoteToUpperString: true
 action.moveNoteToLowerString: true
 ---
 
-When selecting the note on the TAB staff, you can move it to the upper or the lower string by doing ctrl+up/down, or cmd+up/down if you are on a MAC. 
+To change the string related to a note on the stave you can use the following keyboard shortcuts:
+
+|:--|:--|
+|go to the upper string|<span class="kbs-multi"><span class="kb-container"><span class="kb">Ctrl</span> + <span class="kb">⇡</span></span> or <span class="kb-container"><span class="kb">⌘</span> + <span class="kb">⇡</span></span></span> |
+| go to the lower string | <span class="kbs-multi"><span class="kb-container"><span class="kb">Ctrl</span> + <span class="kb">⇣</span></span> or <span class="kb-container"><span class="kb">⌘</span> + <span class="kb">⇣</span></span></span> |
+
+Note: If there is already a fret value for the string we will go directly to the next available.
 
 ![Change String](/help/assets/img/editor/changeString.gif)
