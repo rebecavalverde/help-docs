@@ -9,7 +9,7 @@ action.moveNoteToUpperString: true
 action.moveNoteToLowerString: true
 ---
 
-To change the string related to a note on the stave you can use the following keyboard shortcuts:
+To change the string related to a note, select the note on the TAB staff, and use the following keyboard shortcuts:
 
 |:--|:--|
 |go to the upper string|<span class="kbs-multi"><span class="kb-container"><span class="kb">Ctrl</span> + <span class="kb">⇡</span></span> or <span class="kb-container"><span class="kb">⌘</span> + <span class="kb">⇡</span></span></span> |
