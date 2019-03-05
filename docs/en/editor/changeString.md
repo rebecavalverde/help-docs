@@ -1,5 +1,5 @@
 ---
-title: Change the string assigned to a note
+title: "Tab: Change the string assigned to a note"
 description: On plucked string instruments, you can change the notes a string is assigned to.
 nav: editor
 pid: changeString

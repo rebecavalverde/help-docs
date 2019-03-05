@@ -67,13 +67,18 @@ On this page, discover the music notations available on our music notation softw
 | [![Beaming Policy](https://prod.flat-cdn.com/img/icons/editorActions/beamPolicy.svg){:.tb}![Beam](https://prod.flat-cdn.com/img/icons/editorActions/beam.svg){:.tb}![Unbeam](https://prod.flat-cdn.com/img/icons/editorActions/unbeam.svg){:.tb}](/help/en/music-notation-software/notes-beaming.html) | [Beaming: automic policy and manual beaming](/help/en/music-notation-software/notes-beaming.html) |
 | [![Ghost note](https://prod.flat-cdn.com/img/icons/editorActions/ghost.svg){:.tb}](/help/en/music-notation-software/ghost-note.html) | [Ghost note](/help/en/music-notation-software/ghost-note.html) |
 | [![Dead note](https://prod.flat-cdn.com/img/icons/editorActions/headX.svg){:.tb}](/help/en/music-notation-software/dead-note.html) | [Dead note](/help/en/music-notation-software/dead-note.html) |
-| [![Change string](https://prod.flat-cdn.com/img/icons/editorActions/transpose.svg){:.tb}](/help/en/music-notation-software/changeString.html) | [Change String](/help/en/music-notation-software/changeString.html) |
 | [![Spoken words](https://prod.flat-cdn.com/img/icons/editorActions/headX.svg){:.tb}](/help/en/music-notation-software/spoken-words.html) | [Spoken words](/help/en/music-notation-software/spoken-words.html) |
 | [![Grace note and Acciaccatura](https://prod.flat-cdn.com/img/icons/editorActions/gracenote.svg){:.tb}](/help/en/music-notation-software/grace-note-acciaccatura.html) | [Grace note and Acciaccatura](/help/en/music-notation-software/grace-note-acciaccatura.html) |
 | [![Concert Pitch](https://prod.flat-cdn.com/img/icons/editorActions/concertPitch.svg){:.tb}](/help/en/music-notation-software/concertpitch.html) | [Dislay the score in Concert Pitch](/help/en/music-notation-software/concertpitch.html) |
 | [![Transposition](https://prod.flat-cdn.com/img/icons/editorActions/transpose.svg){:.tb}](/help/en/music-notation-software/transpose.html) | [Transposition](/help/en/music-notation-software/transpose.html) |
 | [![Octave shift / Ottava](https://prod.flat-cdn.com/img/icons/editorActions/8va.svg){:.tb}](/help/en/music-notation-software/octave-shift.html) | [Octave shift / Ottava](/help/en/music-notation-software/octave-shift.html) |
 | [![Color note](https://prod.flat-cdn.com/img/icons/editorActions/noteColor.svg){:.tb}](/help/en/music-notation-software/color-notes.html) | [Color note: Manual colors and automatic colorization using Boomwhackers colors](/help/en/music-notation-software/color-notes.html) |
+{:.feat.flist}
+
+## Tabs
+
+| [![Get started with Tablatures](https://prod.flat-cdn.com/img/icons/_instrument/group-plucked-strings.svg){:.tb}](/help/en/music-notation-software/tabs.html) | [Get started with Tablatures](/help/en/music-notation-software/tabs.html) |
+| [![Change string](https://prod.flat-cdn.com/img/icons/editorActions/transpose.svg){:.tb}](/help/en/music-notation-software/change-string.html) | [Change String](/help/en/music-notation-software/change-string.html) |
 {:.feat.flist}
 
 ## Articulation
