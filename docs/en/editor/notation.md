@@ -46,6 +46,7 @@ On this page, discover the music notations available on our music notation softw
 | [![Measures numbers](https://prod.flat-cdn.com/img/icons/scoreEditor/measuresNumbers.svg){:.tb}](/help/en/music-notation-software/layout-measures-numbers.html) | [Measures numbers](/help/en/music-notation-software/layout-measures-numbers.html) |
 | [![Automatic modes for Notes Heads](https://prod.flat-cdn.com/img/icons/editorActions/noteColor.svg){:.tb}](/help/en/music-notation-software/notes-heads-automatic-modes.html) | [Automatic modes for Notes Heads: Boomwhackers, Notes Names, Shape note (Aiken)](/help/en/music-notation-software/notes-heads-automatic-modes.html) |
 | [![Choosing music font](https://prod.flat-cdn.com/img/icons/editorActions/musicFont.svg){:.tb}](/help/en/music-notation-software/music-font-smufl.html) | [Music font](/help/en/music-notation-software/music-font-smufl.html) |
+| [![Text styles](https://prod.flat-cdn.com/img/icons/editorActions/textFont.svg){:.tb}](/help/en/music-notation-software/text-styles.html) | [Text styles](/help/en/music-notation-software/text-styles.html) |
 {:.feat.flist}
 
 **[Premium features](https://flat.io/pricing) include**:
@@ -53,6 +54,7 @@ On this page, discover the music notations available on our music notation softw
 * [Spacing between staves and systems](/help/en/music-notation-software/layout-staves.html)
 * [Automatic Boomwhacker colors and Shape notes](/help/en/music-notation-software/notes-heads-automatic-modes.html)
 * [Choosing Music Font](/help/en/music-notation-software/music-font-smufl.html)
+* [Text styles](/help/en/music-notation-software/text-styles.html)
 
 ## Note
 
@@ -138,4 +140,5 @@ On this page, discover the music notations available on our music notation softw
 | [![Lyrics](https://prod.flat-cdn.com/img/icons/editorActions/lyric.svg){:.tb}](/help/en/music-notation-software/lyrics.html) | [Lyrics](/help/en/music-notation-software/lyrics.html) |
 | [![Chords](https://prod.flat-cdn.com/img/icons/editorActions/chord.svg){:.tb}](/help/en/music-notation-software/chords.html) | [Chords](/help/en/music-notation-software/chords.html) |
 | [![Text annotation](https://prod.flat-cdn.com/img/icons/editorActions/annotation.svg){:.tb}](/help/en/music-notation-software/annotation.html) | [Text annotation / expression](/help/en/music-notation-software/annotation.html) |
+| [![Text styles](https://prod.flat-cdn.com/img/icons/editorActions/textFont.svg){:.tb}](/help/en/music-notation-software/text-styles.html) | [Text styles](/help/en/music-notation-software/text-styles.html) |
 {:.feat.flist}
