@@ -11,7 +11,7 @@ You can customize [the editor shortcuts](/help/en/music-notation-software/keyboa
 
 <div class="p">To view existing shortcuts and edit them, open a score, then press <div class="kbs"><div class="kb-container"><div class="kb">Alt</div><div class="kb-plus">+</div><div class="kb">?</div></div></div>, or click on the "?" icon on the top right of the editor, then click on the <strong>Customize</strong> button on the bottom of the shortcut dialog.</div>
 
-![Edit keyboard shortcuts](/help/assets/img/editor/keyboard-shortcut-edit.png)
+![Edit keyboard shortcuts](/help/assets/img/editor/keyboard-shortcut-edit.gif)
 
 From there you can **add new keyboard shortcuts** or **editing existing keyboard shortcuts**.
 
