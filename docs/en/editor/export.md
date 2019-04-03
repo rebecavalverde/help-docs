@@ -17,7 +17,7 @@ You can easily print and export the scores and tabs created or hosted on Flat fr
 **[Premium features](https://flat.io/pricing) include**:
 * All printing options listed below
 * Individual parts exporting and printing
-* The removal of "**Made with Flat**" branding when printing and exporting scores
+* The removal of "*Score created with the free version of Flat*" branding when printing and exporting scores
 
 ## Export/Download your score
 
