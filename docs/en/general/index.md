@@ -22,6 +22,17 @@ Do you have a question about Flat? Our FAQ is here for you, you can find the ans
 * [How do I delete my account?](/help/en/general/delete-my-account.html)
 {:.faqul}
 
+### Payments and billing
+
+* [Which Flat subscription is the best for me?](/help/en/general/which-flat-subscrption-is-the-best-for-me.html)
+* [How do I update my billing information?](/help/en/general/update-billing-information.html)
+* [How do I find a billing receipt or invoice?](/help/en/general/billing-receipt-invoice.html)
+* [Can I purchase Flat using a Wire Transfer, Purchase Order, Check or Paypal?](/help/en/general/payment-means-available.html)
+* [How do I cancel my Flat trial or subscription?](/help/en/general/cancel-subscriptions-free-trial.html)
+* [What happens when I cancel my Flat subscription or trial?](/help/en/general/cancel-subscriptions-free-trial.html#what-happens-when-i-cancel-my-flat-subscription-or-trial)
+* [Can I get a refund on a Flat subscription?](/help/en/general/refunds.html)
+{:.faqul}
+
 ## Need more help?
 
 Do you have a question that is not answered on this website? Please [contact us](/help/support), we are always one message away and love to hear from you.
