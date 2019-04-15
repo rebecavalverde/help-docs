@@ -25,7 +25,7 @@ If you are purchasing a site license for a teacher of your school or need more i
 We accept payments for site licenses:
 * Online by card in [your account settings](https://flat.io/settings/your-plan) or via a guest purchase link ([contact us](mailto:edu@flat.io))
 * With Purchase Orders (PO) at [edu@flat.io](mailto:edu@flat.io) and by fax at +1 845 666 2519
-* By Bank transfer (SWIFT, SEPA, BACS, and ACH)
+* By Bank transfer (SWIFT, SEPA, BACS, ACH and BSB)
 * By Check for US and UK customers
 * By Paypal
 
