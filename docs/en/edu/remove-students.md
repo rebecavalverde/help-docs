@@ -2,7 +2,7 @@
 title: Remove students from your organization
 description: We will describe how to manage your students and remove old accounts to free their licenses for new users
 nav: edu
-pid: remove-students
+pid: remove-students-orga
 permalink: en/education/remove-students-organization.html
 ---
 
