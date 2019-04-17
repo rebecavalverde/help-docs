@@ -6,9 +6,9 @@ pid: remove-students-orga
 permalink: en/education/remove-students-organization.html
 ---
 
-When comes the end of the semester or the year you might want to remove old student profil to free licenses.
+When comes the end of the semester or the year you might want to remove old students accounts to free licenses.
 
-**A removed account cannot be restored, please be careful and make sure your students already saved all their work localy**
+**A removed account cannot be restored, please be careful and make sure your students already saved all their work locally.**
 
 ## Go to your school organization settings
 
@@ -16,11 +16,11 @@ When comes the end of the semester or the year you might want to remove old stud
 
 ## Access the student management view
 
-![Student managment](/help/assets/img/remove-students/students-section.png)
+![Student management](/help/assets/img/remove-students/students-section.png)
 
 ## Select student accounts to remove
 
-From this view you will be able to select students accounts in order to achieve bulk actions on them.
+From this view, you will be able to select students accounts in order to achieve bulk actions on them.
 
 ![bulk selection](/help/assets/img/remove-students/bulk-selection.png)
 
@@ -35,4 +35,4 @@ You will be prompted a message with two options:
 * Convert the selected accounts into individual ones. You can do that only if your students are older than the legal age in your country. If you have any doubts please check our [dedicated page](/help/en/policies/required-age.html).
 * Remove them and all relative data from our platform.
 
-Once you click on the confirmation button everything will be proceed on our side and you can keep on working.
+Once you click on the confirmation button everything will be processed on our side and you can keep on working.
