@@ -22,11 +22,10 @@
   </div>
 
 
-  <a class="nav-title" href="/help/en/education/assignments-activities.html">
-    {%- if page.locale == 'en' %}Assignments
-    {%- elsif page.locale == 'es-es' %}Actividades
-    {%- elsif page.locale == 'es-ar' %}Actividades
-    {%- endif %}
+  {%- if page.locale == 'en' %}<a class="nav-title" href="/help/en/education/assignments-activities.html">Assignments</a>
+  {%- elsif page.locale == 'es-es' %}<a class="nav-title" href="/help/es-es/education/tareas-y-actividades.html">Actividades</a>
+  {%- elsif page.locale == 'es-ar' %}<a class="nav-title" href="/help/es-ar/education/tareas-y-actividades.html">Actividades</a>
+  {%- endif %}
   </a>
   <div class="items">
     {%- if page.locale == 'en' %}
