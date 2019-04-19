@@ -8,15 +8,34 @@
 
   <div class="nav-title">Classes</div>
   <div class="items">
+    {%- if page.locale == 'en' %}
     <a href="/help/en/education/create-new-class.html" class="{% if page.pid == 'new-class' %}active{% endif %}">Create a class</a>
     <a href="/help/en/education/invite-students.html" class="{% if page.pid == 'invite-students' %}active{% endif %}">Invite students</a>
+    {%- elsif page.locale == 'es-es' %}
+    <a href="/help/es-es/education/crear-una-nueva-clase.html" class="{% if page.pid == 'new-class' %}active{% endif %}">Crear una clase</a>
+    <a href="/help/es-es/education/agrega-alumnos.html" class="{% if page.pid == 'invite-students' %}active{% endif %}">Agrega alamnos</a>
+    {%- elsif page.locale == 'es-ar' %}
+    <a href="/help/es-ar/education/crear-una-nueva-clase.html" class="{% if page.pid == 'new-class' %}active{% endif %}">Crear una clase</a>
+    <a href="/help/es-ar/education/agrega-alumnos.html" class="{% if page.pid == 'invite-students' %}active{% endif %}">Agrega alamnos</a>
+    {%- endif %}
     <a href="/help/en/education/archive-a-class.html" class="{% if page.pid == 'archive-class' %}active{% endif %}">Archive a class</a>
   </div>
 
 
-  <a class="nav-title" href="/help/en/education/assignments-activities.html">Assignments</a>
+  <a class="nav-title" href="/help/en/education/assignments-activities.html">
+    {%- if page.locale == 'en' %}Assignments
+    {%- elsif page.locale == 'es-es' %}Actividades
+    {%- elsif page.locale == 'es-ar' %}Actividades
+    {%- endif %}
+  </a>
   <div class="items">
+    {%- if page.locale == 'en' %}
     <a href="/help/en/education/assignments-activities.html">Create an assignment</a>
+    {%- elsif page.locale == 'es-es' %}
+    <a href="/help/es-es/education/tareas-y-actividades.html">Tareas y actividades</a>
+    {%- elsif page.locale == 'es-ar' %}
+    <a href="/help/es-ar/education/tareas-y-actividades.html">Tareas y actividades</a>
+    {%- endif %}
     <a href="/help/en/education/assignments-activities.html#template">Use a score as a template</a>
     <a href="/help/en/education/assignments-activities.html#due-and-post-dates">Schedule an assignment</a>
   </div>
