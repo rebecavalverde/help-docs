@@ -30,13 +30,17 @@
   <div class="items">
     {%- if page.locale == 'en' %}
     <a href="/help/en/education/assignments-activities.html" class="{% if page.pid == 'activities' %}active{% endif %}">Create an assignment</a>
-    {%- elsif page.locale == 'es-es' %}
-    <a href="/help/es-es/education/tareas-y-actividades.html" class="{% if page.pid == 'activities' %}active{% endif %}">Tareas y actividades</a>
-    {%- elsif page.locale == 'es-ar' %}
-    <a href="/help/es-ar/education/tareas-y-actividades.html" class="{% if page.pid == 'activities' %}active{% endif %}">Tareas y actividades</a>
-    {%- endif %}
     <a href="/help/en/education/assignments-activities.html#template">Use a score as a template</a>
     <a href="/help/en/education/assignments-activities.html#due-and-post-dates">Schedule an assignment</a>
+    {%- elsif page.locale == 'es-es' %}
+    <a href="/help/es-es/education/tareas-y-actividades.html" class="{% if page.pid == 'activities' %}active{% endif %}">Tareas y actividades</a>
+    <a href="/help/es-es/education/tareas-y-actividades.html#modelo">Partitura como modelo</a>
+    <a href="/help/es-es/education/tareas-y-actividades.html#fecha-de-vencimiento-y-publicación">Fecha de vencimiento y publicación</a>
+    {%- elsif page.locale == 'es-ar' %}
+    <a href="/help/es-ar/education/tareas-y-actividades.html" class="{% if page.pid == 'activities' %}active{% endif %}">Tareas y actividades</a>
+    <a href="/help/es-ar/education/tareas-y-actividades.html#modelo">Partitura como modelo</a>
+    <a href="/help/es-ar/education/tareas-y-actividades.html#fecha-de-vencimiento-y-publicación">Fecha de vencimiento y publicación</a>
+    {%- endif %}
   </div>
 
   <div class="nav-title">Admin</div>
