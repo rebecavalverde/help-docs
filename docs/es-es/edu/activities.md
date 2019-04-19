@@ -2,11 +2,11 @@
 title: Tareas y actividades
 description: Vamos a ver diferentes tipos de actividades que podéis lograr en Flat para Educación con vuestros alumnos.
 nav: edu
-pid: actividades
-permalink: en/education/assignments-activities.html
+pid: activities
+permalink: es-es/education/tareas-y-actividades.html
 ---
 
-Hay diferentes tipos de actividades y tareas que podéis crear en Flat para Education. Para crear el primero, tenéis que estar seguro que ya [ha creado vuestra primera clase](/help/en/education/create-new-class.html).
+Hay diferentes tipos de actividades y tareas que podéis crear en Flat para Education. Para crear el primero, tenéis que estar seguro que ya [ha creado vuestra primera clase](/help/es-es/education/crear-una-nueva-clase.html).
 
 ![Stream vista](/help/assets/img/activities/stream.png)
 
@@ -60,8 +60,8 @@ Podrá escribir un nombre y una descripción. Esta información será accessible
 
 Podréis buscar vuestras partituras y seleccionar una de ellas. Debe notar que se muestra una lista a la derecha del nombre de la partitura. Esta, está directamente relacionada con el tipo de tarea que quiere crear:
 
-* Alumnos pueden leer -> ** Leer**
-* Alumnos pueden escribir -> ** Escribir**
+* Alumnos pueden leer -> **Leer**
+* Alumnos pueden escribir -> **Escribir**
 * Alumnos van a recibir una copia -> **Modelo**
 * No partitura seleccionada -> **Nueva partitura**
 

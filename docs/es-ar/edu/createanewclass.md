@@ -1,14 +1,14 @@
 ---
-titulo: Crear una nueva clase en Flat (de/para) Education.
-Descripción: Empezar con Flat (de/para) Education, consulté nuestra ayuda e información sobre nuestro producto educativo.
+title: Crear una nueva clase en Flat (de/para) Education.
+description: Empezar con Flat (de/para) Education, consulté nuestra ayuda e información sobre nuestro producto educativo.
 nav: edu
 pid: new-class
-permalink: en/education/create-new-class.html
+permalink: es-ar/education/crear-una-nueva-clase.html
 nexttext: Actividades y Tereas.
-nexturl: en/education/assignments-activities.html
+nexturl: es-ar/education/tareas-y-actividades.html
 ---
 
-Para crear una nueva classe con Flat,[Crear una cuenta gratis de EDU sobre nuestra plataforma](https://flat.io/edu).
+Para crear una nueva classe con Flat, [crear una cuenta gratis de EDU sobre nuestra plataforma](https://flat.io/edu).
 
 ## 1. Abrir la pestaña "Clases".
 
@@ -43,9 +43,9 @@ Una vez que haya validado el nombre de su clase, podrá invitar o agregar alumno
 
 ![Invitar a sus alumnos](/help/assets/img/createaclass/addstudents.png)
 
-Habíamos escrito un articulo dedicado a [todo lo que necesita saber sobre sus diferentes opciones para invitar alumnos a su sala de clase, esta disponible ahí](/help/en/education/invite-students.html).
+Habíamos escrito un articulo dedicado a [todo lo que necesita saber sobre sus diferentes opciones para invitar alumnos a su sala de clase, esta disponible ahí](/help/es-ar/education/agrega-alumnos.html).
 
 
 ### Cuál es el siguiente paso?
 
-Ahora que su clase está llena de alumnos dispuestos aprender música, vamos a [dar más detalles sobre las diferentes actividades que puede crear](/help/en/education/assignments-activities.html).
+Ahora que su clase está llena de alumnos dispuestos aprender música, vamos a [dar más detalles sobre las diferentes actividades que puede crear](/help/es-ar/education/tareas-y-actividades.html).

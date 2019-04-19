@@ -16,7 +16,7 @@ In that guide we assume **that don't rely on any Classroom Management System**. 
 * [Canvas](https://blog.flat.io/flat-canvas/)
 * [Schoology](https://blog.flat.io/flat-schoology/)
 
-### **Add student to an existing classroom**
+## Add student to an existing classroom
 
 If you skipped this step in the class creation process or you want to add more student to an existing class you can manage students from this view. To have this view you need to open an existing class by clicking on it.
 

@@ -1,20 +1,21 @@
 ---
 title: Agrega alumnos a su clase.
-description: We cover all the options to add student to your classroom, code, direct link and synchronization with third parties platforms. Cubrimos todas las opciones para agregar alumnos a sy sala de clase, código, enlace directo y sincronización con las tres 
+description: Cubrimos todas las opciones para agregar alumnos a sy sala de clase, código, enlace directo y sincronización con las tres 
 nav: edu
-pid: Invitar alumnos.
-permalink: en/education/invite-students.html
+pid: invite-students
+permalink: es-ar/education/agrega-alumnos.html
 nexttext: Actividades y tareas.
-nexturl: en/education/assignments-activities.html
+nexturl: es-ar/education/tareas-y-actividades.html
 ---
 
-Antes de agregar alumnos asegúrese [correctamente de crear la clase siguiendo esta guía](/help/en/education/create-new-class.html).
-En esa guía asumimos ** que no dependen de ningún sistema de gestión de clase. Si utiliza alguno de los que se enumeran a continuación, puede hacer su vida mucho más fácil:
+Antes de agregar alumnos asegúrese [correctamente de crear la clase siguiendo esta guía](/help/es-ar/education/crear-una-nueva-clase.html).
+
+En esa guía asumimos **que no dependen de ningún sistema de gestión de clase**. Si utiliza alguno de los que se enumeran a continuación, puede hacer su vida mucho más fácil:
 * [Google Classroom](/help/en/education/google-classroom/)
 * [Canvas](https://blog.flat.io/flat-canvas/)
 * [Schoology](https://blog.flat.io/flat-schoology/)
 
-### ** Añadir alumnos a una clase existente.** 
+### Añadir alumnos a una clase existente.
 
 Si omitió este paso en el proceso de creación de la clase o si desea agregar más alumnos a una clase existente, usted puede administrar a los alumnos desde esta vista. Para tener esta vista necesitas abrir una clase existente haciendo click en ella.
 
@@ -45,8 +46,8 @@ Una vez que sus alumnos hagan click en el enlace, ellos podrán crear una nueva 
 
 Esta sección es útil en dos situaciones:
 
-* Sus alumnos ** no tienen una dirección de e-mail** usted no desea o ** no desea que ellos proporcionen su dirección de e-mail**
-* Sus ** alumnos ya tienen una cuenta** en la organización y usted quiere configurar la clase sin compartir el código de clase.
+* Sus alumnos **no tienen una dirección de e-mail** usted no desea o **no desea que ellos proporcionen su dirección de e-mail**
+* Sus **alumnos ya tienen una cuenta** en la organización y usted quiere configurar la clase sin compartir el código de clase.
 
 ![opción manual](/help/assets/img/invitestudents/addstudents.png)
 
