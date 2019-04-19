@@ -8,7 +8,13 @@
   <meta name="theme-color" content="#6E90F6">
   {% assign lvl = page.url | append:'X' | split:'/' | size %}
   {% capture relative %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}
-  <link href="/help/assets/css/index.css?12" rel="stylesheet" type="text/css">
+  <link href="/help/assets/css/index.css?13" rel="stylesheet" type="text/css">
   <title>{{page.ptitle | default: page.title}}</title>
   {% seo title=false %}
+  {%- if page.multi_locales %}
+  <link rel="alternate" hreflang="x-default" href="{{site.url}}{{site.baseurl}}{{page.locales_links['en']}}" />
+  {%- for locale in page.locales_links %}
+  <link rel="alternate" hreflang="{{locale[0]}}" href="{{site.url}}{{site.baseurl}}{{locale[1]}}" />
+  {%- endfor -%}
+  {%- endif %}
 </head>

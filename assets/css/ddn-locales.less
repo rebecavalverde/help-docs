@@ -1,0 +1,54 @@
+.page-title {
+  display: flex;
+  align-items: flex-start;
+
+  h1 {
+    flex: 1 1 auto;
+  }
+}
+
+.ddn-locales {
+  // #f3f3f7/
+  flex: 0 0 auto;
+  margin-left: 15px;
+  button {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    height: 32px;
+    background: @flat-divider;
+    border: none;
+    border-radius: 50px;
+    opacity: 1;
+    padding: 8px 12px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.3px;
+    color: @text-dark;
+
+    span {
+      margin: 0 8px;
+    }
+  }
+
+  .ddn-content {
+    a {
+      display: flex;
+      align-items: center;
+      padding: 10px 20px;
+
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 16px;
+      letter-spacing: 0.3px;
+      color: @text-dark;
+    }
+    li.active a {
+      font-weight: bold;
+    }
+    img {
+      margin-right: 8px;
+    }
+  }
+}

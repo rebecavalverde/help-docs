@@ -1,0 +1,57 @@
+{%- if page.multi_locales %}
+<div class="ddn ddn-locales" id="locales-container">
+  <button id="locales-trigger" aria-label="View this page in a different language">
+    <img src="{{site.locale_flags[page.locale]}}" alt="{{site.locale_names[page.locale]}}">
+    <span>{{site.locale_names[page.locale]}}</span>
+    <svg width="10" height="9" viewBox="0 0 14 9" xmlns="http://www.w3.org/2000/svg">
+      <path d="M1.05 1.914l5.827 5.173 5.827-5.174" stroke-linecap="round" stroke="#363c50" stroke-width="2" stroke-linejoin="round" fill="none"></path>
+    </svg>
+  </button>
+  <div id="locales-ddn" class="ddn ddn-content on-color">
+    <div x-arrow></div>
+    <ul class="ddn-inner">
+    {%- for locale in site.locales %}
+      {%- if page.locales_links[locale] %}
+      <li {% if page.locale == locale %}class="active"{% endif %}>
+        <a href="{{site.url}}{{site.baseurl}}{{page.locales_links[locale]}}">
+          <img src="{{site.locale_flags[locale]}}" alt="{{site.locale_names[locale]}}">
+          <span>{{site.locale_names[locale]}}</span>
+        </a>
+      </li>
+      {%- endif -%}
+    {%- endfor -%}
+    </ul>
+  </div>
+</div>
+<script>
+  window.addEventListener('load', function () {
+    var container = document.getElementById('locales-container');
+    var trigger = document.getElementById('locales-trigger');
+    var ddn = document.getElementById('locales-ddn');
+    console.log({ container, trigger, ddn});
+    var popper = new Popper(trigger, ddn, {
+      placement: 'bottom',
+      modifiers: {
+        preventOverflow: {boundariesElement: 'viewport'},
+      },
+    });
+
+    var clickOutside = function () {
+      container.classList.remove('open');
+      document.removeEventListener('click', clickOutside);
+    };
+
+    trigger.addEventListener('click', function (event) {
+      event.preventDefault();
+      event.stopPropagation();
+
+      container.classList.toggle('open');
+      // clicks outside ddn        
+      if (container.classList.contains('open')) {
+        document.addEventListener('click', clickOutside);
+      }
+      popper.scheduleUpdate();
+    });
+  });
+</script>
+{%- endif %}
