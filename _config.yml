@@ -5,15 +5,17 @@ email: hello@flat.io
 baseurl: '/help'
 url: 'https://flat.io'
 
-locales: [en, es-es, es-ar]
+locales: [en, es-es, es-ar, fr]
 locale_flags:
   en: https://prod.flat-cdn.com/img/flags/us.png
   es-es: https://prod.flat-cdn.com/img/flags/es.png
   es-ar: https://prod.flat-cdn.com/img/flags/ar.png
+  fr: https://prod.flat-cdn.com/img/flags/fr.png
 locale_names:
   en: English
   es-es: Español (España)
   es-ar: Español (Argentina)
+  fr: Français
 
 algolia:
   application_id: '4NUHS4DS6H'
