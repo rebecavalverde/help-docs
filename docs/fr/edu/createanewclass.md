@@ -3,9 +3,9 @@ title: Créer une classe dans Flat for Education
 description: Nous expliquons comment créer une classe sur Flat afin de pouvoir y reunir vos etudiants et demarrer vos premieres activités
 nav: edu
 pid: new-class
-permalink: fr/education/créer-une-classe.html
+permalink: fr/education/creer-une-classe.html
 nexttext: Activités et devoirs
-nexturl: fr/education/activités-musicales.html
+nexturl: fr/education/devoirs-et-activites.html
 ---
 
 Avant de pourvoir créer votre premiere classe sur Flat for Education, vous devez vous assurer d'avoir un [compte education](https://flat.io/edu)  en tant que professeur.
@@ -44,4 +44,4 @@ Si vous souhaitez les inviter plus tard, nous avons rediger une section dédié 
 
 ### Et maintenant?
 
-Maintenant que votre classe est créé et qu'elle dispose d'étudiants, vous allez pouvoir [créer vos premieres activités](/help/en/education/assignments-activities.html)!
+Maintenant que votre classe est créé et qu'elle dispose d'étudiants, vous allez pouvoir [créer vos premieres activités](/help/fr/education/devoirs-et-activites.html)!

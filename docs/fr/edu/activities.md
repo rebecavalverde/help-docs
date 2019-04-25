@@ -1,99 +1,100 @@
 ---
-title: Assignments and Activities
-description: We will go through the different kind of activities you can achieve on Flat for Education with your students
+title: Devoir et activités
+description: Nous detaillons toutes les différentes activités que vous pouvez creer sur Flat pour vos étudiants
 nav: edu
 pid: activities
-permalink: en/education/assignments-activities.html
+permalink: fr/education/devoirs-et-activites.html
 ---
 
-They are different kinds of activities and assignments you can create in Flat for Education. In order to create your first one, you have to make sure that you already [created your first class](/help/en/education/create-new-class.html).
+Flat for Education dispose de différent type d'activité que vous pouvez creer. Avant de creer des activités assurez vous d'avoir [créé votre première classe](/help/fr/education/creer-une-classe.html).
 
 ![Stream view](/help/assets/img/activities/stream.png)
 
-You can open a list of all your existing assignments by clicking on the left icon.
-You can start creating a new assignment by pressing the other button on the right.
+En cliquant sur le bouton de gauche, vous pouvez acceder a la liste de toutes les activités en cours 
+En cliquant sur le bouton de droite, vous pourrez commencer a créer une nouvelle activité.
 
-## 1. Pick your assignment type
+## 1. Choisir le type d'activité
 
-There are 4 different kinds of assignment or activities that you can create:
+Vous pouvez créer 4 types d'activités differents:
 
 ![Stream view](/help/assets/img/activities/assignmentstype.png)
 
-### New score
+### Nouvelle partition
 
-Your students will have to create a new score, work on it following your guidelines and submit it back to you.
+Vos étudiants devront partir d'une partition vierge et composer en suivant vos instructions.
 
-### Read
+### Lecture seule
 
-This mode is meant to share a score that is part of your own library without the students being able to edit / alter it.
+Vous pourrez partager un document en lecture seul avec tout vos etudiants, ce mode est relativement utile lors des répétitions.
 
-### Write
+### Collaboration
 
-If you want to create a group activity with all the students working on the same piece in real-time.
+Ce type d'activité est parfait si vous voulez que l'ensemble de vos etudiants collaborent sur la meme oeuvre!
 
-⚠️ We advise keeping the number of students on the same group activity below 15.
+⚠️ Nous vous conseillons cependant de garder le nombre d'étudiants en dessous de 15.
 
-💡 We are currently working on a group picker to quickly create smaller workgroup within the same class :)
+💡 Nous travaillons à la realisation d'un outils pour creer des groupes d'etudiants dans vos activités
 
 ### Template
 
-All the students will get a copy of one of your score to start from. You can imagine many different activities around that:
+Tous vos etudiants recevrons une copie de la partition sur laquel ils pourront travailler. Vous pouvez imaginer plusieurs genres d'exercice grace a ce mode:
 
-* find the mistake
-* complete the interval
-* finish the composition
+* Trouver l'erreur
+* Completer un interval
+* Achever la composition
 * ...
 
-💡 We are currently working on a whole new range of exercises to avoid you manually creating basic exercises.
+💡 Nous travaillons actuellement a sur de nouveaux types d'exercices 
 
-## 2. Setup the assignment
+## 2. Configurer l'exercice
 
-### Assignment main information
+### Informations principales
 
 ![Assignment information](/help/assets/img/activities/assignment-title.png)
 
-You will be able to write a name and a description. This information will be accessible from the student assignment at any time while they work on a score.
+Vous pouvez renseigner un nom et une description qui seront accessible n'importe quand par etudiants.
 
-### Pick the score
+### Choisir une partition
 
 ![Pick the score](/help/assets/img/activities/pickscore.png)
 
-You will able to browse your scores and pick one of them. You should notice that a list is displayed on the right of the score name. This one is directly related to the type of assignment you want to create:
+Vous serez ensuite en mesure de parcourir et selectionner une partition. Vous noterez qu'une liste est disponible sur la droite du nom. Ce choix est directement lié au type d'activité que vous souhaitez créer.
 
-* Students can read -> **Read**
-* Students can write -> **Write**
+* Students can read -> **Lecture seule**
+* Students can write -> **Collaboration**
 * Students will get a copy -> **Template**
-* No score selected -> **New score**
+* No score selected -> **Nouvelle Partition**
 
 ![Pick the score - Tips](/help/assets/img/activities/pickscore-tips.png)
 
-### Due and post dates
+### Date de distribution et date butoire
 
 ![Pick the score - Tips](/help/assets/img/activities/post-due-dates.png)
 
-You can fix a **due date** for your assignment to turn in their work.
+Vous pouvez fixer une date butoire a vos activité et ainsi savoir quels etudiants ont rendu a temps.
 
-💡 Students will be still able to submit after the due date but they will be flagged as late submissions.
+💡 Les étudiants qui rendront apres la date butoire seront signalés dans votre interface de gestion des rendus
 
-You can also work your assignment when you have free time and **set a date** when they will become available to the classroom.
 
-### Post your assignment
+Vous pouvez également preparer une activité pendant votre temps libre et definir la date ou elle sera disponible a tous vos étudiant
 
-Now that your assignment is ready you can post it. Here is what student will see from their stream:
+### Distribuer votre activité
+
+Maintenant que votre activité est prete vous pouvez l'envoyer a tous vos etudiants, voici ce qu'ils verront depuis leur dashboard:
 
 ![student stream](/help/assets/img/activities/stream-student.png)
 
-Once they click on it they will be prompted your instructions to follow:
+Une fois qu'ils cliqueront sur l'activité, ils pourront lire les instruction et commencer a travailler dessus.
 
 ![assignment instructions](/help/assets/img/activities/assignment-description.png)
 
-## 3. Follow up
+## 3. Suivi en temps réel
 
-Now that your assignment is available to your students you can track their progress.
+Vous pourrez suivre en temps réel les progrès de vos étudiants.
 
 ![Assignment tracking](/help/assets/img/activities/assignment-tracking.png)
 
-The students that appears in the red squared section are those who already started to work on it.
-Once they submit something, you will receive a notification.
+Lesa etudiants qui apparaissent dans la section sont ceux qui ont commencé a travailler.
+Des qu'ils auront fait un premier rendu vous serez egalement notifié.
 
-*Soon a section about the follow up and grading will be available*.
+*Nous travaillons a la redaction d'une section sur les notes et commentaires*.
