@@ -17,6 +17,9 @@
     {%- elsif page.locale == 'es-ar' %}
     <a href="/help/es-ar/education/crear-una-nueva-clase.html" class="{% if page.pid == 'new-class' %}active{% endif %}">Crear una clase</a>
     <a href="/help/es-ar/education/agrega-alumnos.html" class="{% if page.pid == 'invite-students' %}active{% endif %}">Agrega alamnos</a>
+    {%- elsif page.locale == 'fr' %}
+    <a href="/help/fr/education/creer-une-classe.html" class="{% if page.pid == 'new-class' %}active{% endif %}">Créer une classe</a>
+    <a href="/help/fr/education/inviter-des-etudiants.html" class="{% if page.pid == 'invite-students' %}active{% endif %}">Ajouter des élèves</a>
     {%- endif %}
     <a href="/help/en/education/archive-a-class.html" class="{% if page.pid == 'archive-class' %}active{% endif %}">Archive a class</a>
   </div>
@@ -25,6 +28,7 @@
   {%- if page.locale == 'en' %}<a class="nav-title" href="/help/en/education/assignments-activities.html">Assignments</a>
   {%- elsif page.locale == 'es-es' %}<a class="nav-title" href="/help/es-es/education/tareas-y-actividades.html">Actividades</a>
   {%- elsif page.locale == 'es-ar' %}<a class="nav-title" href="/help/es-ar/education/tareas-y-actividades.html">Actividades</a>
+  {%- elsif page.locale == 'fr' %}<a class="nav-title" href="/help/fr/education/devoirs-et-activites.html">Activités & Devoirs</a>
   {%- endif %}
   </a>
   <div class="items">
@@ -40,6 +44,10 @@
     <a href="/help/es-ar/education/tareas-y-actividades.html" class="{% if page.pid == 'activities' %}active{% endif %}">Tareas y actividades</a>
     <a href="/help/es-ar/education/tareas-y-actividades.html#modelo">Partitura como modelo</a>
     <a href="/help/es-ar/education/tareas-y-actividades.html#fecha-de-vencimiento-y-publicación">Fecha de vencimiento y publicación</a>
+    {%- elsif page.locale == 'fr' %}
+    <a href="/help/fr/education/devoirs-et-activites.html" class="{% if page.pid == 'activities' %}active{% endif %}">Créer une activité</a>
+    <a href="/help/fr/education/devoirs-et-activites.html#template">Utiliser une partition en template</a>
+    <a href="/help/fr/education/devoirs-et-activites.html#date-de-distribution-et-date-butoire">Date de publication & butoire</a>
     {%- endif %}
   </div>
 
