@@ -6,24 +6,24 @@ pid: invite-teachers
 permalink: en/education/invite-teachers.html
 ---
 
-At some point you may want to bring more music teachers from your school or disctrict. Here is how to invite them to your school.
+At some point, you may want to bring more music teachers from your school or district. Here is how to invite them to your school.
 
 ## Go to your school organization settings
 
-![organization settings](/help/assets/img/remove-students/account-settings.png)
+![Organization settings](/help/assets/img/remove-students/account-settings.png)
 
-## Access the School management view
+## Access to the School management view
 
 ![School management](/help/assets/img/invite-teachers/school-section.png)
 
-### In this section you will be able to add Admin & Teacher
+### In this section, you will be able to add Admins & Teachers
 
-**An Admin** will be able to create classes, assignment invite / remove staff members or students. Most importantly, Admins are the only one that will be able to manage the billing process.
+**An Admin** will be able to create classes, assignments, invite and remove staff members or students. Most importantly, Admins are the only ones that will be able to manage the billing settings of your school account.
 
-**A teacher** will be able to create classes, assignment, invite students.
+**A teacher** will be able to create classes, assignments and invite students.
 
-Now that you know the difference between the two roles you can invite new staff member to the most appropriate role:
+Now that you know the difference between the two roles you can invite a new staff member with the most appropriate role:
 
 ![invite admin](/help/assets/img/invite-teachers/invite-admin.png)
 
-**Please make sure they can receive from outside of your school domains**
+**Please make sure they can receive emails from outside of your school domains**
