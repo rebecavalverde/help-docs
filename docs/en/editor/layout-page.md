@@ -26,3 +26,8 @@ If you are in the US, the default page size is US Letter and the sizes are in in
 
 ![Page Layout](/help/assets/img/editor/layout-page.png)
 
+### Pages Numbers
+
+By default, Flat will add pages numbers if your scores contain at least two pages. You can force displaying the pages numbers on all the pages and choose the first number to use in the page settings:
+
+![Pages Numbers](/help/assets/img/editor/layout-pages-numbers.png)

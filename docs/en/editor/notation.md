@@ -40,7 +40,7 @@ On this page, discover the music notations available on our music notation softw
 ## Layout and Styles
 
 |  | [Add or change the Title, Subtitle, License, Composer or Lyricist](/help/en/music-notation-software/credits.html) |
-| [![Page Layout](https://prod.flat-cdn.com/img/icons/scoreEditor/pageLayout.svg){:.tb}](/help/en/music-notation-software/layout-page.html) | [Page size, orientation and margins](/help/en/music-notation-software/layout-page.html) |
+| [![Page Layout](https://prod.flat-cdn.com/img/icons/scoreEditor/pageLayout.svg){:.tb}](/help/en/music-notation-software/layout-page.html) | [Page size, orientation, margins and pages numbers](/help/en/music-notation-software/layout-page.html) |
 | [![Staves](https://prod.flat-cdn.com/img/icons/scoreEditor/staves.svg){:.tb}](/help/en/music-notation-software/layout-staves.html) | [Staves size and spacing between parts and staves](/help/en/music-notation-software/layout-staves.html) |
 | [![Measures](https://prod.flat-cdn.com/img/icons/scoreEditor/measures.svg){:.tb}](/help/en/music-notation-software/layout-measures.html) | [Number of measures per system and notes spacing](/help/en/music-notation-software/layout-measures.html) |
 | [![Measures numbers](https://prod.flat-cdn.com/img/icons/scoreEditor/measuresNumbers.svg){:.tb}](/help/en/music-notation-software/layout-measures-numbers.html) | [Measures numbers](/help/en/music-notation-software/layout-measures-numbers.html) |
