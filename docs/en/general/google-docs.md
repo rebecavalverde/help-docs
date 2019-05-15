@@ -59,6 +59,8 @@ That's it, you can now use the add-on.
 
 At this time we store the original score file in the Google Docs, which has a small storage capacity for the add-ons. Since the add-on is designed for small snippets, you won't be able to modify large snippets once inserted or if you have a lot of snippets in a single document. That's something we plan to improve in a future release by changing the way we store the original scores.
 
+For larger scores, [you can create a free account at flat.io](https://flat.io), our main platform. This one will work with large scores and has an auto-saving feature.
+
 ### Brave Browser
 
 The add-ons won't work with the Fingerprinting Protection Mode. Our code runs as a third-party in Google Docs and uses some SVG and Canvas features to export your score into an image in Docs, which is blocked by Brave by default. You can temporary disable the Fingerprinting Protection when working with the add-ons.
