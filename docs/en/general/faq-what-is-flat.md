@@ -15,7 +15,7 @@ Discover a quick product overview:
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/SNbRUiBZ4Uw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Flat is available [as a product you can use individually](https://flat.io) with a free or premium account. We offer a [dedicated education version](https://flat.io/edu), a dedicated workspace for your school and classes with powerful features and an accessible price. If you want to embed interactive music notation or our editor in your product or website, you can use [our dedicated embed](https://flat.io/developers/embed).
+Flat is available [as a product you can use individually](https://flat.io) with a free or premium account. We offer a [dedicated education version](https://flat.io/edu), a dedicated workspace for your school and classes with powerful features and an accessible price. If you want to embed interactive music notation or our editor in your product or website, you can use [our dedicated embed](https://flat.io/embed).
 
 ## The story behind Flat
 

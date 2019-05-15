@@ -18,7 +18,7 @@ This data processing addendum ("**DPA**") applies as set out in clause 11 of the
 
 **1.1**	Unless otherwise set out below, each capitalised term in this DPA shall have the meaning set out in the Agreement and the following words and expressions shall have the following meanings:
 
-* **(a)**	"**Customer Personal Data**" means the personal data described [here](/policies/data-processing-addendum-details.html) and any other personal data that Flat processes on your behalf in connection with your use of the Service;
+* **(a)**	"**Customer Personal Data**" means the personal data described [here](#annex-1-details-of-the-processing-of-customer-personal-data) and any other personal data that Flat processes on your behalf in connection with your use of the Service;
 * **(b)**	"**Data Protection Laws**" means any applicable legislation protecting the fundamental rights and freedoms of persons and their right to privacy with regard to the Processing of Customer Personal Data, including without limitation the EU General Data Protection Regulation 2016/679 of the European Parliament and of the Council ("**GDPR**");
 * **(c)**	"**European Economic Area**" or "**EEA**" means the Member States of the European Union together with Iceland, Norway, and Liechtenstein;
 * **(d)**	"**Party**" means each of you and Flat;
@@ -46,7 +46,7 @@ This data processing addendum ("**DPA**") applies as set out in clause 11 of the
 
 ## 3.	Transfer of personal data
 
-**3.1	Authorised Subprocessors.** You agree that Flat may use [the entities listed here (https://flat.io/help/en/general/data-infrastructure.html#subprocessors)](/help/en/general/data-infrastructure.html#subprocessors) as Subprocessors to Process Customer Personal Data.
+**3.1	Authorised Subprocessors.** You agree that Flat may use [the entities listed here](https://flat.io/help/en/general/data-infrastructure.html#subprocessors) as Subprocessors to Process Customer Personal Data.
 
 **3.2**	You agree that Flat may use subcontractors to fulfil its contractual obligations under the Agreement and Flat shall notify you from time to time of the identity of any amendments to the Subprocessors it engages. If you (acting reasonably) do not approve of a new Subprocessor, then without prejudice to any right to terminate the Agreement, you may request that Flat moves Customer Personal Data to another Subprocessor and Flat shall, within a reasonable time following receipt of such request, use all reasonable endeavours to ensure that the Subprocessor does not Process any of the Customer Personal Data. 
 
@@ -61,9 +61,9 @@ This data processing addendum ("**DPA**") applies as set out in clause 11 of the
 
 ## 4.	Data security, audits and security notifications
 
-**4.1	Flat Security Obligations.** Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of Processing, as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, Flat shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, including the measures set out [here](/policies/data-processing-addendum-security.html).
+**4.1	Flat Security Obligations.** Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of Processing, as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, Flat shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, including the measures set out [here](#annex-2-technical-and-organisational-security-measures).
 
-**4.2	Security Audit.** You may, upon reasonable notice, audit (either by itself or using independent third party auditors) Flat's compliance with the security measures set out in this DPA (including the technical and organisational measures as set out in [here](/policies/data-processing-addendum-security.html)), including by conducting audits of Flat's data processing facilities. Flat shall assist with, and contribute to any audits conducted in accordance with this paragraph 4.2. 
+**4.2	Security Audit.** You may, upon reasonable notice, audit (either by itself or using independent third party auditors) Flat's compliance with the security measures set out in this DPA (including the technical and organisational measures as set out in [here](#annex-2-technical-and-organisational-security-measures)), including by conducting audits of Flat's data processing facilities. Flat shall assist with, and contribute to any audits conducted in accordance with this paragraph 4.2. 
 
 **4.3**	Upon your reasonable request, Flat shall make available all information reasonably necessary to demonstrate compliance with this DPA. 
 
@@ -108,23 +108,23 @@ and, where this section 7.2 applies, Flat shall not be required to provide a cop
 
 This page includes certain details of the processing of Customer Personal Data as required by Article 28(3) of the GDPR.
 
-__***Subject matter and duration of the Processing of Customer Personal Data***__
+__**Subject matter and duration of the Processing of Customer Personal Data**__
 
 The Processing of Customer Personal Data in connection with your access to the Service on the terms set out in the Agreement.
 
-__***The nature and purpose of the Processing of Customer Personal Data***__
+__**The nature and purpose of the Processing of Customer Personal Data**__
 
 The provision of the Service to you. 
 
-__***The types of Customer Personal Data to be processed***__
+__**The types of Customer Personal Data to be processed**__
 
 Any Personal Data uploaded or created on the Service, including name, contact details, profile information, and any Personal Data contained in User Content uploaded or created on the Service.
 
-__***The categories of data subject to whom the Customer Personal Data relates***__
+__**The categories of data subject to whom the Customer Personal Data relates**__
 
 Users.
 
-__***Your obligations and rights***__
+__**Your obligations and rights**__
 
 The obligations and rights of the Customer are as set out in this DPA.
 

@@ -9,7 +9,7 @@ permalink: en/general/developers-api-embed.html
 
 Discover our [dedicated developer resources](https://flat.io/developers) to use great technologies in your projects or products or extend our platform capabilities.
 
-## [Embed your sheet music on the web](https://flat.io/developers/embed)
+## [Embed your sheet music on the web](https://flat.io/embed)
 
 Use Flat's powerful music notation engraving and playback engines in your website or blog to make available any sheet music to your users.
 
