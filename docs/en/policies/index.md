@@ -45,6 +45,17 @@ If you are a school or business using our dedicated education product [Flat for 
 * [Data Processing Addendum](/help/en/policies/data-processing-addendum.html) *(Last Update: May 24, 2018)*
 * For you and your users: [Education Terms of Service](/help/en/policies/terms-of-service-education.html) *(Last update: 5 January 2016)*
 
+### For individuals and businesses using Flat Embed:
+
+If you are an individual or business using our embed product [Flat Embed](https://flat.io/embed), the following terms apply to you:
+
+* [Privacy Policy](/help/en/policies/privacy-policy.html) *(Last Update: Sep 14, 2018)*
+  * [Annex 1 - Personal information we collect](/help/en/policies/privacy-policy-annex-1-information-collected.html)
+  * [Annex 2 - Personal information collected automatically](/help/en/policies/privacy-policy-annex-2-collected-automatically.html)
+  * [Annex 3 - Cookies](/help/en/policies/privacy-policy-annex-3-cookies.html)
+* [Embed Terms of Service](/help/en/policies/terms-of-service-embed.html) *(Last Update: 16 May 2019)*
+
+
 ## Frequently Asked Questions (FAQ) about our terms
 
 ### COPPA and FERPA compliance (US)
