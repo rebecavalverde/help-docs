@@ -24,13 +24,9 @@ At this time, most of the notations are interpreted, except:
 
 {% include_relative generated/player.md %}
 
-## Change the volume
+## Change the volume and reverb
 
-{% include_relative generated/volume.md %}
-
-## Customize the instruments' reverb
-
-{% include_relative generated/reverb.md %}
+You can find how to change the volume and reverb for a score on [our dedicated help page](/help/en/music-notation-software/audio-settings.html).
 
 ## Change the playback speed
 
