@@ -19,6 +19,7 @@ By default, all the volumes are set at the maximum level, while reverb is turned
 ![Audio settings](/help/assets/img/editor/audio-settings.png)
 
 Each time a slider is changed in the score settings, it is automatically modified within the score data, and synchronized on every device having access to the score.
+Therefore, every people visiting this score will get the same audio mix that you set there.
 
 ## Local audio settings
 
