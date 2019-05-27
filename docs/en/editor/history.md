@@ -30,7 +30,7 @@ With the **full history** available with [Flat Power](https://flat.io/pricing) a
 
 * Browse major versions and every single change you made in your score, since the first note you added
 * Easily see what change in the versions, and "rewind" or "replay" the changes
-* Restore your score at any change you want
+* Restore, Copy, and Export (MusicXML/MIDI) your score at any single modification you made
 
 ## Versions list
 
@@ -49,3 +49,13 @@ When you are viewing a version of the document, you can see how this version has
 * On the music notation, **the modifications are highlighted with different colors** corresponding to the people who worked on the version (listed on the right of your screen).
 
 ![Browse single modifications](/help/assets/img/editor/history-advanced.gif)
+
+## Restore, Copy as a new Score and Export
+
+When viewing older modifications you made to a document, you can recover this version by using the tools at the top of the history.
+
+Click on "**Restore this version**" to replace the current score with the displayed score (the history will be kept intact, so you still recover the last modification you made any time).
+
+[Flat Power](https://flat.io/pricing) and [Flat for Education](https://flat.io/edu/pricing) users can also copy the displayed score as a new score in their accounts, or export it to MusicXML (.musicxml,.xml) or MIDI (.mid).
+
+![Advanced history tools: restore, copy and export](/help/assets/img/editor/history-advanced-actions.png)
