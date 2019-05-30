@@ -14,6 +14,7 @@ On this page, discover the music notations available on our music notation softw
 * [Parts and Instruments](#parts-and-instruments)
 * [Layout](#layout-and-styles)
 * [Note](#note)
+* [Tab](#tab)
 * [Articulation](#articulation)
 * [Ornament](#ornament)
 * [Dynamic](#dynamic)
@@ -70,10 +71,12 @@ On this page, discover the music notations available on our music notation softw
 | [![Color note](https://prod.flat-cdn.com/img/icons/editorActions/noteColor.svg){:.tb}](/help/en/music-notation-software/color-notes.html) | [Color note: Manual colors and automatic colorization using Boomwhackers colors](/help/en/music-notation-software/color-notes.html) |
 {:.feat.flist}
 
-## Tabs
+## Tab
 
 | [![Get started with Tablatures](https://prod.flat-cdn.com/img/icons/_instrument/group-plucked-strings.svg){:.tb}](/help/en/music-notation-software/tabs.html) | [Get started with Tablatures](/help/en/music-notation-software/tabs.html) |
+| [![Instruments](https://prod.flat-cdn.com/img/icons/_instrument/group-plucked-strings.svg){:.tb}](/help/en/music-notation-software/tuning.html) | [ Tuning and Capo](/help/en/music-notation-software/tuning.html) |
 | [![Change string](https://prod.flat-cdn.com/img/icons/editorActions/transpose.svg){:.tb}](/help/en/music-notation-software/change-string.html) | [Change String](/help/en/music-notation-software/change-string.html) |
+| [![Plucked ranges](https://prod.flat-cdn.com/img/icons/editorActions/palmMute.svg){:.tb}](/help/en/music-notation-software/plucked-ranges.html) | [Plucked ranges (Palm Mute & Let Ring)](/help/en/music-notation-software/plucked-ranges.html) |
 {:.feat.flist}
 
 ## Articulation
@@ -84,7 +87,6 @@ On this page, discover the music notations available on our music notation softw
 | [![Bow](https://prod.flat-cdn.com/img/icons/editorActions/upbow.svg){:.tb}](/help/en/music-notation-software/bow.html) | [Up bow/Down bow](/help/en/music-notation-software/bow.html) |
 | [![Fingerings](https://prod.flat-cdn.com/img/icons/editorActions/fingering.svg){:.tb}](/help/en/music-notation-software/fingerings.html) | [Fingerings](/help/en/music-notation-software/fingerings.html) |
 | [![Buzz roll](https://prod.flat-cdn.com/img/icons/editorActions/buzzroll.svg){:.tb}](/help/en/music-notation-software/buzznote.html) | [Buzz notes](/help/en/music-notation-software/buzznote.html) |
-| [![Plucked ranges](https://prod.flat-cdn.com/img/icons/editorActions/palmMute.svg){:.tb}](/help/en/music-notation-software/plucked-ranges.html) | [Plucked ranges (Palm Mute & Let Ring)](/help/en/music-notation-software/plucked-ranges.html) |
 {:.feat.flist}
 
 ## Ornament

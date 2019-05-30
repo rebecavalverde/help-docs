@@ -16,8 +16,8 @@ action.toggleAboveLetRing: true
 
 | Feature | Toolbar | Icon |
 |:--------|:--------|:-----|
-| Let ring | **Articulation** | ![Let ring](https://prod.flat-cdn.com/img/icons/editorActions/letRing.svg){:.tb} |
-| Palm mute  | **Articulation** | ![Palm mute](https://prod.flat-cdn.com/img/icons/editorActions/palmMute.svg){:.tb} |
+| Let ring | **Tab** | ![Let ring](https://prod.flat-cdn.com/img/icons/editorActions/letRing.svg){:.tb} |
+| Palm mute  | **Tab** | ![Palm mute](https://prod.flat-cdn.com/img/icons/editorActions/palmMute.svg){:.tb} |
 {:.feat}
 
 ## What is a palm mute?
