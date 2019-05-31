@@ -1,6 +1,6 @@
 ---
 title: Agrega alamnos a su clase.
-description: Cubrimos todas las opciones para agregar alumnos a vuestra sala de clase, código, enlace directo y 'sincronización con las tres.'
+description: Cubrimos todas las opciones para agregar alumnos a vuestra sala de clase, código, enlace directo y "sincronización con las tres".
 nav: edu
 pid: invite-students
 permalink: es-es/education/agrega-alumnos.html

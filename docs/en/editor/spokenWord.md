@@ -1,6 +1,6 @@
 ---
 title: Spoken words
-description: '"X" noteheads are used for spoken lyrics, with no distinctive pitch'
+description: "X" noteheads are used for spoken lyrics, with no distinctive pitch
 nav: editor
 pid: spoken-words
 permalink: en/music-notation-software/spoken-words.html

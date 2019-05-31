@@ -11,7 +11,7 @@ By default, Flat provides [a great audio playback](/help/en/music-notation-softw
 You can simply link and synchronize music recordings with your sheet music from the following services:
 
 * ![Youtube](https://prod.flat-cdn.com/img/icons/product/yt.svg) YouTube
-* ![SoundCloud](https://prod.flat-cdn.com/img/icons/product/soundcloud-small.svg) SoundCloud
+* ![Soundcloud](https://prod.flat-cdn.com/img/icons/product/soundcloud-small.svg) SoundCloud
 * <img src="https://prod.flat-cdn.com/img/icons/product/vimeo-small.svg" alt="Vimeo" width="16px"/> Vimeo
 {:.nobullets}
 

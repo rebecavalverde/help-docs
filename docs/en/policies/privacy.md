@@ -24,7 +24,7 @@ copyright: true
 
 **2.2**	At various places on our site or our app you may be requested to enter certain personal information. Personal information that must be provided in order to use the requested services will be indicated at the time of collection. If you choose not to provide this personal information, we may not be able to provide some or all of the features and functionalities of the Service to you or respond to your other requests. Other personal information that you are not required to provide in order to receive our services may be voluntarily given and you are free to decide not to give such personal information. 
 
-**2.3**	[The table](/help/en/policies/privacy-policy-annex-1-information-collected.html) sets out the categories of personal information we collect about you and how we use that information. The table also lists the legal basis which we rely on to process the personal information and the recipients of the personal information.  
+**2.3**	[The table](/help/en/policies/privacy-policy-annex-1-information-collected.html) sets out the categories of personal information we collect about you and how we use that information. The table also lists the legal basis which we rely on to process the personal information and the recipients of the personal information. 
 
 **2.4**	We also automatically collect personal information indirectly about how you access and use the Service and information about the device you use to access the Service. 
 
@@ -38,7 +38,7 @@ copyright: true
 
 3.1	We may share your personal information with the following parties (as required in accordance with the uses set out in Annexes [1](/help/en/policies/privacy-policy-annex-1-information-collected.html) and [2](/help/en/policies/privacy-policy-annex-2-collected-automatically.html)):
 
-* **(a)	Social networks**: if you are a Flat Individual user you can choose to make your content public and share your content on a social network.  If you do, we will share your content with that social network.  As part of the Service, other users can share your public content with social networks.
+* **(a)	Social networks**: if you are a Flat Individual user you can choose to make your content public and share your content on a social network. If you do, we will share your content with that social network. As part of the Service, other users can share your public content with social networks.
 * **(b)	Companies in the same group of companies as us**: our subsidiaries (i.e. any organisation we own or control) or our holding company or ultimate holding company (i.e. any organisation that owns or controls us) and any subsidiaries they own. These companies will only use your personal information in the same way as we can under this privacy policy.
 * **(c)	Service providers and advisors**: third parties who provide a service to us. For example, third party service providers either provide IT infrastructure or help support it, help us to provide you with support in relation to the Service, process payments from you on our behalf, develop analytical information for us about our products and services and provide professional services such as legal and accountancy services. These third parties will only be allowed to use your personal information in accordance with our instructions and will be required to keep your information secure.
 * **(d)	Purchasers of our business**: personal information may be disclosed or transferred to buyers or perspective buyers of our business or any of our assets as part of any such sale. We will take all reasonable steps to ensure that such recipients will use your personal information in a way that is consistent with this privacy policy. 
@@ -48,9 +48,9 @@ copyright: true
 
 ## 4.	Marketing and advertising
 
-**4.1**	From time to time we may contact you with information about our products and services. Most marketing messages we send will be by email.  If you are using our app we may also send you push notifications. For some marketing messages we may use personal information we collect about you to help us determine the most relevant marketing information to share with you. 
+**4.1**	From time to time we may contact you with information about our products and services. Most marketing messages we send will be by email. If you are using our app we may also send you push notifications. For some marketing messages we may use personal information we collect about you to help us determine the most relevant marketing information to share with you. 
 
-**4.2**	We will only send marketing messages to you if you have given us your consent to do so. We will only send marketing messages to users of our Flat Individual service or to users of our Flat Education service that have a designated “teacher” account. We will ask you if you would like to receive these messages when we first collect your contact details. You can also change your marketing preference at a later date by following the instructions outlined below.
+**4.2**	We will only send marketing messages to you if you have given us your consent to do so. We will only send marketing messages to users of our Flat Individual service or to users of our Flat Education service that have a designated "teacher" account. We will ask you if you would like to receive these messages when we first collect your contact details. You can also change your marketing preference at a later date by following the instructions outlined below.
 
 * **Email** – click on the unsubscribe link at the bottom of our marketing emails. If you have an online account with us you might be able to opt-out of marketing emails, features updates and comment notifications through your account settings.
 
@@ -76,19 +76,19 @@ copyright: true
 
 **6.1**	Our Flat Individual Service is not directed to persons under 13 and we do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information, without your consent, then please contact us using the details below so that we can take steps to remove such information and terminate any account your child has created with us.
 
-**6.2**	Our Flat Education Service may be used by children under 13, but only with the prior consent of their parent or school, as permitted by the Children's Online Privacy Protection Act (COPPA).  If Flat collects information from children under 13 through the Flat Education Service, Flat will collect, use, share and store such data only for the purposes of providing services to the student contemplated in our agreement with the school.
+**6.2**	Our Flat Education Service may be used by children under 13, but only with the prior consent of their parent or school, as permitted by the Children's Online Privacy Protection Act (COPPA). If Flat collects information from children under 13 through the Flat Education Service, Flat will collect, use, share and store such data only for the purposes of providing services to the student contemplated in our agreement with the school.
 
 ## 7.	Your rights in respect of your personal information
 
 **7.1**	If you are resident in the European Economic Area, in accordance with applicable privacy law, you have the following rights in respect of your personal information that we hold:
 * **(a)**	**Right of access**. You have the right to obtain:
-  * **(i)**	confirmation of whether, and where, we are processing your personal information;
-  * **(ii)**	information about the categories of personal information we are processing, the purposes for which we process your personal information and information as to how we determine applicable retention periods;
-  * **(iii)**	information about the categories of recipients with whom we may share your personal information; and
-  * **(iv)**	a copy of the personal information we hold about you.
+ * **(i)**	confirmation of whether, and where, we are processing your personal information;
+ * **(ii)**	information about the categories of personal information we are processing, the purposes for which we process your personal information and information as to how we determine applicable retention periods;
+ * **(iii)**	information about the categories of recipients with whom we may share your personal information; and
+ * **(iv)**	a copy of the personal information we hold about you.
 * **(b)**	**Right of portability**. You have the right, in certain circumstances, to receive a copy of the personal information you have provided to us in a structured, commonly used, machine-readable format that supports re-use, or to request the transfer of your personal data to another person.
 * **(c)	Right to rectification**. You have the right to obtain rectification of any inaccurate or incomplete personal information we hold about you without undue delay. 
-* **(d)**   **Right to erasure**. You have the right, in some circumstances, to require us to erase your personal information without undue delay if the continued processing of that personal information is not justified. 
+* **(d)**  **Right to erasure**. You have the right, in some circumstances, to require us to erase your personal information without undue delay if the continued processing of that personal information is not justified. 
 * **(e)**	**Right to restriction**. You have the right, in some circumstances, to require us to limit the purposes for which we process your personal information if the continued processing of the personal information in this way is not justified, such as where the accuracy of the personal information is contested by you.
 * **(f)**	**Right to object**. You have a right, in some circumstances, to object to any processing based on our legitimate interests. There may, however, be compelling reasons for continuing to process your personal information, and we will assess and inform you if that is the case. 
 
@@ -107,14 +107,14 @@ copyright: true
 **8.3**	We use the following types of cookies:
 
 * **(a)**	**Strictly necessary cookies**. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
-* **(b)**	**Analytical/performance cookies**. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. We may use third-party analytics tools such as Google Analytics, to help us measure traffic and usage trends for the Online Services and to understand more about the demographics of our users. You can learn more about Google’s practices at [http://www.google.com/policies/privacy/partners](http://www.google.com/policies/privacy/partners), and view its currently available opt-out options at [https://tools.google.com/dlpage/gaoptout](http://www.google.com/policies/privacy/partners).
+* **(b)**	**Analytical/performance cookies**. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. We may use third-party analytics tools such as Google Analytics, to help us measure traffic and usage trends for the Online Services and to understand more about the demographics of our users. You can learn more about Google's practices at [http://www.google.com/policies/privacy/partners](http://www.google.com/policies/privacy/partners), and view its currently available opt-out options at [https://tools.google.com/dlpage/gaoptout](http://www.google.com/policies/privacy/partners).
 * **(c)**	**Functionality cookies**. These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
 
 **8.4**	The table at [Annex 3](/help/en/policies/privacy-policy-annex-3-cookies.html) sets out further details about the cookies which are most frequently used on our website.
 
 **8.5**	The cookies we use are designed to help you get the most from the website but if you do not wish to receive cookies, most browsers allow you to change your cookie settings. Please note that if you choose to refuse cookies you may not be able to use the full functionality of our website. These settings will typically be found in the "options" or "preferences" menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the "Help" option in your browser for more details.
 * **(a)**	[Cookie settings in Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
-* **(b)**   [Cookie settings in Edge](https://support.microsoft.com/en-us/help/4027947/windows-delete-cookies)
+* **(b)**  [Cookie settings in Edge](https://support.microsoft.com/en-us/help/4027947/windows-delete-cookies)
 * **(c)**	[Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&redirectslug=Cookies)
 * **(d)**	[Cookie settings in Chrome](https://support.google.com/chrome/answer/95647?hl=en)
 * **(e)**	Cookie settings in [Safari web](https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac) and [iOS](https://support.apple.com/en-us/HT201265).

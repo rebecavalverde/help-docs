@@ -21,6 +21,6 @@ Pizzicato is a playing technique for bowed string instruments which produces a s
 
 ## How to add a "pizz."/"arco" notation?
 
-Select a note then input “pizz.” or “arco” from the **Dynamic** toolbar. 
+Select a note then input "pizz." or "arco" from the **Dynamic** toolbar. 
 
 ![Pizz](/help/assets/img/editor/pizz.gif)

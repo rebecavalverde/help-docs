@@ -14,7 +14,7 @@ If you have any questions about this content, [please contact our team](/help/su
 
 ## Who provides the service?
 
-The Service is provided by Tutteo Limited ("Flat"), a company incorporated and registered in England and Wales under company number 09734095 whose registered office is 9th Floor, 107 Cheapside, London, EC2V 6DN, United Kingdom. Tutteo Limited’s VAT number is GB226808988.
+The Service is provided by Tutteo Limited ("Flat"), a company incorporated and registered in England and Wales under company number 09734095 whose registered office is 9th Floor, 107 Cheapside, London, EC2V 6DN, United Kingdom. Tutteo Limited's VAT number is GB226808988.
 
 In the United States, Flat is distributed by Tutteo Inc., a company registered in Delaware.
 

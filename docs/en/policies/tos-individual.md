@@ -40,7 +40,7 @@ copyright: true
 
 ## 6. Free and Premium Service
 
-**6.1.** We offer two types of Service, a free service through which users can create, edit, collaborate on and share music scores (the "**Free Service**") and a paid service which users can create a non-limited number of private music scores, print and export unbranded documents (i.e. without Flat mention or any watermark), use our advanced history (commercially called "Smart history") and have the ability to select a MIDI output (the "**Premium Service**" using the product name “Flat Power”).
+**6.1.** We offer two types of Service, a free service through which users can create, edit, collaborate on and share music scores (the "**Free Service**") and a paid service which users can create a non-limited number of private music scores, print and export unbranded documents (i.e. without Flat mention or any watermark), use our advanced history (commercially called "Smart history") and have the ability to select a MIDI output (the "**Premium Service**" using the product name "Flat Power").
 
 **6.2.** Details of the functionality you are provided with when using the Free Service or the Premium Service are available here [https://flat.io/pricing](https://flat.io/pricing).
 
@@ -91,13 +91,13 @@ copyright: true
 
 **10.1.** You confirm that music, sounds, text or information that you make available or create ("**User Content**") whilst using the Service will meet the Rules of Acceptable Use.
 
-### 10.2.  Private User Content
+### 10.2. Private User Content
 
-We do not claim ownership in your User Content. However, we need a licence to host your User Content, make sure it is available to you when you want it, make sure it works with Flat and to improve our Service. If you choose to keep your User Content “private”, you grant us a worldwide, nonexclusive and royalty-free licence to use, reproduce, adapt, reformat, modify, translate, licence and sub-licence the User Content anywhere and in any form only for the purpose of providing our Service (including allowing users you expressly select to view your User Content).
+We do not claim ownership in your User Content. However, we need a licence to host your User Content, make sure it is available to you when you want it, make sure it works with Flat and to improve our Service. If you choose to keep your User Content "private", you grant us a worldwide, nonexclusive and royalty-free licence to use, reproduce, adapt, reformat, modify, translate, licence and sub-licence the User Content anywhere and in any form only for the purpose of providing our Service (including allowing users you expressly select to view your User Content).
 
 ### 10.3. Public User Content
 
-We do not claim ownership in your User Content. However, we need this licence to host your User Content, make sure it is available to you when you want it, make sure it works with Flat, to improve our Service and so that we share it with the wider Flat community and on social networks. If you choose to make your User Content “public”, you grant us a worldwide, nonexclusive and royalty-free licence to use, reproduce, distribute, adapt, reformat, modify, publish, translate, licence, sub-licence, and exploit the User Content anywhere and in any form only for the purpose of providing our Service (including allowing our users and other visitors to Flat to view your User Content).
+We do not claim ownership in your User Content. However, we need this licence to host your User Content, make sure it is available to you when you want it, make sure it works with Flat, to improve our Service and so that we share it with the wider Flat community and on social networks. If you choose to make your User Content "public", you grant us a worldwide, nonexclusive and royalty-free licence to use, reproduce, distribute, adapt, reformat, modify, publish, translate, licence, sub-licence, and exploit the User Content anywhere and in any form only for the purpose of providing our Service (including allowing our users and other visitors to Flat to view your User Content).
 
 **10.4.** Our right to use your User Content does not in any way affect your privacy rights and we will only use information that identifies you as set out in our Privacy Policy [https://flat.io/legal/privacy-policy](https://flat.io/legal/privacy-policy).
 

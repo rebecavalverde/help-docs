@@ -44,4 +44,4 @@ If you purchased Flat from your iPhone, iPad using our iOS app, you can cancel y
 If you cancel your Flat subscription or trial or your subscription expires, your account will downgrade to a free account at the end of your billing cycle or trial. Additionally:
 
 * You'll still have access to the last 15 modified scores (the quota for free accounts)
-* If you’re over your downgraded storage quota, older scores will be archived and can be edited if you upgrade your account again. No worries, we never remove your files unless requested
+* If you're over your downgraded storage quota, older scores will be archived and can be edited if you upgrade your account again. No worries, we never remove your files unless requested

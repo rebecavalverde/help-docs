@@ -23,7 +23,7 @@ This data processing addendum ("**DPA**") applies as set out in clause 11 of the
 * **(c)**	"**European Economic Area**" or "**EEA**" means the Member States of the European Union together with Iceland, Norway, and Liechtenstein;
 * **(d)**	"**Party**" means each of you and Flat;
 * **(e)**	"**Security Incident**" means any accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, any of the Customer Personal Data; 
-* **(f)**	"**Standard Contractual Clauses**" means means the Standard Contractual Clauses (processors) approved by the European Commission Decision C(2010)593 or any subsequent version thereof released by the European Commission (which will apply automatically); and
+* **(f)**	"**Standard Contractual Clauses**" means the Standard Contractual Clauses (processors) approved by the European Commission Decision C(2010)593 or any subsequent version thereof released by the European Commission (which will apply automatically); and
 * **(g)**	"**Subprocessor**" means any Processor engaged by Flat who agrees to receive from Flat Customer Personal Data.
 
 **1.2**	The terms "**personal data**", "**Controller**", "**Processor**", "**Data Subject**", "**Process**" and "**Supervisory Authority**" shall have the same meaning as set out in the GDPR.

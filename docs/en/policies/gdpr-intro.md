@@ -7,11 +7,11 @@ permalink: en/policies/approach-to-gdpr.html
 copyright: true
 ---
 
-The EU’s General Data Protection Regulations (GDPR) take effect May 25, 2018. It will set a new standard for how companies use and protect EU citizens’ data. For the past few months the entire team has been committed to understanding and ensuring that we fulfill its obligations, maintaining and improving our transparency regarding customer messaging and how we use data.
+The EU's General Data Protection Regulations (GDPR) take effect May 25, 2018. It will set a new standard for how companies use and protect EU citizens' data. For the past few months the entire team has been committed to understanding and ensuring that we fulfill its obligations, maintaining and improving our transparency regarding customer messaging and how we use data.
 
 ## What is the GDPR?
 
-In a few words, the [EU General Data Protection Regulation (“GDPR”)](https://ec.europa.eu/info/law/law-topic/data-protection_en) is a new comprehensive data protection law that comes into effect on May 25, 2018. It will replace existing EU Data Protection laws to strengthen the protection of “personal data” and the rights of the individual. It will be a single set of rules that govern the processing and monitoring of EU data.
+In a few words, the [EU General Data Protection Regulation ("GDPR")](https://ec.europa.eu/info/law/law-topic/data-protection_en) is a new comprehensive data protection law that comes into effect on May 25, 2018. It will replace existing EU Data Protection laws to strengthen the protection of "personal data" and the rights of the individual. It will be a single set of rules that govern the processing and monitoring of EU data.
 
 ## What actions did we take to comply with the GDPR?
 

@@ -8,7 +8,7 @@ copyright: true
 
 ## Your Right to Cancel
 
-If you are in the EU, you have a right to cancel your subscription without giving any reason for up to 14 days from the day after you entered your subscription agreement with us. This is known as the “**Cancellation Period**”.
+If you are in the EU, you have a right to cancel your subscription without giving any reason for up to 14 days from the day after you entered your subscription agreement with us. This is known as the "**Cancellation Period**".
 
 ## Refund of Your Subscription Fee
 If you cancel your subscription during the Cancellation Period, we will refund your subscription fee.
