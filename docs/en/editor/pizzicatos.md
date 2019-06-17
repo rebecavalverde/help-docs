@@ -11,8 +11,11 @@ action.toggleSnapPizzicato: true
 
 ## Summary
 
-| Available in toolbar | **Dynamic** |
-| Toolbar icon | ![Pizz](https://prod.flat-cdn.com/img/icons/editorActions/pizz.svg){:.tb} |
+| Feature | Toolbar | Icon |
+|:--------|:--------|:-----|
+| Pizz | **Dynamic** | ![Staccato](https://prod.flat-cdn.com/img/icons/editorActions/pizz.svg){:.tb} |
+| Arco | **Dynamic** | ![Staccato](https://prod.flat-cdn.com/img/icons/editorActions/arco.svg){:.tb} |
+| Left Hand Pizzicato | **Dynamic** | ![Staccato](https://prod.flat-cdn.com/img/icons/editorActions/leftHandPizzicato.svg){:.tb} |
 {:.feat}
 
 ## What is a pizzicato?
