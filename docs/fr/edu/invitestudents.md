@@ -14,7 +14,7 @@ Ce guide s'adresse à tous nos utilisateur qui **n'utilisent pas d'application d
 
 * [Google Classroom](/help/en/education/google-classroom/)
 * [Canvas](/help/en/education/canvas-lms/)
-* [Schoology](https://blog.flat.io/flat-schoology/)
+* [Schoology](/help/en/education/schoology/)
 
 ## Ajouter des étudiants dans une classe existante
 

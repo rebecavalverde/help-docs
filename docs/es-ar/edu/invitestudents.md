@@ -13,7 +13,7 @@ Antes de agregar alumnos asegúrese [correctamente de crear la clase siguiendo e
 En esa guía asumimos **que no dependen de ningún sistema de gestión de clase**. Si utiliza alguno de los que se enumeran a continuación, puede hacer su vida mucho más fácil:
 * [Google Classroom](/help/en/education/google-classroom/)
 * [Canvas](/help/en/education/canvas-lms/)
-* [Schoology](https://blog.flat.io/flat-schoology/)
+* [Schoology](/help/en/education/schoology/)
 
 ### Añadir alumnos a una clase existente.
 

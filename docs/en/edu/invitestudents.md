@@ -14,7 +14,7 @@ In that guide we assume **that don't rely on any Classroom Management System**. 
 
 * [Google Classroom](/help/en/education/google-classroom/)
 * [Canvas](/help/en/education/canvas-lms/)
-* [Schoology](https://blog.flat.io/flat-schoology/)
+* [Schoology](/help/en/education/schoology/)
 
 ## Add student to an existing classroom
 
