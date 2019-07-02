@@ -13,7 +13,7 @@ Before adding students make sure [you properly create your class following this 
 In that guide we assume **that don't rely on any Classroom Management System**. If you use any of the listed below you can make your life much easier:
 
 * [Google Classroom](/help/en/education/google-classroom/)
-* [Canvas](https://blog.flat.io/flat-canvas/)
+* [Canvas](/help/en/education/canvas-lms/)
 * [Schoology](https://blog.flat.io/flat-schoology/)
 
 ## Add student to an existing classroom

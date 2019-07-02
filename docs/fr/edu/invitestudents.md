@@ -13,7 +13,7 @@ Avant d'essayer d'ajouter des étudiants [assurez vous d'avoir créé votre prem
 Ce guide s'adresse à tous nos utilisateur qui **n'utilisent pas d'application de gestion de classe**. Si vous utilisez une de celles listées ci-dessous, vous pouvez suivre un guide dédié:
 
 * [Google Classroom](/help/en/education/google-classroom/)
-* [Canvas](https://blog.flat.io/flat-canvas/)
+* [Canvas](/help/en/education/canvas-lms/)
 * [Schoology](https://blog.flat.io/flat-schoology/)
 
 ## Ajouter des étudiants dans une classe existante
