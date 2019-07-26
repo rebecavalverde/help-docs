@@ -20,7 +20,6 @@ If you use a device with iOS, Flat is also available as a native app for your de
 | Opera | 20 (2014) | Latest stable version |
 | Safari (Mac OS)[^1]  | 7.1 | Latest stable version |
 | Microsoft Edge[^1] | Any version | Latest stable version |
-| Internet explorer[^2] | 11 (provided on a *best effort* basis) | Microsoft Edge |
 
 | Mobile Browser | Preferred Version |
 |:---------------|:------------------|
@@ -29,4 +28,3 @@ If you use a device with iOS, Flat is also available as a native app for your de
 | Safari (iOS) | Latest stable version |
 
 [^1]: These browsers doesn't support WebMIDI, please use Google Chrome, Chromium or Opera to use your MIDI devices with Flat.
-[^2]: If you use Internet Explorer 11 and want to use our audio playback, please upgrade to Microsoft Edge or another modern web browser.
