@@ -32,29 +32,29 @@ You have the same features and experience. You can either let your students crea
 [All your Flat assignments show up in your Google Classroom Stream](/help/en/education/google-classroom/student-experience.html). Your students just have to click on the posted assignment to be ready to use Flat and start working on their project.
 Unlike other music notation software, Flat is really easy and user-friendly: your students will quickly have their first notes added to their creation.
 
-![Music composition assignment on Google Classroom](/help/assets/img/edu/gc-stream-student.png)
+![Music composition assignment on Google Classroom](/help/assets/img/edu/gc-stream-student.png?0)
 
 ## Live feedback during the activity
 
 As soon as your students start their assignments, you can see their work and give them feedback... live! No need to wait for them to submit their work, it's already available to you, right on Flat.
 
-![Live feedback using contextualized comments](/help/assets/img/edu/editor-inline-comment.png)
+![Live feedback using contextualized comments](/help/assets/img/edu/editor-inline-comment.png?0)
 
 ## Turning in work from Flat
 
 [Students can directly turn-in their assignment](/help/en/education/google-classroom/student-experience.html#turn-in) from our web-based music notation software. We will directly bring them back to their submission on Google Classroom.
 
-![Turn in From Flat](/help/assets/img/edu/editor-student-turnin-button.png)
+![Turn in From Flat](/help/assets/img/edu/editor-student-turnin-button.png?0)
 
 ## The submissions on Google Classroom
 
 Once your students submit their work, you can review the submissions from Google Classroom or Flat, the same info is available on both apps.
 
-![Submissions of a music notation assignment on Google Classroom](/help/assets/img/edu/gc-assignment-done.png)
+![Submissions of a music notation assignment on Google Classroom](/help/assets/img/edu/gc-assignment-done.png?0)
 
 In 1-click you can view your students' work on Flat, even if their submissions are not turned in yet. On our review page, you can [give live feedback](#live-feedback-during-the-activity) using [our inline comments](/help/en/music-notation-software/inline-comments.html) and review their submitted scores.
 
-![Flat review page](/help/assets/img/edu/teacher-review-editor.png)
+![Flat review page](/help/assets/img/edu/teacher-review-editor.png?0)
 
 ## Get help anytime from our product team
 

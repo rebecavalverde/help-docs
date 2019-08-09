@@ -23,20 +23,20 @@ You have different ways to onboard your students on Flat with their Google Accou
 
 If you [posted an assignment with no attachment](/help/en/education/google-classroom/create-music-notation-assignment.html#assignment-mode), they will see a direct link to create a new score. This link will also attach the newly created score to the student's submission:
 
-![Assignment with a new score](/help/assets/img/edu/gc-stream-assignment-newscore.png)
+![Assignment with a new score](/help/assets/img/edu/gc-stream-assignment-newscore.png?0)
 
 If you posted an assignment with an attachment ([**shared writing** or a **template that makes copies**](/help/en/education/google-classroom/create-music-notation-assignment.html#assignment-mode)), your students will have a direct link to the shared resource or copy of the original resource.
 
-![Assignment with a template or collaboration](/help/assets/img/edu/gc-stream-assignment-tpl.png)
+![Assignment with a template or collaboration](/help/assets/img/edu/gc-stream-assignment-tpl.png?0)
 
 Once they open the copy of the score or create a new score for the assignment, their work will automatically be attached to their submission on Flat and Google Classroom. You also have access to their work anytime from Flat, this allows you to give live feedback on their work before they submit it
 
-![Submission started](/help/assets/img/edu/gc-stream-assignment-started.png)
+![Submission started](/help/assets/img/edu/gc-stream-assignment-started.png?0)
 
 ## Turn in
 
 Once your students complete the assignment, they will have a "*Turn in*" button at the top of the editor. They can then confirm that the assignment is done, and Flat will bring them back directly in their Google Classroom Classwork page.
 
-![Turn in Button](/help/assets/img/edu/editor-title-turnin.png)
+![Turn in Button](/help/assets/img/edu/editor-title-turnin.png?0)
 
-![Turn in Dialog](/help/assets/img/edu/editor-dialog-turnin.png)
+![Turn in Dialog](/help/assets/img/edu/editor-dialog-turnin.png?0)
