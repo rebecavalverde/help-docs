@@ -25,7 +25,7 @@ Your students and colleague can directly sign-in to your Flat Private website in
 [Create assignments with Flat](/help/en/education/google-classroom/create-music-notation-assignment.html) just like you would create assignments with Docs or Slides.
 You have the same features and experience. You can either let your students create a new document, share them a template that will make copies, or live-collaboration with your complete group on a single music score.
 
-![Create an assignment Flat](/help/assets/img/edu/editor-new-assignment.png)
+![Create an assignment Flat](/help/assets/img/edu/editor-new-assignment.png?0)
 
 ## Onboard your students directly from your Google Classroom Stream
 
