@@ -23,7 +23,7 @@ Your students and colleague can directly sign-in to your Flat Private website in
 ## The same experience than Docs or Slides, but with music notation
 
 [Create assignments with Flat](/help/en/education/google-classroom/create-music-notation-assignment.html) just like you would create assignments with Docs or Slides.
-You have the exact same features and experience. You can either let your students create a new document, share them a template that will make copies, or live-collaboration with your complete group on a single music score.
+You have the same features and experience. You can either let your students create a new document, share them a template that will make copies, or live-collaboration with your complete group on a single music score.
 
 ![Create an assignment Flat](/help/assets/img/edu/editor-new-assignment.png)
 
@@ -46,12 +46,15 @@ As soon as your students start their assignments, you can see their work and giv
 
 ![Turn in From Flat](/help/assets/img/edu/editor-student-turnin-button.png)
 
-## The submissions on Google Classroom and your Google Drive
+## The submissions on Google Classroom
 
 Once your students submit their work, you can review the submissions from Google Classroom or Flat, the same info is available on both apps.
-Submissions [are also available in your teacher Drive folder](https://blog.flat.io/updating-google-classroom-and-google-drive-support-on-flat/), giving you an extra way to access to their creations.
 
 ![Submissions of a music notation assignment on Google Classroom](/help/assets/img/edu/gc-assignment-done.png)
+
+In 1-click you can view your students' work on Flat, even if their submissions are not turned in yet. On our review page, you can [give live feedback](#live-feedback-during-the-activity) using [our inline comments](/help/en/music-notation-software/inline-comments.html) and review their submitted scores.
+
+![Flat review page](/help/assets/img/edu/teacher-review-editor.png)
 
 ## Get help anytime from our product team
 

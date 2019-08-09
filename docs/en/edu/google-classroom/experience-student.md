@@ -35,9 +35,8 @@ Once they open the copy of the score or create a new score for the assignment, t
 
 ## Turn in
 
-Once your students complete the assignment, they will have a "*Turn in*" button at the top of the editor. They can then confirm that the assignment is done, and Flat will bring them back directly in their Google Classroom stream.
+Once your students complete the assignment, they will have a "*Turn in*" button at the top of the editor. They can then confirm that the assignment is done, and Flat will bring them back directly in their Google Classroom Classwork page.
 
-![Turn in](/help/assets/img/edu/editor-title-turnin.png)
+![Turn in Button](/help/assets/img/edu/editor-title-turnin.png)
 
-The "*Assignment*" button next to the *Turn in* button will show all the details of the assignment, including embedded resources, right in the editor.
-
+![Turn in Dialog](/help/assets/img/edu/editor-dialog-turnin.png)
