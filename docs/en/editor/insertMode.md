@@ -1,5 +1,5 @@
 ---
-title: Enable insert mode
+title: Insert mode
 description: When the insert mode is enabled, adding a note will shift the content on the right, instead of removing it. When you remove an element, the content will be pulled back on the left. The durations on the tool-bar are used to select the durations of the notes/silences to insert. 
 nav: editor
 pid: insertmode
@@ -31,3 +31,5 @@ In the same way, you can choose the accidental to apply to the note to be insert
 
 If you are editing an unpitched part, you can choose the notehead to apply to the note to be inserted: 
 ![Notehead in insert mode](/help/assets/img/editor/insertMode-notehead.gif)
+
+When using the insert mode, [you can also insert extra rests at the location of your cursor](/help/en/music-notation-software/insert-rest.html).
