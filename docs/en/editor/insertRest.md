@@ -3,7 +3,7 @@ title: Insert rest
 description: Insert a rest of the selected duration at the cursor place. Can only be used in insert mode. 
 nav: editor
 pid: insertrest
-permalink: en/music-notation-software/insertRest.html
+permalink: en/music-notation-software/insert-rest.html
 
 action.insertRest: true
 ---

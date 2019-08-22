@@ -3,7 +3,7 @@ title: Change duration, insert mode
 description: When the insert mode is enabled for the duration change, increasing a note/rest duration will shift the content on the right, instead of removing it. If you reduce the duration, the content will be pulled back on the left. 
 nav: editor
 pid: insertmode
-permalink: en/music-notation-software/changeDurationInsert.html
+permalink: en/music-notation-software/change-duration-insert.html
 
 action.toggleInsertMode: true
 ---

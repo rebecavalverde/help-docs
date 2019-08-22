@@ -3,7 +3,7 @@ title: Enable insert mode
 description: When the insert mode is enabled, adding a note will shift the content on the right, instead of removing it. When you remove an element, the content will be pulled back on the left. The durations on the tool-bar are used to select the durations of the notes/silences to insert. 
 nav: editor
 pid: insertmode
-permalink: en/music-notation-software/insertMode.html
+permalink: en/music-notation-software/insert-mode.html
 
 action.toggleInsertMode: true
 ---
