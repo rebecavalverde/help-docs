@@ -10,6 +10,7 @@ action.toggleInsertMode: true
 
 | Available in toolbar | **Note** |
 | Toolbar icon | ![Insert Mode](https://prod.flat-cdn.com/img/icons/editorActions/insertMode.svg){:.tb} |
+| Keyboard Shortcut | <span class="kb-container"><span class="kb">I</span></span> |
 {:.feat}
 
 
