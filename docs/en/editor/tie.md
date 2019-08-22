@@ -25,3 +25,11 @@ Input two notes of the same pitch with the duration you want. Then select the fi
 If you are trying to tie notes that don't have the same pitch, you are probably [looking for a slur instead](/help/en/music-notation-software/slur.html).
 
 ![Tie notes](/help/assets/img/editor/tie.gif)
+
+It also works on chords. 
+![Tie chords](/help/assets/img/editor/tie-chord.gif)
+
+When you click on the tie button, the editor will only connect the heads of the chord that can be tied. 
+![Tie chords](/help/assets/img/editor/tie-incomplete.gif)
+
+It is also possible to [change the direction of a tie](/help/en/music-notation-software/flip-tie.html).
