@@ -40,3 +40,7 @@ Usually, the Quarter Note, corresponds to one beat music note. A Half Note will 
 Select the note or rest that you want to modify, then go to the *Note* toolbar. Choose any duration you want, from the whole note to the sixty-fourth note. The tools to change the duration of a note or a rest are unified and have the same icons in the toolbar so you can change the duration before or after adding a note.
 
 ![Change duration](/help/assets/img/editor/changeduration.gif)
+
+## Option to replace or insert notes when changing durations
+
+When using the tools to change the duration of the notes or rests, you can choose how the tools will behave (e.g. removing extra content or push the content to the right). [Check out the dedicated help page about this option to learn more](/en/music-notation-software/change-duration-insert.html).
