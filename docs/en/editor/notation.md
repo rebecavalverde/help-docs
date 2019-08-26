@@ -81,6 +81,7 @@ On this page, discover the music notations available on our music notation softw
 | [![Change string](https://prod.flat-cdn.com/img/icons/editorActions/transpose.svg){:.tb}](/help/en/music-notation-software/change-string.html) | [Change String](/help/en/music-notation-software/change-string.html) |
 | [![Bends](https://prod.flat-cdn.com/img/icons/editorActions/bend.svg){:.tb}](/help/en/music-notation-software/bends.html) | [Bend, Pre-Brend and Release](/help/en/music-notation-software/bends.html) |
 | [![Plucked ranges](https://prod.flat-cdn.com/img/icons/editorActions/palmMute.svg){:.tb}](/help/en/music-notation-software/plucked-ranges.html) | [Plucked ranges (Palm Mute & Let Ring)](/help/en/music-notation-software/plucked-ranges.html) |
+| [![Slides](https://prod.flat-cdn.com/img/icons/editorActions/slide.svg){:.tb}](/help/en/music-notation-software/slide.html) | [Slide](/help/en/music-notation-software/slide.html) |
 {:.feat.flist}
 
 ## Articulation
