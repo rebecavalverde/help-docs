@@ -36,6 +36,12 @@ You can find how to change the global playback speed on [our dedicated help page
 
 The swing includes the notation and the playback interpretation. Discover how to use it [in our dedicated help page](/help/en/music-notation-software/swing.html).
 
-## Any issue with the playback?
+## FAQ
 
-See our [playback troubleshooting page](/help/en/music-notation-software/playback-troubleshooting.html)
+#### I have an issue with the playback...
+
+Please see our [playback troubleshooting page](/help/en/music-notation-software/playback-troubleshooting.html)
+
+#### Does the Crescendo and Diminuendo affects both part of a piano score?
+
+Like all the dynamics on Flat, they only affect the stave where they are added.

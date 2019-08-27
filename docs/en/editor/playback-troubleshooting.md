@@ -22,4 +22,4 @@ If this issue happens to you, we recommend to :
 4. If the issue still happens and you are using a computer, try with a different web browser.
 5. If it still happens with a different web browser, then try to contact us.
 
-We hope it will allow you to fix this issue.
+We hope it will allow you to fix this issue. Otherwise, [please contact our team to get some help](/help/support).
