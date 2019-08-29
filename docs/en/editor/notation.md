@@ -81,8 +81,9 @@ On this page, discover the music notations available on our music notation softw
 | [![Instruments](https://prod.flat-cdn.com/img/icons/_instrument/group-plucked-strings.svg){:.tb}](/help/en/music-notation-software/tuning.html) | [ Tuning and Capo](/help/en/music-notation-software/tuning.html) |
 | [![Change string](https://prod.flat-cdn.com/img/icons/editorActions/transpose.svg){:.tb}](/help/en/music-notation-software/change-string.html) | [Change String](/help/en/music-notation-software/change-string.html) |
 | [![Bends](https://prod.flat-cdn.com/img/icons/editorActions/bend.svg){:.tb}](/help/en/music-notation-software/bends.html) | [Bend, Pre-Brend and Release](/help/en/music-notation-software/bends.html) |
-| [![Plucked ranges](https://prod.flat-cdn.com/img/icons/editorActions/palmMute.svg){:.tb}](/help/en/music-notation-software/plucked-ranges.html) | [Plucked ranges (Palm Mute & Let Ring)](/help/en/music-notation-software/plucked-ranges.html) |
+| [![Natural Harmonic: Sounding Pitch](https://prod.flat-cdn.com/img/icons/editorActions/harmonicNaturalSounding.svg){:.tb}![Natural Harmonic: Touching Pitch](https://prod.flat-cdn.com/img/icons/editorActions/harmonicNaturalTouching.svg){:.tb}![Artificial Harmonic: Touching Pitch](https://prod.flat-cdn.com/img/icons/editorActions/harmonicArtificialTouching.svg){:.tb}](/help/en/music-notation-software/harmonic.html) | [Harmonic (Natural Sounding, Natural Touching and Artificial Touching)](/help/en/music-notation-software/harmonic.html) |
 | [![Slides](https://prod.flat-cdn.com/img/icons/editorActions/slide.svg){:.tb}](/help/en/music-notation-software/slide.html) | [Slide](/help/en/music-notation-software/slide.html) |
+| [![Plucked ranges](https://prod.flat-cdn.com/img/icons/editorActions/palmMute.svg){:.tb}](/help/en/music-notation-software/plucked-ranges.html) | [Plucked ranges (Palm Mute & Let Ring)](/help/en/music-notation-software/plucked-ranges.html) |
 {:.feat.flist}
 
 ## Articulation
@@ -91,6 +92,7 @@ On this page, discover the music notations available on our music notation softw
 | [![Fermata](https://prod.flat-cdn.com/img/icons/editorActions/fermata.svg){:.tb}](/help/en/music-notation-software/fermata.html) | [Fermata](/help/en/music-notation-software/fermata.html) |
 | [![Slurs](https://prod.flat-cdn.com/img/icons/editorActions/slurs.svg){:.tb}](/help/en/music-notation-software/slur.html) | [Slur notes](/help/en/music-notation-software/slur.html) |
 | [![Bow](https://prod.flat-cdn.com/img/icons/editorActions/upbow.svg){:.tb}](/help/en/music-notation-software/bow.html) | [Up bow/Down bow](/help/en/music-notation-software/bow.html) |
+| [![Natural Harmonic: Sounding Pitch](https://prod.flat-cdn.com/img/icons/editorActions/harmonicNaturalSounding.svg){:.tb}![Natural Harmonic: Touching Pitch](https://prod.flat-cdn.com/img/icons/editorActions/harmonicNaturalTouching.svg){:.tb}![Artificial Harmonic: Touching Pitch](https://prod.flat-cdn.com/img/icons/editorActions/harmonicArtificialTouching.svg){:.tb}](/help/en/music-notation-software/harmonic.html) | [Harmonic (Natural Sounding, Natural Touching and Artificial Touching)](/help/en/music-notation-software/harmonic.html) |
 | [![Fingerings](https://prod.flat-cdn.com/img/icons/editorActions/fingering.svg){:.tb}](/help/en/music-notation-software/fingerings.html) | [Fingerings](/help/en/music-notation-software/fingerings.html) |
 | [![Buzz roll](https://prod.flat-cdn.com/img/icons/editorActions/buzzroll.svg){:.tb}](/help/en/music-notation-software/buzznote.html) | [Buzz notes](/help/en/music-notation-software/buzznote.html) |
 {:.feat.flist}
