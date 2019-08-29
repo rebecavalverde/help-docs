@@ -20,6 +20,8 @@ Harmonics are available in the toolbar **Articulation** for string instruments, 
 | Artificial Harmonic: Touching Pitch | ![Artificial Touching](https://prod.flat-cdn.com/img/icons/editorActions/harmonicArtificialTouching.svg){:.tb} |
 {:.feat}
 
+**Note**: At this time harmonics are not interpreted by our playback (you will have the notation written on your score/tab, but not the corresponding sound). To learn more about our playback interpretation, [check out the dedicated audio playback help page](/help/en/music-notation-software/playback.html).
+
 ## What is a harmonic?
 
 Harmonics are a technic of play on string instruments, that is used to reach higher pitches using physics properties. 

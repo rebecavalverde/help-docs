@@ -22,6 +22,8 @@ action.toggleBendRelease1: true
 | Release | **Measure** | ![Release](https://prod.flat-cdn.com/img/icons/editorActions/bendRelease.svg){:.tb} |
 {:.feat}
 
+**Note**: At this time bends are not interpreted by our playback (you will have the notation written on your score/tab, but not the corresponding sound). To learn more about our playback interpretation, [check out the dedicated audio playback help page](/help/en/music-notation-software/playback.html).
+
 ## What are bends?
 
 Bends is a freted instruments technique, which consist in pulling the string in order to raise the pitch. 

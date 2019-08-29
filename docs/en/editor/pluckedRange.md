@@ -20,6 +20,8 @@ action.toggleAboveLetRing: true
 | Palm mute  | **Tab** | ![Palm mute](https://prod.flat-cdn.com/img/icons/editorActions/palmMute.svg){:.tb} |
 {:.feat}
 
+**Note**: At this time Palm Mute and Let Ring are not interpreted by our playback (you will have the notation written on your score/tab, but not the corresponding sound). To learn more about our playback interpretation, [check out the dedicated audio playback help page](/help/en/music-notation-software/playback.html).
+
 ## What is a palm mute?
 
 A palm mute is a guitar technique that consist in placing the hand on the strings, just above the bridge, so the sound get muted. 

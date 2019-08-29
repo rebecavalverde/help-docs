@@ -17,6 +17,8 @@ action.toggleRitardando: true
 | Ritardando  | **Measure** | ![Ritardando](https://prod.flat-cdn.com/img/icons/editorActions/ritardando.svg){:.tb} |
 {:.feat}
 
+**Note**: At this time Accelerando and Ritardando are not interpreted by our playback (you will have the notation written on your score/tab, but not the corresponding sound). To learn more about our playback interpretation, [check out the dedicated audio playback help page](/help/en/music-notation-software/playback.html).
+
 ## What is an accelerando?
 
 An accelerando is a gradual tempo increase.

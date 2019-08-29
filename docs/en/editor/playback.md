@@ -14,10 +14,11 @@ Our goal is to provide a good trade-off between performance and interpretation q
 
 At this time, most of the notations are interpreted, except:
 
-* Accelerando / Ritardendo
+* [Accelerando / Ritardendo](/help/en/music-notation-software/tempo-changes.html)
 * Bowing Directions
-* Palm mute / Left ring
-* Bends
+* [Palm mute / Let ring](/help/en/music-notation-software/plucked-ranges.html)
+* [Bends](/help/en/music-notation-software/bends.html)
+* [Harmonics](/help/en/music-notation-software/harmonic.html)
 * Text
 
 ## Use the Playback
