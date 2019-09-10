@@ -73,3 +73,22 @@ You can then choose all the percussions instruments you want to include in the p
 If you play an instrument different ways (e.g. Open and Closed Hi-hat), add all the playing ways to the configuration with different lines and/or different heads.
 
 ![Configuration of the kit](/help/assets/img/editor/custom-instru-unpitched-instruments.png)
+
+Here are the different heads you can use for your kit:
+
+| Preview | Name |
+|:--------|:-----|
+| ![Head Normal](https://prod.flat-cdn.com/img/icons/editorActions/headNormal.svg){:.tb} | Normal |
+| ![Head X](https://prod.flat-cdn.com/img/icons/editorActions/headX.svg){:.tb} | X |
+| ![Head Circle X](https://prod.flat-cdn.com/img/icons/editorActions/headCircleX.svg){:.tb} | Circle X |
+| ![Head Diamond](https://prod.flat-cdn.com/img/icons/editorActions/headDiamond.svg){:.tb} | Diamond |
+| ![Head Slash](https://prod.flat-cdn.com/img/icons/editorActions/headSlash.svg){:.tb} | Slash |
+| ![Head Triangle](https://prod.flat-cdn.com/img/icons/editorActions/headTriangle.svg){:.tb} | Triangle |
+| ![Head Back Slashed](https://prod.flat-cdn.com/img/icons/editorActions/headBackSlashed.svg){:.tb} | Back Slashed |
+| ![Head Slashed](https://prod.flat-cdn.com/img/icons/editorActions/headSlashed.svg){:.tb} | Slashed |
+| ![Head Square](https://prod.flat-cdn.com/img/icons/editorActions/headSquare.svg){:.tb} | Square |
+| ![Head Cross](https://prod.flat-cdn.com/img/icons/editorActions/headCross.svg){:.tb} | Cross |
+| ![Head Inverted Triangle](https://prod.flat-cdn.com/img/icons/editorActions/headInvertedTriangle.svg){:.tb} | Inverted Triangle |
+| ![Head Arrow Up](https://prod.flat-cdn.com/img/icons/editorActions/headArrowUp.svg){:.tb} | Arrow up |
+| ![Head Arrow Down](https://prod.flat-cdn.com/img/icons/editorActions/headArrowDown.svg){:.tb} | Arrow down |
+{:.feat.flist.index}
