@@ -1,6 +1,7 @@
 ---
 title: Kodály notation
-ptitle: "Learn how to use Kodály on Flat: how does it works, how to configure it, etc."
+ptitle: "Kodály notation: easily write Letters and Hand Signs for your songs"
+description: "Flat allows you to quickly write or generate Kodály notation using any existing written music notation. Discover how to get started with our Kodály feature."
 nav: editor
 pid: kodaly
 permalink: en/music-notation-software/kodaly.html
