@@ -13,7 +13,9 @@ Flat allows you to display Kodály notation, that is generated directly from the
 
 ## Enabling Kodály notation
 
-To enable Kodály notation, you need to open **the instrument settings**. 
+To enable Kodály notation, you need to open **the instrument settings**. You can do so by clicking on the instrument button on the left on the toolbar, then click on “Manage instruments”. You can also click on the instrument name on the score. 
+
+![Opening Instrument Settings](/help/assets/img/editor/open-instrument-settings-kodaly.gif)
 
 ![Instrument Settings](/help/assets/img/editor/instrument-settings-kodaly.png)
 
