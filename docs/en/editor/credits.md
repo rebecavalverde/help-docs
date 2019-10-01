@@ -18,7 +18,7 @@ action.showCreditsSettings: true
 
 You can easily add and update credits information about your score: open our Web Editor and **click on the existing title of your score**. 
 
-You can then add a **Title**, **Subtitle**, **Lyricist**, **Composer** and **License text** to your document. Additional *document settings* will be also displayed on the opened page (Instruments, Layout and Styles, Audio Playback and Audio Recordings).
+You can then add a **Title**, **Subtitle**, **Lyricist**, **Composer**, **Arranger** and **License text** to your document. Additional *document settings* will be also displayed on the opened page (Instruments, Layout and Styles, Audio Playback and Audio Recordings).
 
 ![Credits](/help/assets/img/editor/credits.png)
 
