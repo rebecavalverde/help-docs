@@ -29,11 +29,16 @@ You can either choose to display notes as letters (do re mi fa so la ti), or as 
 ![Letters](/help/assets/img/editor/kodaly-letters.png)
 ![Hand Signs](/help/assets/img/editor/kodaly-hand-signs.png)
 
-### Source singing pitch & Recommended singing pitch
+### Do type
+You can either choose to use a **Fixed Do** or a **Movable Do**. 
+If you use a Fixed Do, the solfege notation will match the actual pitches that are sang. A "C" will be called a "Do". 
+If you use a Movable Do, the solfege notation will depend on the key. The tonic will be called a "Do". For instance if you are singing in "G", the "G" will be called a "Do", and The "A" will be called a "Re". 
+
+### Source starting pitch & Recommended singing pitch
 The source singing pitch is the "original" pitch of the song.
 The recommended singing pitch is the pitch that will be used for students to sing the song. 
 
-The Kodály notation is automatically transposed based on the source and recommended singing pitch. 
+The Kodály notation is automatically transposed based on the source and recommended singing pitch if you use a Fixed Do.  
 On this example, the source singing pitch is "C", and the recommended singing pitch is "G": 
 ![Transposed Kodály](/help/assets/img/editor/kodaly-transposed.png)
 
