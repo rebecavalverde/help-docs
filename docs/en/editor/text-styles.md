@@ -22,7 +22,7 @@ In the *Layout settings*, scroll to *Text styles*. From there, you can set the d
 
 ## Adjusting specific texts styles
 
-You can also change the **font family for specific text types** (e.g. only the title of the score), and also adjust the **weight** (i.e. bold) and **style** (i.e. italic) of the font.
+You can also change the **font family for specific text types** (e.g. only the title of the score), and also adjust the **weight** (i.e. bold), **style** (i.e. italic) and the **size** of the font.
 
 ![List of text types](/help/assets/img/editor/text-font-specific-list.png)
 
@@ -30,9 +30,15 @@ For every specific text type, you can adjust the settings:
 
 ![List of text types](/help/assets/img/editor/text-font-specific-config.png){:.noBorder}
 
+## About font sizes
+
+The **sizes** of the different texts can be set in two different units: **points** and **staff space**:
+
+* **Points (pt)** is an **absolute unit** that you usually find in text editors. By default, we use this unit for text elements like the *title* and the *subtitle* that are not directly linked to your staves.
+* **Staff space (sp)** is a **relative unit** to your music staves, literally the space between two lines of the stave. By default, we use this unit for text elements that are linked to the staves, like *lyrics* and *chords*.
+
 ## Implementation notes: Default fonts
 
 Before March 2018, the default font was [**Noto Serif**](https://fonts.google.com/specimen/Noto+Serif). This default font has been changed on March 2018, and the new one is now **URW Century Schoolbook L** (licensed under GNU GPL v2). The Noto Serif font remains available in the list of font families.
 
 When using [the music font **Petaluma**](/help/en/music-notation-software/music-font-smufl.html), the default font will automatically be set to **Petaluma Script**.
-
