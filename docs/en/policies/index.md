@@ -68,7 +68,7 @@ If you are an individual or business using our embed product [Flat Embed](https:
 
 In the US, we can sign agreements specific to your state or district for you to use [Flat for Education](https://flat.io/edu). Please contact us at [edu@flat.io](mailto:edu@flat.io) if you have an agreement for your district you would like us to review and sign.
 
-You can also consult the [Student Data Privacy Consortium (SDPC) website](https://sdpc.a4l.org/search_resource_national.php?softwareID=828) where some of these agreements are public: Massachusetts Student Privacy Alliance DPA (MSPA) and California Student Data Privacy Agreement (CSDPA).
+You can also consult the [Student Data Privacy Consortium (SDPC) website](https://sdpc.a4l.org/search_resource_national.php?softwareID=828) where some of these agreements are public (California, Massachusetts, New Hampshire, Oregon, Utah, Washington State).
 
 ### GDPR compliance
 
