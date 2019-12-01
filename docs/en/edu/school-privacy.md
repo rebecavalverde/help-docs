@@ -9,7 +9,7 @@ permalink: en/education/school-privacy-organization.html
 There are three privacy settings that you could set according to the needs of your organization.
 
 ## Public scores on the Internet
-Allow your users to share their scores publicly on our website flat.io. These scores might be indexed by search engines like Google, and other users from our public community will be able to send comments on the scores. Your users’ profile information will be anonymized.
+Allow your users to share their scores publicly on our website flat.io. These scores might be indexed by search engines like Google, and other users from our public community will be able to send comments on the scores. Your users' profile information will be anonymized.
 
 ## Collaboration with external users
 Allow your users to invite external Flat users to collaborate on their music scores. Your users' profile information will be anonymized.
