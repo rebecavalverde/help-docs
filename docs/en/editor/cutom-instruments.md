@@ -3,7 +3,7 @@ title: Custom instruments configurations
 ptitle: Create and Save personnalized instruments configurations in your account
 description: Custom instruments configurations lets you save setups in your accounts and reuse them quickly when you create new sheet music, or add extra parts to an existing document
 nav: editor
-pid: custom-instruments
+pid: instruments
 permalink: en/music-notation-software/custom-instruments.html
 ---
 

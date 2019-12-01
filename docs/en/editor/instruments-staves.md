@@ -2,7 +2,7 @@
 title: Add or remove staves
 description: Discover how to add or remove staves in your existing score parts.
 nav: editor
-pid: instruments-staves
+pid: instruments
 permalink: en/music-notation-software/staves.html
 
 action.addStaff: true

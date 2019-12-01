@@ -2,7 +2,7 @@
 title: Add, Remove or Re-order score parts
 description: Discover how to add, remove and re-organize score parts
 nav: editor
-pid: instruments-add-remove
+pid: instruments
 permalink: en/music-notation-software/instruments-add-remove-order.html
 
 action.showInstrumentsSettings: true

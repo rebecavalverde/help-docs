@@ -2,7 +2,7 @@
 title: Rename a score part
 description: Discover how to rename an existant score part, or removing score parts names from your sheet music
 nav: editor
-pid: instruments-rename
+pid: instruments
 permalink: en/music-notation-software/instruments-rename.html
 
 action.renamePart: true

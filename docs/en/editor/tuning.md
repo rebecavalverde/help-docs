@@ -2,7 +2,7 @@
 title: "Tablature: Tuning and Capo"
 description: With Flat, you can create tabs synced with your music notation up to 14 strings with the tuning and capo you want
 nav: editor
-pid: tuning
+pid: instruments
 permalink: en/music-notation-software/tuning.html
 ---
 
