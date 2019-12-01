@@ -36,6 +36,7 @@ The instruments configuration window allows you to:
 * **Replace** an instrument with another one. This will replace all the settings of the instrument with the new one. If the original or the new instrument is a transposing instrument, [this will automatically transpose the part for you to the new transposition mode](/help/en/music-notation-software/transpose.html#transpose-a-complete-part-for-a-different-instrument).
 * [**Add or remove staves** of an instrument](/help/en/music-notation-software/staves.html).
 * **Enabling/disable TAB** for an instrument and [**customize the tuning**](/help/en/music-notation-software/tuning.html) of an instrument.
+* [**Add and Edit custom brackets**](/help/en/music-notation-software/instruments-brackets.html) to group your parts.
 
 ![Change instruments](/help/assets/img/editor/manage-instruments.png)
 
