@@ -9,7 +9,7 @@ Flat issues receipts and invoices for all payments. If you make a payment by deb
 
 ## Find my Billing History online
 
-You can access [your billing history online at flat.io](https://flat.io/settings/b-history). To do so:
+You can access [your billing history online at flat.io](https://flat.io/settings/account/billing). To do so:
 
 * Sign in to flat.io.
 * Click your profile picture in the upper right corner.
