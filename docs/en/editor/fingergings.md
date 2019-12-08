@@ -11,7 +11,7 @@ action.toggleFingering: true
 ## Summary
 
 | Available in toolbar | **Articulation** |
-| Toolbar icon | ![Fermata](https://prod.flat-cdn.com/img/icons/editorActions/fermata.svg){:.tb} |
+| Toolbar icon | ![Fingering](https://prod.flat-cdn.com/img/icons/editorActions/fingering.svg){:.tb} |
 {:.feat}
 
 ## What are the fingerings?
