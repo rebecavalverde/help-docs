@@ -86,6 +86,8 @@ On this page, discover the music notations available on our music notation softw
 | [![Natural Harmonic: Sounding Pitch](https://prod.flat-cdn.com/img/icons/editorActions/harmonicNaturalSounding.svg){:.tb}![Natural Harmonic: Touching Pitch](https://prod.flat-cdn.com/img/icons/editorActions/harmonicNaturalTouching.svg){:.tb}![Artificial Harmonic: Touching Pitch](https://prod.flat-cdn.com/img/icons/editorActions/harmonicArtificialTouching.svg){:.tb}](/help/en/music-notation-software/harmonic.html) | [Harmonic (Natural Sounding, Natural Touching and Artificial Touching)](/help/en/music-notation-software/harmonic.html) |
 | [![Slides](https://prod.flat-cdn.com/img/icons/editorActions/slide.svg){:.tb}](/help/en/music-notation-software/slide.html) | [Slide](/help/en/music-notation-software/slide.html) |
 | [![Plucked ranges](https://prod.flat-cdn.com/img/icons/editorActions/palmMute.svg){:.tb}](/help/en/music-notation-software/plucked-ranges.html) | [Plucked ranges (Palm Mute & Let Ring)](/help/en/music-notation-software/plucked-ranges.html) |
+| [![Chord grids](https://prod.flat-cdn.com/img/icons/editorActions/chord.svg){:.tb}](/help/en/music-notation-software/chord-grids.html) | [Chord grids](/help/en/music-notation-software/chord-grids.html) |
+
 {:.feat.flist}
 
 ## Articulation
