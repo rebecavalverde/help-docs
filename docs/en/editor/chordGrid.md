@@ -11,13 +11,13 @@ permalink: en/music-notation-software/chord-grids.html
 Chord grids/frames are a way of describing how to play a chord, by showing which strings are played, and 
 which frets are pressed. 
 
-## How to works with chord grids on Flat
+## How to work with chord grids on Flat
 
-To use the chord grids, you have to go in the instruments properties. There you can open the **Tablature, Chord Grids and Tuning**. 
+To use the chord grids, you have to the properties of the instruments. There you can open the **Tablature, Chord Grids and Tuning**. 
 
 ![Enable chord grid](/help/assets/img/editor/instrument-chordGrid.png)
 
-There, toggle the **Use chord grids** checkbox. This way a grid will be generated for all the jazz chords in the part. 
+There, toggle the **Use chord grids** checkbox. This way a grid will be generated for all the chords in the part. You can use [the chord tool](/help/en/music-notation-software/chords.html) in the _Text_ toolbar to insert additional chords to your document.
 
 ![Chord grid](/help/assets/img/editor/chordGrid.png)
 
