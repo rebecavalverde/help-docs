@@ -25,6 +25,12 @@ A text field will appear at the selected location where you can start writing yo
 
 ![Lyrics](/help/assets/img/editor/editor_chords.gif)
 
+## Adding guitar chord grids
+
+To add chord grids to your document, [you can enable the grids](/help/en/music-notation-software/chord-grids.html) to the document in the instrument settings. They will be displayed below all the chords you add for the part.
+
+![Chord grid](/help/assets/img/editor/chordGrid.png)
+
 ## Chords Keyboard Shortcuts
 
 | Go to the next chord | <span class="kbs-multi"><span class="kb-container"><span class="kb-container"><span class="kb">⇢</span></span> or <span class="kb-container"><span class="kb">Enter</span></span></span> |
