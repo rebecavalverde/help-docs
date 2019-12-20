@@ -19,6 +19,7 @@ Do you have a question about Flat? Our FAQ is here for you, you can find the ans
 * [What is the difference between an individual and an education account?](/help/en/education/difference-individual-education.html)
 * [If I don't know anything in music, how can I use Flat?](/help/en/general/music-theory.html)
 * [How to recover my account password?](/help/en/general/recover-my-account-password.html)
+* [My school deleted my Google/Microsoft account, how to recover my Flat account?](/help/en/general/recover-my-flat-account-because-school-deleted-my-google-microsoft-account.html)
 * [How do I delete my account?](/help/en/general/delete-my-account.html)
 {:.faqul}
 
