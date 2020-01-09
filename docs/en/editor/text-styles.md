@@ -37,6 +37,21 @@ The **sizes** of the different texts can be set in two different units: **points
 * **Points (pt)** is an **absolute unit** that you usually find in text editors. By default, we use this unit for text elements like the *title* and the *subtitle* that are not directly linked to your staves.
 * **Staff space (sp)** is a **relative unit** to your music staves, literally the space between two lines of the stave. By default, we use this unit for text elements that are linked to the staves, like *lyrics* and *chords*.
 
+## Fonts Library
+
+Most of the fonts provided on Flat are Open Source fonts that are directly served by [Google Fonts](https://fonts.google.com/).
+
+We also provided the following Open Source fonts on Flat. Some of them are alternatives and metric-compatible fonts from proprietary fonts.
+
+| Font Family | License | Alternative to |
+|:------------|:--------|:--------------|
+| Nimbus Roman | [SIL Open Font License](/help/licenses/fonts-URW-Core35.txt) | Times New Roman |
+| Nimbus Sans | [SIL Open Font License](/help/licenses/fonts-URW-Core35.txt) | Helvetica |
+| Nimbus Mono | [SIL Open Font License](/help/licenses/fonts-URW-Core35.txt) | Courier/Courier New |
+| URW Gothic | [SIL Open Font License](/help/licenses/fonts-URW-Core35.txt) | Century Gothic | 
+| URW Century Schoolbook L | [GNU GPL v2](/help/licenses/fonts-URW-Century.txt) | Century Schoolbook |
+| Petaluma Script | [SIL Open Font License](/help/licenses/fonts-Petaluma.txt) | - |
+
 ## Implementation notes: Default fonts
 
 Before March 2018, the default font was [**Noto Serif**](https://fonts.google.com/specimen/Noto+Serif). This default font has been changed on March 2018, and the new one is now **URW Century Schoolbook L** (licensed under GNU GPL v2). The Noto Serif font remains available in the list of font families.
