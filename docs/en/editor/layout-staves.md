@@ -21,5 +21,6 @@ Under the **Staves** settings, you can now edit the **Size of the staves**, and 
 
 The presets of the staves sizes are the standard Rastral Sizes, but you can also set your own size in mm or inches.
 
-![Layout staves](/help/assets/img/editor/layout-staves.png)
+You should note that the layout algorithm distributes the empty space in the page evenly between the systems. This is why when you reduce the space between systems/staves, it might not have an immediate result unless there is enough empty space to fit another system in the page. 
 
+![Layout staves](/help/assets/img/editor/layout-staves.png)
