@@ -53,4 +53,6 @@ Once you click on "*Post*", your assignment will be available in your Google Cla
 
 ![Flat assignment example](/help/assets/img/edu/stream-assignment-gc.png?0)
 
+⚠️ Due to a limitation of Google Classroom, Flat cannot modify the attachments of the assignments once they are posted. Please carefully check that you selected the good score(s) and the [good assignment mode](#assignment-mode). If you made a mistake with the attachments, delete and re-create your assignment on Flat.
+
 You can now discover [how your students will experience Flat with Google Classroom](/help/en/education/google-classroom/student-experience.html).
