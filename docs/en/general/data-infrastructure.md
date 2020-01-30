@@ -30,7 +30,7 @@ Flat uses the following providers for its production infrastructure:
 | Amazon Web Services Inc. (US) | US |
 | DigitalOcean LLC. (US) | US, NL |
 | OVH UK Ltd. (UK) | CA, FR |
-| Online SAS (FR) | FR |
+| Wasabi Technologies, Inc. (US) | US, NL |
 
 We also use some additional CDN providers to serve our static app content (which doesn't contain any User Information or User Content).
 
@@ -43,6 +43,7 @@ In order to provide our service in the best conditions, we use the following sub
 | Amazon Web Services Inc. | IaaS provider | We use Amazon Web Services for their data storage and email service (in the US). |
 | DigitalOcean LLC. | IaaS provider | We use Digital Ocean for their compute and data storage (in the US and the Netherlands). |
 | OVH UK Ltd. | IaaS provider | We use OVH for their data storage (in France and Canada). |
+| Wasabi Technologies, Inc. | IaaS provivder | We use Wasabi for their data storage (in the US and the Netherlands). | 
 | Google LLC. | PaaS/SaaS provider | We use Google for G Suite, Google Cloud, Firebase, Fabric and Google Analytics. |
 | FrontApp, Inc. | SaaS provider | We use FrontApp for our support tool. |
 | Stripe, Inc. | Payment provider | We use Stripe to process payments on the platform. |
