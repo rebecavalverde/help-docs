@@ -19,6 +19,7 @@ At this time, most of the notations are interpreted, except:
 * [Palm mute / Let ring](/help/en/music-notation-software/plucked-ranges.html)
 * [Bends](/help/en/music-notation-software/bends.html), Falls, glisses, doits, and scoops
 * [Harmonics](/help/en/music-notation-software/harmonic.html)
+* Slash notation
 * Text
 
 ## Use the Playback
