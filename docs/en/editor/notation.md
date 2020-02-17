@@ -133,6 +133,7 @@ On this page, discover the music notations available on our music notation softw
 | [![Double barlines](https://prod.flat-cdn.com/img/icons/editorActions/barlineDouble.svg){:.tb}](/help/en/music-notation-software/barlines.html) | [Double barlines](/help/en/music-notation-software/barlines.html) |
 | [![Repeats](https://prod.flat-cdn.com/img/icons/editorActions/barlineRepearRight.svg){:.tb}](/help/en/music-notation-software/barlines.html) | [Repeats](/help/en/music-notation-software/barlines.html) |
 | [![Measure Repeat](https://prod.flat-cdn.com/img/icons/editorActions/measureRepeat.svg){:.tb}](/help/en/music-notation-software/measure-repeat.html) | [Measure Repeat](/help/en/music-notation-software/measure-repeat.html) |
+| [![Slash](https://prod.flat-cdn.com/img/icons/editorActions/slash.svg){:.tb}](/help/en/music-notation-software/slash.html) | [Slash](/help/en/music-notation-software/slash.html) |
 | [![Endings](https://prod.flat-cdn.com/img/icons/editorActions/ending1.svg){:.tb}](/help/en/music-notation-software/endings.html) | [Endings](/help/en/music-notation-software/endings.html) |
 | [![Segno](https://prod.flat-cdn.com/img/icons/editorActions/segno.svg){:.tb}](/help/en/music-notation-software/segno.html) | [Segno](/help/en/music-notation-software/segno.html) |
 | [![Coda](https://prod.flat-cdn.com/img/icons/editorActions/coda.svg){:.tb}](/help/en/music-notation-software/coda.html) | [Coda](/help/en/music-notation-software/coda.html) |
