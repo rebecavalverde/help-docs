@@ -6,11 +6,11 @@ pid: terms
 copyright: true
 ---
 
-*This Privacy Policy applies all users. To view all our policies, check out the [index](/help/en/policies). This is the current version of these terms, dated 14 Sep 2018.*
+*This Privacy Policy applies all users. To view all our policies, check out the [index](/help/en/policies). This is the current version of these terms, dated 24 Feb 2020.*
 
 ## 1. Flat approach to privacy
 
-**1.1**	We operate a service which allows you to create, edit, share and collaborate on music scores using our website located at [www.flat.io](https://flat.io) and the Flat application (available for download on your mobile device) (the "**Service**"). 
+**1.1**	We operate a service which allows you to create, edit, share and collaborate on music scores using our website located at [flat.io](https://flat.io), the Flat application (available for download on your mobile device), through APIs, and through third parties (the "**Service**").
 
 **1.2**	We appreciate your interest in our Service. Privacy protection is very important to us and we are committed to protecting you and respecting your privacy. This privacy policy sets out information about how we collect, store, process, transfer, share and use data that identifies or is associated with you when providing our Service (hereinafter "**personal information**"). 
 
