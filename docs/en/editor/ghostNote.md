@@ -17,7 +17,7 @@ action.ghostNote: true
 
 In music theory, a ghost note should be muted or soften when played. Usually, it has no distinctive pitch and is used to add a rhythmic value to the score. In music notation, the ghost note is represented by an "X" or in brackets for the note head.
 
-## Add a grace note on Flat
+## Add a ghost note on Flat
 
 Select the note you want to ghost, then go to the "Note" toolbar and click on the ghost note tool, symbolized by a note head in brackets. To transform a ghost note into a regular note, use the same icon in the toolbar.
 
