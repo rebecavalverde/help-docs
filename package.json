@@ -21,7 +21,7 @@
     "retext-words": "bkeepers/retext-words",
     "to-vfile": "^6.1.0",
     "unified": "^8.4.2",
-    "unist-util-visit": "^1.1.1",
+    "unist-util-visit": "^2.0.2",
     "vfile-reporter": "^6.0.1",
     "vfile-statistics": "^1.0.0"
   },
