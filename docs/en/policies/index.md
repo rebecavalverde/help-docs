@@ -84,9 +84,7 @@ For individual accounts, you can check out [our dedicated information](/help/en/
 
 For [education accounts](https://flat.io/edu), there is no age requirement to use our Service. Please note that your country might require parental consent to create an account containing Personally Identifiable Information (PII) about their children. If you don't have this consent, you can still use our product by creating generic accounts that won't contain any PII, for example by using only first names or other generic usernames as identifiers.
 
-If you are in the United States, check out our dedicated terms in our [Terms of Service regarding Student Information in the United States](/help/en/policies/terms-of-service-business.html#12-student-information--united-states).
-
-If you are in the EEA (European Economic Area), our Business Terms of Service includes a [dedicated data processing addendum (DPA)](/help/en/policies/data-processing-addendum.html) to comply with the [GDPR](/help/en/policies/approach-to-gdpr.html).
+Please check our [Terms of Service]((/help/en/policies/terms-of-service-business.html) and our [Data processing addendum](/help/en/policies/data-processing-addendum.html) for more details.
 
 ### User content and ownership
 
