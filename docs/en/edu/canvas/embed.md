@@ -11,7 +11,7 @@ nexttext: Assignments with Canvas
 
 *You will need a Flat for Education account to use this feature, [check out the introduction](/help/en/education/canvas-lms/).*
 
-[Once your Canvas course is configured to use Flat](/help/en/education/canvas-lms/setup-configuration.html), you can easily embed rich music notation on your pages, assignments content, and more. Every time you have a rich editor to create or edit content, you will see a Flat button available to embed or link your Flat score in your content:
+[Once your Canvas course is configured to use Flat](/help/en/education/canvas-lms/setup-configuration.html), you can easily embed rich music notation on your pages, assignments content, quizzes, and more. Every time you have a rich editor to create or edit content, you will see a Flat button available to embed or link your Flat score in your content:
 
 ![Canvas rich editor](/help/assets/img/edu/canvas-rich-editor.png)
 
