@@ -19,11 +19,11 @@ We will show what they see when:
 
 ## Class and student stream
 
-When you add student to a class they will see it from their dashboard view.
+When you add a student to a class they will see it from their dashboard view.
 
 ![Student classes](/help/assets/img/student-view/classList.png)
 
-From this view they will be able to open a class and see everything shared in it.
+From this view, they will be able to open a class and see everything shared in it.
 
 ![Class Stream](/help/assets/img/student-view/stream-view.png)
 
@@ -32,12 +32,12 @@ They will also be able to see the different posts written by the teacher
 
 ## Work on an assignment
 
-From the class view a student can decide to start or continue a given assignment.
+From the class view, a student can decide to start or continue a given assignment.
 Let say that he clicks on the "10 measures composition" assignment shown on the previous screen above.
 
 ![Assignment details](/help/assets/img/student-view/assignment-details.png)
 
-On this view the student will be able to read the teacher instruction and press the button to start or keep workin on the assignment.
+In this view, the student will be able to read the teacher's instruction and press the button to start or keep working on the assignment.
 **Hint:** When you start a new assignment, a score will be automatically created and named in your library
 
 ![Score assignment](/help/assets/img/student-view/score-assignment.png)
@@ -46,10 +46,12 @@ Once the student is done with the assignment he can press turn-in.
 
 ![Turn in default](/help/assets/img/student-view/turn-in-default.png)
 
-Information will be automatically filled, student can leave a comment about their work for the teacher to read when reviewing.
+Information will be automatically filled, the student can leave a comment about their work for the teacher to read when reviewing.
 
 ## Turn in an existing score for an assignment
-As a student, you will receive activities and assignments from your teacher sometime it will be a template to start to start from  sometime you may want to turn-in a score from your library you have already been working on.
+As a student, you will receive activities and assignments from your teacher.
+Some time You will start from a template.
+Some time you may want to turn-in a score from your library.
 
 **Here is a complete breakdown on how to do it:**
 
