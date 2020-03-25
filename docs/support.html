@@ -24,10 +24,17 @@ layout: default
 </div>
 
 <script>
+  var email;
   if (window.location.search.indexOf('utm_medium=ios-app') !== -1) {
+    email = 'ios@flat.io';
+  }
+  else if (window.location.search.indexOf('edu=true') !== -1) {
+    email = 'edu@flat.io';
+  }
+  if (email) {
     Array.from(document.getElementsByClassName('email-support-address')).forEach(function (el) {
-      el.innerText = 'ios@flat.io';
+      el.innerText = email;
     });
-    document.getElementById('email-support-address-link').setAttribute('href', 'mailto:ios@flat.io');
+    document.getElementById('email-support-address-link').setAttribute('href', 'mailto:' + email);
   }
 </script>
