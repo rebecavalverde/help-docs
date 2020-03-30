@@ -147,6 +147,7 @@ On this page, discover the music notations available on our music notation softw
 
 | [![Lyrics](https://prod.flat-cdn.com/img/icons/editorActions/lyric.svg){:.tb}](/help/en/music-notation-software/lyrics.html) | [Lyrics](/help/en/music-notation-software/lyrics.html) |
 | [![Chords](https://prod.flat-cdn.com/img/icons/editorActions/chord.svg){:.tb}](/help/en/music-notation-software/chords.html) | [Chords](/help/en/music-notation-software/chords.html) |
+| [![Roman Numerals](https://prod.flat-cdn.com/img/icons/editorActions/classicChord.svg){:.tb}](/help/en/music-notation-software/roman-numerals.html) | [Roman Numerals](/help/en/music-notation-software/roman-numerals.html) |
 | [![Text annotation](https://prod.flat-cdn.com/img/icons/editorActions/annotation.svg){:.tb}](/help/en/music-notation-software/annotation.html) | [Text annotation / expression](/help/en/music-notation-software/annotation.html) |
 | [![Text styles](https://prod.flat-cdn.com/img/icons/editorActions/textFont.svg){:.tb}](/help/en/music-notation-software/text-styles.html) | [Text styles](/help/en/music-notation-software/text-styles.html) |
 {:.feat.flist}
