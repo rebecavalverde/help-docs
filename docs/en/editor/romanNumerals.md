@@ -1,5 +1,5 @@
 ---
-title: Add roman numeral notaiton
+title: Add roman numeral notation
 description: Select the position you want to bind with a chord, click on the Roman Numeral button, and just type it.
 nav: editor
 pid: romanNumerals
@@ -15,8 +15,8 @@ permalink: en/music-notation-software/roman-numerals.html
 
 ## What is a Roman Numeral Analysis?
 
-Roman numeral analysis is a way to represent chords based on the key signature. The roman numeral is the degree of the key that serve as a root for the chord. 
-For instance if you use the key of C, the first roman numeral **I** will be a **C**. The **II** will be a **D**, the **III** a **E** and so on. 
+Roman numeral analysis is a way to represent chords based on the key signature. The roman numeral is the degree of the key that serves as a root for the chord. 
+For instance if you use the key of C, the first roman numeral **I** will be a **C**. The **II** will be a **D**, the **III** an **E** and so on. 
 
 Here is an image of the complete C major scale, with both notes, jazz and roman numeral notation. 
 
@@ -24,7 +24,7 @@ Here is an image of the complete C major scale, with both notes, jazz and roman 
 
 ## Getting started with Roman Numerals on Flat
 
-To start inputing chords below your music notations, focus the note where you want to start adding your chord, then open the "Text" toolbar and click on the Classi Chord icon or use the keyboard shortcurt Ctrl/Cmd+Shift+K.
+To start inputting chords below your music notations, focus the note where you want to start adding your chord, then open the "Text" toolbar and click on the Classic Chord icon or use the keyboard shortcut Ctrl/Cmd+Shift+K.
 
 A text field will appear at the selected location where you can start writing your roman numerals, a suggestion box will then show up recommending chords related to the input.
 
@@ -90,4 +90,4 @@ Here is a list of the inversions available on Flat, for the first degree (I)
 
 ## Future work
 
-We are working on adding **secondary chords** (V7/V notation), **altered roots** (#VI) and **figured bass** notation. 
+We are working on adding **secondary chords** (V7/V notation), **altered roots** (#VI), and **figured bass** notation. 
