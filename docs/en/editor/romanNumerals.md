@@ -81,6 +81,10 @@ Here is a list of the inversions available on Flat, for the first degree (I)
 | Third inversion   | I42                   |
 {:.feat}
 
+### Secondary Dominants
+
+To input secondary dominants, you need to first input the secondary dominant, add a **/**, then input the target chord. Like **V7/IV**. 
+
 ## Chords Keyboard Shortcuts
 
 | Go to the next chord | <span class="kbs-multi"><span class="kb-container"><span class="kb-container"><span class="kb">⇢</span></span> or <span class="kb-container"><span class="kb">Enter</span></span></span> |
@@ -90,4 +94,4 @@ Here is a list of the inversions available on Flat, for the first degree (I)
 
 ## Future work
 
-We are working on adding **secondary chords** (V7/V notation), **altered roots** (#VI), and **figured bass** notation. 
+We are working on adding **altered roots** (#VI), and **figured bass** notation. 
