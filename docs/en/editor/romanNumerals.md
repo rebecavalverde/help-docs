@@ -78,7 +78,7 @@ Here is a list of the inversions available on Flat, for the first degree (I)
 | No inversion      | I7                    |
 | First inversion   | I65                   |
 | Second inversion  | I43                   |
-| Third inversion   | I2                    |
+| Third inversion   | I42                   |
 {:.feat}
 
 ## Chords Keyboard Shortcuts
