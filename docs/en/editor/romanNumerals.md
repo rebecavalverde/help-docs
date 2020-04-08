@@ -83,6 +83,8 @@ Here is a list of the inversions available on Flat, for the first degree (I)
 
 ### Secondary Dominants
 
+![Secondary dominants](/help/assets/img/editor/secondaryDominant.png)
+
 To input secondary dominants, you need to first input the secondary dominant, add a **/**, then input the target chord. Like **V7/IV**. 
 
 ## Chords Keyboard Shortcuts
