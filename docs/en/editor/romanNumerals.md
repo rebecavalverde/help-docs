@@ -37,7 +37,7 @@ For the sake of simplicity, we are writing those with the first degree (I), but 
 
 ### Triads
 
-| Chord type       | text input on Flat |
+| Chord type       | Text input on Flat |
 |:-----------------|:-------------------|
 | Major triad      | I                  |
 | Minor triad      | i                  |
@@ -47,7 +47,7 @@ For the sake of simplicity, we are writing those with the first degree (I), but 
 
 ### Seventh Chords
 
-| Chord type            | text input on Flat    |
+| Chord type            | Text input on Flat    |
 |:----------------------|:----------------------|
 | Dominant              | I7                    |
 | Major 7th             | Imaj7                 |
@@ -64,7 +64,7 @@ Here is a list of the inversions available on Flat, for the first degree (I)
 
 ### Triad inversions
 
-| Inversion type    | text input on Flat    |
+| Inversion type    | Text input on Flat    |
 |:------------------|:----------------------|
 | No inversion      | I                     |
 | First inversion   | I6                    |
@@ -73,7 +73,7 @@ Here is a list of the inversions available on Flat, for the first degree (I)
 
 ### Seventh Chords Inversions
 
-| Inversion type    | text input on Flat    |
+| Inversion type    | Text input on Flat    |
 |:------------------|:----------------------|
 | No inversion      | I7                    |
 | First inversion   | I65                   |
