@@ -5,7 +5,7 @@ description: FlatとFlat for Educationの推奨動作環境です。
 nav: general
 pid: techreq
 copyright: true
-permalink: ja/general/technical-requirements.html
+permalink: ja/general/推奨動作環境.html
 ---
 
 私達のプロダクトを利用するには、インターネット接続可能なモダンウェブブラウザが必要です。以下より必要かつ推奨ブラウザのバージョンをご確認頂けます。ブラウザプラグインやソフトウェアのインストールは必要ありません。Flatは標準のHTML5テクノロジーのみを使用しています。 
