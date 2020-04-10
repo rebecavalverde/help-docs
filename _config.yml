@@ -5,7 +5,7 @@ email: hello@flat.io
 baseurl: '/help'
 url: 'https://flat.io'
 
-locales: [en, es-es, es-ar, fr]
+locales: [en, es-es, es-ar, fr, ja]
 locale_flags:
   en: https://prod.flat-cdn.com/img/flags/us.png
   es-es: https://prod.flat-cdn.com/img/flags/es.png
