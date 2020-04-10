@@ -5,7 +5,6 @@ node_modules
 vendor
 npm-debug.log
 assets/instantsearch/instantsearch*
-Gemfile.lock
 .DS_Store
 assets/.DS_Store
 assets/img/.DS_Store
