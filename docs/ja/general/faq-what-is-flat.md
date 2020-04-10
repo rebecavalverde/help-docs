@@ -3,7 +3,7 @@ title: Flatとは？
 description: どなたでも利用可能な最高の楽譜作成ソフトウェアのFlatを体験してみましょう。モバイル端末を含むあらゆるブラウザでご利用可能で、簡単操作でどこにいてもスコアを書ける最高のツールです！
 nav: general
 pid: what-flat
-permalink: ja/general/what-is-flat.html
+permalink: ja/general/flatとは.html
 ---
 
 Flatを使えば、ダウンロードやインストール不要で、ブラウザ上から楽譜の作成や編集、再生、印刷、共有、共同作業を簡単に行う事ができます。私達は、特に共同作業や革新的な技術、ユーザビリティ、品質に注力しています。
