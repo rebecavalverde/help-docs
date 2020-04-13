@@ -2,7 +2,7 @@
 title: アカウントを削除するには？
 nav: general
 pid: faq
-permalink: en/general/アカウント削除方法.html
+permalink: ja/general/アカウント削除方法.html
 ---
 **個人版ユーザー**の場合: [個人設定](/account)であなたのアカウントを削除できます。 有料サブスクリプションを購入されている場合は、アカウントを削除する前に、サブスクリプションをキャンセルしておく必要があります。
 
