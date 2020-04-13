@@ -1,47 +1,47 @@
 ---
-title: How do I cancel my Flat trial or subscription?
+title: Flat トライアル版またはサブスクリプションをキャンセルするには？
 nav: general
 pid: faq
-permalink: en/general/cancel-subscriptions-free-trial.html
+permalink: ja/general/サブスクリプション無料トライアルキャンセル方法.html
 ---
 
-To cancel or downgrade your Flat subscription, follow the instructions below.
+Flatのサブスクリプションをキャンセル、ダウングレードするには、以下の説明に従って操作を行ってください。
 
-## How to cancel a Flat Power subscription or trial on the web
+## Flat Powerサブスクリプションやトライアル版をウェブ上でキャンセルする方法
 
-If you **purchased Flat Power on our website** flat.io using a card or PayPal, [you can cancel your subscription in your account](https://flat.io/settings/account/cancel-subscription):
+**ブラウザ版のFlat Powerをご購入**の場合、flat.ioではクレジットカードまたはPayPalをご利用頂けます。[あなたのアカウント上でサブスクリプションをキャンセルする事ができます](https://flat.io/settings/account/cancel-subscription):
 
-* Sign in to flat.io.
-* Click your profile picture in the upper right corner.
-* Click **Account settings**.
-* On the left menu, choose **Billing**
-* Click **Would you like to cancel your subscription?**.
-* Choose the reason and click on **Continue**
-* That's it, your subscription has been canceled and won't renew at the end of the billing cycle.
+* flat.io にサインインします。
+* 画面右上のプロフィールアイコンをクリックします。
+* **マイアカウント**をクリックします。
+* 左メニューの**お支払い**を選択します。
+* **あなたのサブスクリプションをキャンセルしますか？**をクリックします。
+* 理由を選択して**続ける**をクリックします。
+* 以上の操作で、あなたのサブスクリプションはキャンセルされ、支払い期間が終了しても更新される事はありません。
 
-If you **purchased Flat for Education**, your licenses don't automatically renew, all the licenses are manually renewed.
+**Flat for Educationをご購入の場合**、ライセンスは自動的に更新されません。全てのライセンスは手動で更新されます。
 
-If you **got a free trial via our website flat.io**, it will automatically cancel if you don't upgrade, and your account will be back on the free plan.
+**私達のウェブサイト flat.io 経由で無料トライアル版をご利用**の場合、アップグレードしなければ自動的にキャンセルされ、あなたのアカウントは無料版に戻ります。
 
-## How to cancel a Flat subscription or trial on an iPhone or iPad
+## iPhone または iPadでFlatトライアル版やサブスクリプションをキャンセルする方法
 
-If you purchased Flat from your iPhone, iPad using our iOS app, you can cancel your Flat subscription or free trial by following these steps:
+iOSアプリを使用してあなたのiPhone,、iPadからFlatを購入頂いた場合は、以下の手順で無料トライアルまたはFlatサブスクリプションをキャンセルする事ができます:
 
-* On your iPhone or iPad, tap **Settings**.
-* Tap your name.
-* Tap **iTunes & App Store**.
-* Tap **your Apple ID** at the top of the screen, then tap **View Apple ID**.
-* Tap **Subscriptions** (about midway through the screen).
-* Tap **Flat**.
-* Tap **Cancel Subscription** or **Cancel Trial**.
-* Tap **Confirm**.
-* Your account will downgrade to Flat Free at the end of your billing cycle. 
+* あなたのiPhone または iPad上で、**設定**をタップします。
+* あなたの名前をタップします。
+* **iTunesとApp Store**をタップします。
+* スクリーン上部の**あなたのApple ID**をタップし、**Apple IDを表示**をタップします。
+* **サブスクリプション**(スクリーン中段に位置)をタップします。
+* **Flat**をタップします。
+* **サブスクリプションをキャンセルする** または **トライアルをキャンセルする**をタップします。
+* **確認する**をタップします。
+* あなたのアカウントはご利用期限を過ぎるとFlat 無料版にダウングレードされます。
 
-[Learn more about canceling your subscription on Apple's help center.](https://support.apple.com/en-us/HT202039)
+[詳しくはAppleのヘルプセンターで掲載されているキャンセル方法についてをご覧ください。](https://support.apple.com/ja-jp/HT202039)
 
-## What happens when I cancel my Flat subscription or trial?
+## トライアルやFlatサブスクリプションをキャンセルした後はどうなりますか？
 
-If you cancel your Flat subscription or trial or your subscription expires, your account will downgrade to a free account at the end of your billing cycle or trial. Additionally:
+Flatサブスクリプションやトライアルをキャンセルした場合、またはサブスクリプションが期限切れとなった場合は、あなたのアカウントはご利用期限、またはトライアル期限終了後に無料アカウントにダウングレードされます。 更に:
 
-* You'll still have access to the last 15 modified scores (the quota for free accounts)
-* If you're over your downgraded storage quota, older scores will be archived and can be edited if you upgrade your account again. No worries, we never remove your files unless requested
+* 最新の15件の編集スコア(無料アカウントの制限分)にアクセスする事ができます。
+* スコアが既に制限数以上保存されている場合は、あなたのアカウントを再度アップグレードする事で、更に古いスコアも編集する事ができるようになります。リクエストが無い限りあなたのファイルを削除する事はございませんのでご安心ください。
