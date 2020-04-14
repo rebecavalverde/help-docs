@@ -46,4 +46,3 @@ To remove accelerandos and ritardandos, you can either click on the accel/rit bu
 ## Implementation notes
 
 Please note that accelerandos and ritardandos aren't supported by the playback engine yet.
-We expect to release an implementation in 2019.
