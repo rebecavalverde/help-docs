@@ -13,13 +13,13 @@ Flatに関するご質問はこちらのFAQをご覧ください。良くある�
 ### 一般
 
 * [Flatとは？](/help/ja/general/flatとは.html)
-* [How to contact the Flat team?](/help/en/general/support.html#need-help-with-flat)
+* [Flatチームへのお問合せ](/help/ja/general/サポート.html)
 * [どのブラウザがサポート対象ですか？](/help/ja/general/推奨動作環境.html)
 * [Do you have a mobile app?](/help/en/general/mobile-app.html)
 * [What is the difference between an individual and an education account?](/help/en/education/difference-individual-education.html)
 * [If I don't know anything in music, how can I use Flat?](/help/en/general/music-theory.html)
 * [Why did Flat's website fail to load for me?](/help/en/general/why-did-flat-website-fail-to-load-for-me.html)
-* [How to recover my account password?](/help/en/general/recover-my-account-password.html)
+* [アカウントのパスワードを復旧する方法は？](/help/ja/general/アカウントパスワードリカバリ.html)
 * [My school deleted my Google/Microsoft account, how to recover my Flat account?](/help/en/general/recover-my-flat-account-because-school-deleted-my-google-microsoft-account.html)
 * [How do I delete my account?](/help/en/general/delete-my-account.html)
 {:.faqul}
