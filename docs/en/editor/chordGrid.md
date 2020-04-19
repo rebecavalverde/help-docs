@@ -6,8 +6,7 @@ pid: chordsGrids
 permalink: en/music-notation-software/chord-grids.html
 ---
 
-Chord grids/frames are a way of describing how to play a chord, by showing which strings are played, and 
-which frets are pressed. 
+Chord grids (also known as chords diagram or chords frames) are a way of describing how to play a chord, by showing which strings are played, and which frets are pressed.
 
 ## How to work with chord grids on Flat
 
