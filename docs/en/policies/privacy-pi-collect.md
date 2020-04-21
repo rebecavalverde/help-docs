@@ -114,26 +114,26 @@ cssPage: large pi-collect
         If you requested to remove your account, up to 90 days after the removal of your account
       </td>
     </tr>
-    <!-- Information provided by social networks you connect to our Service -->
+    <!-- Information provided by third-party accounts you connect to our Service -->
     <tr>
       <td rowspan="3">
-        <strong>Information provided by social networks you connect to our Service</strong>.<br><br>
-        If you are a Flat Individual user, and if you connect a social network, such as Facebook or Google+, to our Service we will collect personal information from the social network in accordance with your privacy settings on that social network. The connected social network may provide us with information such as your name, Facebook ID or Google ID, profile picture, network, gender, username, user ID, age or age range, language, country, friends list, follower list and any other information you have agreed it can share or that the social network provides to us.
+        <strong>Information provided by third-party accounts you connect to our Service</strong>.<br><br>
+        If you are a <strong>Flat Individual user</strong>, and if you connect a third-party account, such as Google, Facebook or Apple, to our Service we will collect personal information from the third-party service in accordance with your privacy settings on that service. The connected service may provide us with information such as your name, Facebook ID or Google ID, Apple ID, profile picture, network, gender, username, user ID, age or age range, language, country, friends list, follower list and any other information you have agreed it can share or that the social network provides to us.
         <br><br>
-        If you are a Flat Education user, you can also sign up to Flat through Google Apps for Education.
+        If you are a <strong>Flat Education user</strong>, you can also sign up to our Service through G Suite for Education (Google), Microsoft Office 365, Clever, Edmodo, Canvas, Schoology or your own Learning Management System (LMS).
         <br><br>
-        The data we receive is dependent on your privacy settings with the social network.
+        The data we receive is dependent on your privacy settings with the third-party service.
       </td>
-      <td>We may use the information provided to help create a profile for you on our Service.</td>
+      <td>We may use the information provided to help create an account for you on our Service.</td>
       <td>The processing is necessary for the performance of a contract and to take steps prior to entering into a contract.</td>
       <td rowspan="3">Up to 90 days after the removal of your account</td>
     </tr>
     <tr>
-      <td>We may use the information provided to assist you in sharing your experiences on our Service with your friends, followers on the connected social network, including posting to your public profile.</td>
+      <td>If you are a <strong>Flat Individual user</strong>, we may use the information provided to assist you in sharing your experiences on our Service with your friends, followers on the connected social network, including posting to your public profile.</td>
       <td>We will only use your personal information in this way to the extent you have given us your consent to do so.</td>
     </tr>
     <tr>
-      <td>We may use the information provided to send you updates on the social network that are relevant to your account or in connection with a promotion you are taking part in.</td>
+      <td>If you are a <strong>Flat Individual user</strong>, we may use the information provided to send you updates on the social network that are relevant to your account or in connection with a promotion you are taking part in.</td>
       <td>We will only use your personal information in this way to the extent you have given us your consent to do so.</td>
     </tr>
     <!-- Preferences -->
