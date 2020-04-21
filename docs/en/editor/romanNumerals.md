@@ -81,6 +81,14 @@ Here is a list of the inversions available on Flat, for the first degree (I)
 | Third inversion   | I42                   |
 {:.feat}
 
+### Special Chords
+
+| Chord type        | Text input on Flat  |
+|:------------------|:--------------------|
+| Neapolitan        | N                   |
+| Neapolitan sixth  | N6                  |
+{:.feat}
+
 ### Secondary Dominants
 
 ![Secondary dominants](/help/assets/img/editor/secondaryDominant.png)
@@ -96,4 +104,4 @@ To input secondary dominants, you need to first input the secondary dominant, ad
 
 ## Future work
 
-We are working on adding **altered roots** (#VI), and **figured bass** notation. 
+We are working on adding **altered roots** (#VI), **Augmented 6th** (It/Fr/Ger+6), and **figured bass** notation. 
