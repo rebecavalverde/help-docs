@@ -89,6 +89,12 @@ Here is a list of the inversions available on Flat, for the first degree (I)
 | Neapolitan sixth  | N6                  |
 {:.feat}
 
+#### Neapolitan
+
+Neapolitan chords are built from a major triad, whose root note is the lowered second degree of the scale. 
+![Neapolitan Chords](/help/assets/img/editor/neapolitanChord.png)
+In this example, we are in the key of C. Thus the root note of the major triad is a D flat. 
+
 ### Secondary Dominants
 
 ![Secondary dominants](/help/assets/img/editor/secondaryDominant.png)
