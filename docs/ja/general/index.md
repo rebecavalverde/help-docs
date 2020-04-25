@@ -26,13 +26,13 @@ Flatに関するご質問はこちらのFAQをご覧ください。良くある�
 
 ### お支払いとご請求
 
-* [Which Flat subscription is the best for me?](/help/en/general/which-flat-subscrption-is-the-best-for-me.html)
-* [How do I update my billing information?](/help/en/general/update-billing-information.html)
-* [How do I find a billing receipt or invoice?](/help/en/general/billing-receipt-invoice.html)
-* [Can I purchase Flat using a Wire Transfer, Purchase Order, Check or Paypal?](/help/en/general/payment-means-available.html)
-* [How do I cancel my Flat trial or subscription?](/help/en/general/cancel-subscriptions-free-trial.html)
-* [What happens when I cancel my Flat subscription or trial?](/help/en/general/cancel-subscriptions-free-trial.html#what-happens-when-i-cancel-my-flat-subscription-or-trial)
-* [Can I get a refund on a Flat subscription?](/help/en/general/refunds.html)
+* [私にぴったりのFlatサブスクリプションはどれですか？](/help/ja/general/which-flat-subscrption-is-the-best-for-me.html)
+* [お支払い情報を更新するには？](/help/ja/general/update-billing-information.html)
+* [請求書や支払い受領書はどこで確認できますか？](/help/ja/general/billing-receipt-invoice.html)
+* [銀行振込や発注書、小切手、Paypalを使って購入できますか？](/help/ja/general/payment-means-available.html)
+* [トライアル版またはサブスクリプションをキャンセルするには？](/help/ja/general/サブスクリプション無料トライアルキャンセル方法.html)
+* [トライアルやFlatサブスクリプションをキャンセルした後はどうなりますか？](/help/ja/general/サブスクリプション無料トライアルキャンセル方法.html#トライアルやflatサブスクリプションをキャンセルした後はどうなりますか)
+* [Flatのサブスクリプションの返金対応について](/help/ja/general/refunds.html)
 {:.faqul}
 
 ## 更にヘルプが必要ですか？
