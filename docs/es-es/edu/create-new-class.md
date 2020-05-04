@@ -14,11 +14,11 @@ Para crear una nueva classe con Flat, [crear una cuenta gratis de EDU sobre nues
 
 Una vez que se hayáis conectado en Flat, hagáis clic en la pestaña "Clases" arriba a la izquierda de vuestra pantalla en cualquier pagina del tablero.
 
-![pestaña clases](/help/assets/img/createaclass/classestab.PNG)
+![pestaña clases](/help/assets/img/edu/classes-tab.png)
 
 Después, hagáis clic en **"Crear una nueva clase"** en el centro de la pantalla.
 
-![crear una nueva clase](/help/assets/img/createaclass/createanewclass.PNG)
+![crear una nueva clase](/help/assets/img/edu/create-class.png)
 
 ### Cuál es el propósito de una clase ?
 
@@ -31,7 +31,7 @@ Ahora, teneis un nueva página que se abrió, dónde podéis crear y gestionar v
   * **Crear vuestra clase en Flat**
   * **[Utilizar Google Classroom](/help/en/education/google-classroom/setup-course.html)**
 
-![Elegir un nombre para vuestra clase](/help/assets/img/createaclass/chooseanameforyournewclass.PNG)
+![Elegir un nombre para vuestra clase](/help/assets/img/edu/create-class-landing.png)
 
 
 Si utiliza el usuario de Google Classromm, [podéis seguir este tutoríal dedicado para eso](/help/en/education/google-classroom/setup-course.html).
@@ -41,7 +41,7 @@ Si utiliza el usuario de Google Classromm, [podéis seguir este tutoríal dedica
 
 Una vez que hayáis validado el nombre de vuestra clase, podráis invitar o agregar alumnos en ella.
 
-![Invitar a vuestros alumnos](/help/assets/img/createaclass/addstudents.png)
+![Invitar a vuestros alumnos](/help/assets/img/edu/class-add-people-manual.png)
 
 Habíamos escrito un articulo dedicado a [todo lo que necesita saber sobre vuestras diferentes opciones para invitar alumnos a vuestra sala de clase, esta disponible ahí](/help/es-es/education/agrega-alumnos.html).
 

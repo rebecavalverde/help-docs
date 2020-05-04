@@ -14,11 +14,11 @@ Avant de pourvoir créer votre première classe sur Flat for Education, vous dev
 
 Une fois que vous êtes connecté sur Flat, cliquez sur le bouton **Classes** situé sur la partie gauche de votre dashboard.
 
-![classes tab](/help/assets/img/createaclass/classestab.PNG)
+![classes tab](/help/assets/img/edu/classes-tab.png)
 
 Cliquez sur le boutton, **Créer une nouvelle classe** au centre de votre écran.
 
-![create a new class](/help/assets/img/createaclass/createanewclass.PNG)
+![create a new class](/help/assets/img/edu/create-class.png)
 
 ### Quelle est le but d'une classe sur la plateforme?
 
@@ -30,7 +30,7 @@ Vous êtes maintenant dans le processus de création de votre nouvelle classe. V
   * **la créer directement sur Flat for Education**
   * **[Utiliser Google Classroom](/help/en/education/google-classroom/setup-course.html)**
 
-![choose a name for your new class](/help/assets/img/createaclass/chooseanameforyournewclass.PNG)
+![choose a name for your new class](/help/assets/img/edu/create-class-landing.png)
 
 si vous etes un utilisateur de Google Classroom, [vous pouvez suivre cette section dédiée](/help/en/education/google-classroom/setup-course.html).
 
@@ -38,7 +38,7 @@ si vous etes un utilisateur de Google Classroom, [vous pouvez suivre cette secti
 
 une fois votre classe nommée, vous pourrez inviter des etudiants à la rejoindre.
 
-![Invite students](/help/assets/img/createaclass/addstudents.png)
+![Invite students](/help/assets/img/edu/class-add-people-manual.png)
 
 Si vous souhaitez les inviter plus tard, nous avons rediger une section dédié a [l'invitation et l'organisation des etudiants dans des classes existantes](/help/fr/education/inviter-des-etudiants.html).
 

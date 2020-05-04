@@ -18,11 +18,11 @@ In a couple of clicks, you will have your first group ready, and be able to crea
 
 Once you are [logged in Flat](https://flat.io/edu), click on the **tab "Classes"** on the top left of your screen on any dashboard page.
 
-![classes tab](/help/assets/img/createaclass/classestab.PNG)
+![classes tab](/help/assets/img/edu/classes-tab.png)
 
 Then, click on the button **"Create a new class"** in the center of your screen.
 
-![create a new class](/help/assets/img/createaclass/createanewclass.PNG)
+![create a new class](/help/assets/img/edu/create-class.png)
 
 ## 2. Choose "Create using Google Classroom."
 
