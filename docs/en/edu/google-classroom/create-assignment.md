@@ -15,7 +15,7 @@ When creating an assignment on Flat, **this one will be automatically posted to 
 
 This assignment feature is also a great way to onboard your students on Flat: from their Google Classroom stream, they will have access to their activity on Flat in 1-click.
 
-![Music composition assignment on Google Classroom](/help/assets/img/edu/gc-stream-student.png?0)
+![Music composition assignment on Google Classroom](/help/assets/img/edu/gc-stream-student.png)
 
 ## Creating an assignment
 
@@ -23,11 +23,11 @@ There are two ways to create a Google Classroom assignment on Flat:
 
 * From your class on Flat by clicking on "*Create an assignment*":
 
-![Create an assignment from the Class on Flat](/help/assets/img/edu/gc-class-new-assignment.png?0)
+![Create an assignment from the Class on Flat](/help/assets/img/edu/gc-class-new-assignment.png)
 
 * From any music score on Flat by clicking on "*Create an assignment*" next to the title. This will let you choose the [sharing mode of the score](#assignments-mode) of the score.
 
-![Create an assignment from a score on Flat](/help/assets/img/edu/gc-score-new-assignment.png?0)
+![Create an assignment from a score on Flat](/help/assets/img/edu/gc-score-new-assignment.png)
 
 ## Assignment mode
 
@@ -37,7 +37,7 @@ Just like a regular Google Docs, Flat gives you multiple different options when 
 * **Shared writing** (= "Students can write"): Your students will all have a write access to your score. This is a great way to create a live collaboration with your whole class. If you want to organize smaller collaborations (e.g. 2 or 3 students), we advise you to ask one student from each group to create a new document/copy the original score, then add their peers by clicking on "*Collaborate*".
 * **Template** (= "Make a copy for each student"): When your students will open the assignment from their Google Classroom stream, Flat will automatically copy the score and attach it to their submission.
 
-![Create an assignment Flat](/help/assets/img/edu/editor-new-assignment.png?0)
+![Create an assignment Flat](/help/assets/img/edu/class-new-assignment-pick-type.png)
 
 ## Assignment content and description
 
@@ -51,7 +51,7 @@ When you create or update an assignment, you will have the opportunity to comple
 
 Once you click on "*Post*", your assignment will be available in your Google Classroom stream. You will also have a direct link on Flat to open and preview the assignment on Classroom:
 
-![Flat assignment example](/help/assets/img/edu/stream-assignment-gc.png?0)
+![Flat assignment example](/help/assets/img/edu/stream-assignment-gc.png)
 
 ⚠️ Due to a limitation of Google Classroom, Flat cannot modify the attachments of the assignments once they are posted. Please carefully check that you selected the correct score(s) and the [correct assignment mode](#assignment-mode). If you made a mistake with the attachments, delete and re-create your assignment on Flat.
 
