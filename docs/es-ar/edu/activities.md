@@ -8,7 +8,7 @@ permalink: es-ar/education/tareas-y-actividades.html
 
 Hay diferentes tipos de actividades y tareas que puede crear en Flat para Education. Para crear el primero, tiene que estar seguro que ya [ha creado su primera clase](/help/es-ar/education/crear-una-nueva-clase.html).
 
-![Stream vista](/help/assets/img/activities/stream.png)
+![Stream vista](/help/assets/img/edu/class-tab-assignments.png)
 
 Puede abrir la lista de todas las tareas haciendo clic en el botón izquierdo.
 Puede empezar creando una nueva tarea haciendo clic en el botón derecho.
@@ -17,7 +17,7 @@ Puede empezar creando una nueva tarea haciendo clic en el botón derecho.
 
 Hay 4 diferentes tipos de tareas o actividades que puede crear:
 
-![Stream view](/help/assets/img/activities/assignmentstype.png)
+![Stream view](/help/assets/img/edu/class-new-assignment-pick-type.png)
 
 ### Nueva partitura
 
@@ -50,7 +50,7 @@ Todos los alumnos van a recibir un copia de la partitura que comenzaron. Puede i
 
 ### Principal información sobre la tarea
 
-![Tarea información](/help/assets/img/activities/assignment-title.png)
+![Tarea información](/help/assets/img/edu/class-new-assignment-instructions.png)
 
 Podrá escribir un nombre y una descripción. Esta información será accessible desde la tarea del alumno en cualquier momento mientras trabajen sobre la partitura.
 

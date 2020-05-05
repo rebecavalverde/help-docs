@@ -1,99 +1,92 @@
 ---
-title: Assignments and Activities
+title: Create assignments and activities
 description: We will go through the different kind of activities you can achieve on Flat for Education with your students
 nav: edu
 pid: activities
 permalink: en/education/assignments-activities.html
+nexttext: Review students' work
+nexturl: en/education/review-assignments-activities.html
 ---
 
 They are different kinds of activities and assignments you can create in Flat for Education. In order to create your first one, you have to make sure that you already [created your first class](/help/en/education/create-new-class.html).
 
-![Stream view](/help/assets/img/activities/stream.png)
+![Class tab: Assignments](/help/assets/img/edu/class-tab-assignments.png)
 
-You can open a list of all your existing assignments by clicking on the left icon.
-You can start creating a new assignment by pressing the other button on the right.
+You can open all your existing assignments and create new ones by opening the "**Assignments**" tab in your class.
 
-## 1. Pick your assignment type
+## Creating a new assignment
 
-There are 4 different kinds of assignment or activities that you can create:
+Click on the "**New Assignment**" button to get started and create your first assignment.
 
-![Stream view](/help/assets/img/activities/assignmentstype.png)
+![New assignment](/help/assets/img/edu/class-new-assignment-btn.png)
 
-### New score
+### 1. Name your assignment
 
-Your students will have to create a new score, work on it following your guidelines and submit it back to you.
+Start by naming your assignment. This assignment name will be displayed every time Flat for Education will refer to this assignment.
 
-### Read
+![Choose an assignment name](/help/assets/img/edu/class-new-assignment-name.png)
 
-This mode is meant to share a score that is part of your own library without the students being able to edit / alter it.
+### 2. Pick your assignment type
 
-### Write
+There are 3 different kinds of assignment or activities that you can create:
+
+![Stream view](/help/assets/img/edu/class-new-assignment-pick-type.png)
+
+#### New score
+
+Your students will have to create a new score, work on it following your instructions, and submit it back to you.
+
+#### Template
+
+Each of your students will get a copy of one of your scores to start from. You can imagine many different activities around that:
+
+* Find the mistakes
+* Complete the intervals/chords
+* Write a missing part
+* Finish the composition
+* ... The possibilities are endless.
+
+Once your students are done, they can submit their work in 1-click from the editor.
+
+#### Shared writing
 
 If you want to create a group activity with all the students working on the same piece in real-time.
 
-⚠️ We advise keeping the number of students on the same group activity below 15.
+While we don't have a limit on the number of participants, we advise keeping the number of students on the same group activity below 15.
 
-💡 We are currently working on a group picker to quickly create smaller workgroup within the same class :)
+### Choose the score(s)
 
-### Template
+If you choose "**Template**" or "**Shared writing**", you will need to select one or multiple scores that will be used for your assignment.
 
-All the students will get a copy of one of your score to start from. You can imagine many different activities around that:
+Click on "**Select score**" and choose a score you have in your Flat for Education account, either [created using our editor](/help/en/music-notation-software/create-your-first-music-score.html) or [imported in your account](/help/en/music-notation-software/import.html).
 
-* find the mistake
-* complete the interval
-* finish the composition
-* ...
+Once one score is selected, this one will be displayed like that:
 
-💡 We are currently working on a whole new range of exercises to avoid you manually creating basic exercises.
+![Selected score for an assignment](/help/assets/img/edu/class-new-assignment-picked-score.png)
 
-## 2. Setup the assignment
+### 3. Add instructions
 
-### Assignment main information
+You can then add instructions to your new assignment. They can either be some text you directly add to your assignment, or as an attached file or link. You can attach all the resources you need: documents, presentations, videos, audio files, read-only scores, etc.
 
-![Assignment information](/help/assets/img/activities/assignment-title.png)
+![Add instructions](/help/assets/img/edu/class-new-assignment-instructions.png)
 
-You will be able to write a name and a description. This information will be accessible from the student assignment at any time while they work on a score.
+### 4. Extra options
 
-### Pick the score
+Finally, you can add some extra options to your assignment:
 
-![Pick the score](/help/assets/img/activities/pickscore.png)
+![Assignment extra options](/help/assets/img/edu/class-new-assignment-extras.png)
 
-You will able to browse your scores and pick one of them. You should notice that a list is displayed on the right of the score name. This one is directly related to the type of assignment you want to create:
+You can set a **due date** for your assignment to turn in their work.
 
-* Students can read -> **Read**
-* Students can write -> **Write**
-* Students will get a copy -> **Template**
-* No score selected -> **New score**
+💡 Students will be still able to submit after the due date but they will be flagged as turned in late.
 
-![Pick the score - Tips](/help/assets/img/activities/pickscore-tips.png)
-
-### Due and post dates
-
-![Pick the score - Tips](/help/assets/img/activities/post-due-dates.png)
-
-You can fix a **due date** for your assignment to turn in their work.
-
-💡 Students will be still able to submit after the due date but they will be flagged as late submissions.
-
-You can also work your assignment when you have free time and **set a date** when they will become available to the classroom.
+You can also create your assignment in advance and **set a publication date** when the assignment will become available to the classroom.
 
 ### Post your assignment
 
-Now that your assignment is ready you can post it. Here is what student will see from their stream:
+Now that your assignment is ready you can post it. If you want to see how your students will experience Flat for Education, [check out our dedicated article](/help/en/education/student-view.html).
 
-![student stream](/help/assets/img/activities/stream-student.png)
+### Reviews and follow up
 
-Once they click on it they will be prompted your instructions to follow:
+Now that your assignment is available to your students you can follow their progress. Check [out our dedicated article to learn more about how to review and give feedback to your students](/help/en/education/review-assignments-activities.html).
 
-![assignment instructions](/help/assets/img/activities/assignment-description.png)
-
-## 3. Follow up
-
-Now that your assignment is available to your students you can track their progress.
-
-![Assignment tracking](/help/assets/img/activities/assignment-tracking.png)
-
-The students that appears in the red squared section are those who already started to work on it.
-Once they submit something, you will receive a notification.
-
-*Soon a section about the follow up and grading will be available*.

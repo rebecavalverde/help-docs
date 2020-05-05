@@ -8,7 +8,7 @@ permalink: fr/education/devoirs-et-activites.html
 
 Flat for Education dispose de différents types d'activités que vous pouvez créer. Avant de creer des activités, assurez vous d'avoir [créé votre première classe](/help/fr/education/creer-une-classe.html).
 
-![Stream view](/help/assets/img/activities/stream.png)
+![Stream view](/help/assets/img/edu/class-tab-assignments.png)
 
 En cliquant sur le bouton de gauche, vous pouvez acceder à la liste de toutes les activités en cours.
 En cliquant sur le bouton de droite, vous pourrez commencer à créer une nouvelle activité.
@@ -17,7 +17,7 @@ En cliquant sur le bouton de droite, vous pourrez commencer à créer une nouvel
 
 Vous pouvez créer des activités de 4 types differents:
 
-![Stream view](/help/assets/img/activities/assignmentstype.png)
+![Stream view](/help/assets/img/edu/class-new-assignment-pick-type.png)
 
 ### Nouvelle partition
 
@@ -50,7 +50,7 @@ Tous vos étudiants recevrons une copie de la partition sur laquelle ils pourron
 
 ### Informations principales
 
-![Assignment information](/help/assets/img/activities/assignment-title.png)
+![Assignment information](/help/assets/img/edu/class-new-assignment-instructions.png)
 
 Vous pouvez renseigner un nom et une description qui seront accessible n'importe quand par etudiants.
 
