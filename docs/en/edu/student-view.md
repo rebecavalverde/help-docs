@@ -48,20 +48,20 @@ The information will be automatically added; the student can leave a comment abo
 
 ## Turn in an existing score for an assignment
 
-As a student, you will receive activities and assignments from your teacher.
-Sometimes you will start from a template, but sometimes you may want to send an existing score from your library.
+Most of the time a student will start an assignment with a new score or a template you shared with them.
+In some cases, they might need to send a score they already have in their account, or an extra score.
 Here is a complete breakdown of how to do it.
 
-First, open your Flat account, choose the class then the assignment as shown above.
-Once you arrive on the assignment page, you will see the "**Your work**" section on the right side of the page or below the instructions:
+First, they need to open their Flat account, choose the class then the assignment as shown above.
+Once they arrive on the assignment page, they will see the "**Your work**" section on the right side of the page or below the instructions.
 
 ![Your work](/help/assets/img/edu/class-student-your-work-template-default.png)
 
-Click on "**Add an existing score**" and choose your score from your library.
+They can click on "**Add an existing score**" and choose your score from their library.
 
 ![Started assignment](/help/assets/img/edu/class-student-your-work-template-started.png)
 
-Click on "**Turn in**" to send your work. That's all! The teacher that created the assignment will receive a notification and will be able to review your work.
+Then click on "**Turn in**" to send their work. That's all! You will receive a notification and will be able to review their work.
 
 ![Turned in assignment](/help/assets/img/edu/class-student-your-work-template-turned-in.png)
 
