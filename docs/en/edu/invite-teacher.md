@@ -33,6 +33,6 @@ If you previously synchronized a third-party app or LMS and you want to manually
 
 Now that you know the difference between the two roles you can invite another person with the right role:
 
-![Invite admins and teachers](/help/assets/img/edu/edu-admin-invite-teachers.png)
+![Invite admins and teachers](/help/assets/img/edu/people-invite-teachers.png)
 
 Please make sure they can receive emails from outside of your school domains, otherwise you can copy the invitation link and send then directly.

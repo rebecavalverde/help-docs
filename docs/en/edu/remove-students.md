@@ -10,27 +10,25 @@ When comes the end of the semester or the year you might want to remove old stud
 
 **A removed account cannot be restored, please be careful and make sure your students already saved all their work locally.**
 
-## Go to your school organization settings
+## 1. Open the People page
 
-![organization settings](/help/assets/img/remove-students/account-settings.png)
+All the accounts from your Flat for Education can be managed in the "**People**" page.
 
-## Access the student management view
+![People page](/help/assets/img/edu/people-tab.png)
 
-![Student management](/help/assets/img/remove-students/students-section.png)
+## 2. Select student accounts to remove
 
-## Select student accounts to remove
+From this view, you will be able to select accounts to make bulk actions on them.
 
-From this view, you will be able to select students accounts in order to achieve bulk actions on them.
+![Bulk selection of accounts](/help/assets/img/edu/people-select-bulk.png)
 
-![bulk selection](/help/assets/img/remove-students/bulk-selection.png)
-
-Once you have selected the students that you want to remove you can click on the red button in the upper side of your screen.
+Once you have selected the accounts that you want to remove you can click on "**Delete accounts**" at the bottom of your screen.
 
 ## Convert or remove the account
 
 You will be prompted a message with two options:
 
-![modal](/help/assets/img/remove-students/remove-accounts-modal.png)
+![Remove accounts](/help/assets/img/edu/people-delete-bulk-dialog.png)
 
 * Convert the selected accounts into individual ones. You can do that only if your students are older than the legal age in your country. If you have any doubts please check our [dedicated page](/help/en/policies/required-age.html).
 * Remove them and all relative data from our platform.
