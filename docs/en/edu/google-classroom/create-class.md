@@ -16,33 +16,32 @@ In a couple of clicks, you will have your first group ready, and be able to crea
 
 ## 1. Open the tab "Classes."
 
-Once you are [logged in Flat](https://flat.io/edu), click on the **tab "Classes"** on the top left of your screen on any dashboard page.
+Once you are [logged in Flat](https://flat.io/edu), click on the **tab "Classes"** on the left of your screen on any dashboard page.
 
-![classes tab](/help/assets/img/createaclass/classestab.PNG)
+![Classes tab](/help/assets/img/edu/classes-tab.png)
 
 Then, click on the button **"Create a new class"** in the center of your screen.
 
-![create a new class](/help/assets/img/createaclass/createanewclass.PNG)
+![Create a new class](/help/assets/img/edu/create-class.png)
 
 ## 2. Choose "Create using Google Classroom."
 
-You don't need to enter a class name. Click on the button **"Create using Google Classroom."**
+You don't need to enter a class name. Click on the button **"Using Google Classroom"**.
 
-![create using Google Classroom](/help/assets/img/create-a-class-with-gc/create1.PNG)
+![Create using Google Classroom](/help/assets/img/edu/create-class-landing.png)
 
 ## 3. Connect your G Suite for Education Account
 
 If you didn't authorize Flat to access to your Google Classroom courses before, you will be prompted to do so.
 
+## 4. Select one or multiple courses from your Google Classroom account
 
-## 4. Select a course from your Google Classroom
+Once you have connected your Google Classroom account with Flat, you will see your courses. **Select the ones to create and sync on Flat**.
 
-Once you have connected your Google Classroom account with Flat, you will see your courses. **Select one to create your new class on Flat**.
+![Select courses to sync on from google classroom](/help/assets/img/edu/create-class-gc-list.png)
 
-![select a course on from google classroom](/help/assets/img/create-a-class-with-gc/create2.PNG)
-
-Click on the button in the bottom right-hand corner to validate.
+Click on the button in the bottom right-hand corner to confirm.
 
 ## 5. That's all!
 
-Your class is created and synchronized with Google Classroom! You are now all set to create your first assignment, share a music score and enjoy Flat with your students.
+Your classes are synchronized with Google Classroom! You are now all set to create your first assignment, share a music score and enjoy Flat with your students.
