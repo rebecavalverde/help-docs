@@ -4,7 +4,7 @@ description: We will go through the different kind of activities you can achieve
 nav: edu
 pid: activities
 permalink: en/education/assignments-activities.html
-nexttext: Review students' work
+nexttext: Review students' work and give feedback
 nexturl: en/education/review-assignments-activities.html
 ---
 
