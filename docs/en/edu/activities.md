@@ -8,7 +8,7 @@ nexttext: Review students' work and give feedback
 nexturl: en/education/review-assignments-activities.html
 ---
 
-They are different kinds of activities and assignments you can create in Flat for Education. In order to create your first one, you have to make sure that you already [created your first class](/help/en/education/create-new-class.html).
+They are various kinds of activities and assignments you can create in Flat for Education. To create your first one, you must make sure that you already [created your first class](/help/en/education/create-new-class.html).
 
 ![Class tab: Assignments](/help/assets/img/edu/class-tab-assignments.png)
 
@@ -28,13 +28,13 @@ Start by naming your assignment. This assignment name will be displayed every ti
 
 ### 2. Pick your assignment type
 
-There are 3 different kinds of assignment or activities that you can create:
+There are 3 kinds of assignment or activities that you can create:
 
 ![Stream view](/help/assets/img/edu/class-new-assignment-pick-type.png)
 
 #### New score
 
-Your students will have to create a new score, work on it following your instructions, and submit it back to you.
+Your students will have to create a new score, work on it following your instructions, and send it back to you.
 
 #### Template
 
@@ -46,13 +46,13 @@ Each of your students will get a copy of one of your scores to start from. You c
 * Finish the composition
 * ... The possibilities are endless.
 
-Once your students are done, they can submit their work in 1-click from the editor.
+Once your students are done, they can send their work in 1-click from the editor.
 
 #### Shared writing
 
 If you want to create a group activity with all the students working on the same piece in real-time.
 
-While we don't have a limit on the number of participants, we advise keeping the number of students on the same group activity below 15.
+While we don't have a limit on the number of participants, we recommend keeping the number of students on the same group activity below 15.
 
 ### Choose the score(s)
 
@@ -60,7 +60,7 @@ If you choose "**Template**" or "**Shared writing**", you will need to select on
 
 Click on "**Select score**" and choose a score you have in your Flat for Education account, either [created using our editor](/help/en/music-notation-software/create-your-first-music-score.html) or [imported in your account](/help/en/music-notation-software/import.html).
 
-Once one score is selected, this one will be displayed like that:
+Once a score is chosen, this one will be displayed like that:
 
 ![Selected score for an assignment](/help/assets/img/edu/class-new-assignment-picked-score.png)
 
@@ -78,7 +78,7 @@ Finally, you can add some extra options to your assignment:
 
 You can set a **due date** for your assignment to turn in their work.
 
-💡 Students will be still able to submit after the due date but they will be flagged as turned in late.
+💡 Students will be still able to send their work after the due date but they will be marked as turned in late.
 
 You can also create your assignment in advance and **set a publication date** when the assignment will become available to the classroom.
 

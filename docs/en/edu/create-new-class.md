@@ -23,8 +23,8 @@ Then, click on the button **"Create a new class"** in the center of your screen.
 ### What is the purpose of a class?
 
 Creating a class will make it much easier to organize and share activities of any kind with your students.
-We have a [dedicated section]() about the different kinds of activities you can create and assign to your classroom.
-Most of the time, we advise following the same organization as you have in your "real" classroom.
+We have a [dedicated section](/help/en/education/assignments-activities.html) about the various kinds of activities you can create and assign to your classroom.
+Most of the time, we recommend following the same organization as you have in your "real" classroom.
 
 ## 2. Name your new class
 
@@ -46,9 +46,9 @@ Once your class is created, you will see multiple tabs available in your class n
 * **Stream**: Use the *stream* to quickly share content with your students, especially music scores from your account in read-only.
 * **Assignments**: Use the *assignments* feature to create any activities for your students using Flat. We got a more [dedicated help page](/help/en/education/assignments-activities.html) to learn more about assignments.
 * **People**: Use the *class people* page to add, invite and manage students and teachers that are part of your class.
-* **Settings**: Use the *class settings* to rename, customize, archive, and delete your class.
+* **Settings**: Use the *class settings* to rename, customize, archive, and remove your class.
 
-![Class navgation](/help/assets/img/edu/class-empty-tabs.png)
+![Class navigation](/help/assets/img/edu/class-empty-tabs.png)
 
 ## 3. Add your students to your new class
 
@@ -64,4 +64,4 @@ We wrote a dedicated article about [everything you need to know about your diffe
 
 ### What's next?
 
-Now that your class is full of students willing to learn music we will [give more details about all the different activities that you can create](/help/en/education/assignments-activities.html).
+Now that your class is full of students willing to learn music, we will [give more details about all the different activities that you can create](/help/en/education/assignments-activities.html).

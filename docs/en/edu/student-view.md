@@ -6,7 +6,7 @@ pid: student-view
 permalink: en/education/student-view.html
 ---
 
-As soon as your students have an account on the platform they will be able to create score and practice on their own. This section is meant to help you understand what they will see while you interact with them.
+As soon as your students have an account on the platform, they will be able to create score and practice on their own. This section is meant to help you understand what they will see while you interact with them.
 
 We will show what they see when:
 
@@ -16,7 +16,7 @@ We will show what they see when:
 
 ## Class and student stream
 
-When you add a student to a class they will see it from their dashboard view.
+When you add a student to a class, they will see it from their dashboard view.
 
 ![Student classes](/help/assets/img/edu/class-student-list.png)
 
@@ -30,7 +30,7 @@ They will also be able to see the different posts written by the teacher
 ## Work on an assignment
 
 From the class view, a student can decide to start or continue a given assignment.
-Let's say that they click on the "First assignment" shown on the previous screen above.
+Let's say that they click on the "First assignment" shown on the screen above.
 
 In this view, the student will be able to read the teacher's instruction and click on "**Start assignment**".
 
@@ -40,19 +40,19 @@ In this view, the student will be able to read the teacher's instruction and cli
 
 ![Score assignment](/help/assets/img/edu/class-student-editor-template.png)
 
-Once the student is done with the assignment they can press turn-in.
+Once the student is done with the assignment, they can press turn-in.
 
 ![Turn in default](/help/assets/img/edu/class-student-editor-turnin-default.png)
 
-Information will be automatically filled, the student can leave a comment about their work for the teacher to read when reviewing.
+The information will be automatically added; the student can leave a comment about their work for the teacher to read when reviewing.
 
 ## Turn in an existing score for an assignment
 
 As a student, you will receive activities and assignments from your teacher.
-Sometimes you will start from a template, but sometimes you may want to submit an existing score from your library.
+Sometimes you will start from a template, but sometimes you may want to send an existing score from your library.
 Here is a complete breakdown of how to do it.
 
-First of all, open your Flat account, choose the class then the assignment as shown above.
+First, open your Flat account, choose the class then the assignment as shown above.
 Once you arrive on the assignment page, you will see the "**Your work**" section on the right side of the page or below the instructions:
 
 ![Your work](/help/assets/img/edu/class-student-your-work-template-default.png)
@@ -61,7 +61,7 @@ Click on "**Add an existing score**" and choose your score from your library.
 
 ![Started assignment](/help/assets/img/edu/class-student-your-work-template-started.png)
 
-Click on "**Turn in**" to submit your work. That's all! The teacher that created the assignment will receive a notification and will be able to review your work.
+Click on "**Turn in**" to send your work. That's all! The teacher that created the assignment will receive a notification and will be able to review your work.
 
 ![Turned in assignment](/help/assets/img/edu/class-student-your-work-template-turned-in.png)
 

@@ -20,14 +20,14 @@ Once you are on your class stream, go to the settings of this class.
 
 ##  3. Archive your class
 
-Now that your are in your class settings you can click on the **Archive this class** button.
+Now that you are in your class settings you can click on the **Archive this class** button.
 
 ![Archive](/help/assets/img/edu/class-tab-settings-archive.png)
 
-Your class will be achived and you will be redirected in the view that shows all the archived classes
+Your class will be archived, and you will be redirected in the view that shows all the archived classes
 
 ##  4. Where can I find archived classes?
 
-From your dashboard you can click on the label **Archived** to access all your achived classes and restore one if needed.
+From your dashboard you can click on the label **Archived** to access all your archived classes and restore one if needed.
 
 ![Archived](/help/assets/img/edu/classes-archived.png)
