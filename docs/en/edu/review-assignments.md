@@ -16,11 +16,11 @@ The information displayed on this page and all other education pages is always u
 
 ## Review an assignment
 
-When clicking on an assignment, **you will see the assignment page with all the students who part of your class and their progress**.
+When clicking on an assignment, **you will see the assignment page with all the students who are part of your class and their progress**.
 
 ![Assignment view](/help/assets/img/edu/class-assignments-view-started.png)
 
-**As soon they start working on your assignments will have access to their work and give live feedback**. When clicking on a student name from the list, you will have direct access to their work. You can see them working in real-time, [write contextualized feedback on the score](/help/en/music-notation-software/inline-comments.html) that will see instantly, and return their work with more general feedback if you want.
+**As soon they start working on your assignments, you will have access to their work and give live feedback**. When clicking on a student name from the list, you will have direct access to their work. You can see them working in real-time, [write contextualized feedback on the score](/help/en/music-notation-software/inline-comments.html) that will see instantly, and return their work with more general feedback if you want.
 
 ![Review submissions](/help/assets/img/edu/assignment-review-inline-comment.png)
 

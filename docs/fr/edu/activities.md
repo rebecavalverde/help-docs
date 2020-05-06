@@ -6,95 +6,87 @@ pid: activities
 permalink: fr/education/devoirs-et-activites.html
 ---
 
-Flat for Education dispose de différents types d'activités que vous pouvez créer. Avant de creer des activités, assurez vous d'avoir [créé votre première classe](/help/fr/education/creer-une-classe.html).
+Flat pour Education dispose de différents types de devoirs que vous pouvez créer. Avant de créer des devoirs, assurez-vous d'avoir [créé votre première classe](/help/fr/education/creer-une-classe.html)
 
-![Stream view](/help/assets/img/edu/class-tab-assignments.png)
+![Class tab: Assignments](/help/assets/img/edu/class-tab-assignments.png)
 
-En cliquant sur le bouton de gauche, vous pouvez acceder à la liste de toutes les activités en cours.
-En cliquant sur le bouton de droite, vous pourrez commencer à créer une nouvelle activité.
+Vous pouvez visualiser touts les devoirs existants, et en créer de nouveaux en allant sur l'onglet "**Devoirs**" de votre classe. 
 
-## 1. Choisir le type d'activité
+## Créer un nouveau devoir
 
-Vous pouvez créer des activités de 4 types differents:
+Cliquez sur le bouton "**Nouveau devoir pour votre classe**" afin de créer votre premier devoir. 
+
+![New assignment](/help/assets/img/edu/class-new-assignment-btn.png)
+
+### 1. Nommez votre devoir
+
+Commencez par donner un nom à votre devoir. Ce nom sera affiché chaque fois que Flat pour Education fera référence à ce devoir. 
+
+![Choose an assignment name](/help/assets/img/edu/class-new-assignment-name.png)
+
+### 2. Choisissez un type de devoir
+
+Il y a 3 types de devoirs/activités que vous pouvez créer : 
 
 ![Stream view](/help/assets/img/edu/class-new-assignment-pick-type.png)
 
-### Nouvelle partition
+#### Nouvelle partition
 
-Vos étudiants devront partir d'une partition vierge et composer en suivant vos instructions.
+Vos étudiants auront à créer une nouvelle partition, en suivant vos instructions, et vous sera ensuite retourné pour correction. 
 
-### Lecture seule
+#### Template
 
-Vous pourrez partager un document en lecture seule avec tout vos etudiants, ce mode est relativement utile lors des répétitions.
+Chacun des élèves de votre classe obtiendra une copie de votre partition utilisée comme modèle. Vous pouvez imaginer différents types d'activités autour de ce système : 
 
-### Collaboration
+* Trouver des erreurs dans une partition
+* Compléter des intervalles/accords
+* Remplir une portée laissée vide
+* Finir une composition
+* ... Les possibilités sont infinies.
 
-Ce type d'activité est parfait si vous voulez que l'ensemble de vos etudiants collaborent sur la même oeuvre!
+Une fois que votre étudiant a terminé, ils peuvent rendre leur travail en 1 click depuis l'éditeur. 
 
-⚠️ Nous vous conseillons cependant de garder le nombre d'étudiants en dessous de 15.
+#### Écriture Partagée
 
-💡 Nous travaillons à la réalisation d'un outils pour créer des groupes d'etudiants dans vos activités.
+Choisissez cette option si vous voulez créer une activité de groupe avec tous vos étudiants travaillant ensemble en temps réel sur la même partition. 
 
-### Template
+Bien que l'éditeur n'ai pas de limite sur le nombre possible de participants, nous recommandons de garder le nombre de participants en dessous de 15 pour une même activité de groupe. 
 
-Tous vos étudiants recevrons une copie de la partition sur laquelle ils pourront travailler. Vous pouvez imaginer plusieurs genres d'exercices grâce à ce mode:
+### Choisissez une ou plusieurs partitions
 
-* Trouver l'erreur
-* Completer un intervalle
-* Achever la composition
-* ...
+Si vous choisissez "**Template**" ou "**Écriture Partagée**", il vous faudra sélectionner une ou plusieurs partitions qui seront utilisées pour votre devoir. 
 
-💡 Nous travaillons actuellement sur de nouveaux types d'exercices 
+Cliquez sur "**Choisissez une partition**". Vous pouvez alors : 
+- sélectionner une partition depuis votre compte sur Flat pour Education. 
+- [créer une partition en utilisant notre éditeur](/help/en/music-notation-software/create-your-first-music-score.html)
+- [importer une partition dans vote compte](/help/en/music-notation-software/import.html)
 
-## 2. Configurer l'exercice
+Une fois que vous avez choisi une partition, elle sera affichée comme ceci : 
 
-### Informations principales
+![Selected score for an assignment](/help/assets/img/edu/class-new-assignment-picked-score.png)
 
-![Assignment information](/help/assets/img/edu/class-new-assignment-instructions.png)
+### 3. Ajoutez des instructions
 
-Vous pouvez renseigner un nom et une description qui seront accessible n'importe quand par etudiants.
+Vous pouvez ensuite ajouter des instructions à votre nouveau devoir. Cela peut être sous la forme de texte directement attaché au devoir, ou bien cela peut prendre la forme d'un fichier en pièce jointe, ou bien d'un lien hypertexte. Vous avez la possibilité d'adjoindre toutes les ressources dont vous avez besoin : documents, présentations, vidéos, fichiers audio, partitions de musique en lecture seule, etc. 
 
-### Choisir une partition
+![Add instructions](/help/assets/img/edu/class-new-assignment-instructions.png)
 
-![Pick the score](/help/assets/img/activities/pickscore.png)
+### 4. Paramètres optionnels
 
-Vous serez ensuite en mesure de parcourir et selectionner une partition. Vous noterez qu'une liste est disponible sur la droite du nom. Ce choix est directement lié au type d'activité que vous souhaitez créer.
+Enfin, vous pouvez ajouter plusieurs options supplémentaires : 
 
-* Students can read -> **Lecture seule**
-* Students can write -> **Collaboration**
-* Students will get a copy -> **Template**
-* No score selected -> **Nouvelle Partition**
+![Assignment extra options](/help/assets/img/edu/class-new-assignment-extras.png)
 
-![Pick the score - Tips](/help/assets/img/activities/pickscore-tips.png)
+Vous pouvez fixer une **date limite** pour le rendu du devoir. 
 
-### Date de distribution et date butoire
+💡 Les étudiants pourront quand même rendre leur devoir passé cette date, mais il sera marqué comme étant rendu en retard. 
 
-![Pick the score - Tips](/help/assets/img/activities/post-due-dates.png)
+Vous pouvez également créer un devoir en avance, et **fixer une date de publication** pour rendre le devoir accessible à votre classe plus tard. 
 
-Vous pouvez fixer une date butoire à vos activité et ainsi savoir quels étudiants ont rendu a temps.
+### Publier votre devoir
 
-💡 Les étudiants qui rendront après la date butoire seront signalés dans votre interface de gestion des rendus.
+Maintenant que votre devoir est prêt, vous pouvez l'envoyer. Si vous voulez voir comment vos étudiants verront le devoir, [référez vous à notre article dédié](/help/fr/education/affichage-cote-etudiant.html). 
 
+### Correction et suivi
 
-Vous pouvez également preparer une activité en avance pendant votre temps libre, et definir la date où elle sera disponible à tous vos étudiants.
-
-### Distribuer votre activité
-
-Maintenant que votre activité est prête, vous pouvez l'envoyer à tous vos etudiants. Voici ce qu'ils verront depuis leur dashboard:
-
-![student stream](/help/assets/img/activities/stream-student.png)
-
-Une fois qu'ils cliqueront sur l'activité, ils pourront lire les instructions et commencer à travailler dessus.
-
-![assignment instructions](/help/assets/img/activities/assignment-description.png)
-
-## 3. Suivi en temps réel
-
-Vous pourrez suivre en temps réel les progrès de vos étudiants.
-
-![Assignment tracking](/help/assets/img/activities/assignment-tracking.png)
-
-Lesa etudiants qui apparaissent dans cette section sont ceux qui ont commencé à travailler.
-Dès qu'ils auront fait un premier rendu vous serez egalement notifié.
-
-*Nous travaillons a la rédaction d'une section sur les notes et commentaires*.
+Maintenant que vos étudiants peuvent accéder à votre devoir, vous pouvez suivre leur progrès. Consultez [notre article dédié pour apprendre comment corriger et faire des retours à vos étudiants](/help/en/education/review-assignments-activities.html). 
