@@ -12,9 +12,9 @@ nexturl: en/education/google-classroom/create-music-notation-assignment.html
 
 Adding a Google Classroom course on Flat will automatically provision or update your students' accounts into your private Flat for Education website, then enroll them in your Flat class. Once a course is synchronized on Flat, future roster updates will be instant and automatic, you don't have anything to do!
 
-In a couple of clicks, you will have your first group ready, and be able to create your first music notation on Google Classroom using Flat. Discover below how to set up a new Google Classroom course on Flat.
+In a couple of clicks, you will have your first group ready, and be able to create your first music notation assignment on Google Classroom using Flat. Discover below how to set up a new Google Classroom course on Flat.
 
-## 1. Open the tab "Classes."
+## 1. Open the tab "Classes"
 
 Once you are [logged in Flat](https://flat.io/edu), click on the **tab "Classes"** on the left of your screen on any dashboard page.
 
@@ -24,9 +24,9 @@ Then, click on the button **"Create a new class"** in the center of your screen.
 
 ![Create a new class](/help/assets/img/edu/create-class.png)
 
-## 2. Choose "Create using Google Classroom."
+## 2. Choose "Use Google Classroom"
 
-You don't need to enter a class name. Click on the button **"Using Google Classroom"**.
+You don't need to enter a class name. Click on the button **"Use Google Classroom"**.
 
 ![Create using Google Classroom](/help/assets/img/edu/create-class-landing.png)
 
