@@ -49,13 +49,24 @@
     <a href="/help/fr/education/devoirs-et-activites.html#template">Utiliser une partition en template</a>
     <a href="/help/fr/education/devoirs-et-activites.html#date-de-distribution-et-date-butoire">Date de publication & butoire</a>
     {%- endif %}
+    {%- if page.locale == 'fr' %}
+    <a href="/help/fr/education/evaluation-des-devoir.html" class="{% if page.pid == 'reviews' %}active{% endif %}">Évaluation des devoirs</a>
+    {%- else %}
     <a href="/help/en/education/review-assignments-activities.html" class="{% if page.pid == 'reviews' %}active{% endif %}">Review and give feedback</a>
+    {%- endif %}
   </div>
 
+  {%- if page.locale == 'fr' %}
+  <div class="nav-title">Étudiant</div>
+  <div class="items">
+    <a href="/help/fr/education/affichage-cote-etudiant.html" class="{% if page.pid == 'student-view' %}active{% endif %}">Affichage côté étudiant</a>
+  </div>
+  {%- else %}
   <div class="nav-title">Student</div>
   <div class="items">
     <a href="/help/en/education/student-view.html" class="{% if page.pid == 'student-view' %}active{% endif %}">Student view</a>
   </div>
+  {%- endif %}
 
   <div class="nav-title">Admin</div>
   <div class="items">

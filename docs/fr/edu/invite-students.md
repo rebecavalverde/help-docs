@@ -1,56 +1,70 @@
 ---
 title: Ajouter des étudiants dans votre classe
-description: Nous abordons les différentes possibilités d'ajouter des étudiants dans votre classe, code d'acces, lien direct, synchronisation avec des plateformes éducatives tierces.
+description: Nous abordons les différentes possibilités d'ajouter des étudiants dans votre classe, code d'accès, lien direct, synchronisation avec des plateformes éducatives tierces.
 nav: edu
 pid: invite-students
 permalink: fr/education/inviter-des-etudiants.html
-nexttext: Activities and Assignments
-nexturl: fr/education/assignments-activities.html
+nexttext: Activités et devoirs
+nexturl: fr/education/devoirs-et-activites.html
 ---
 
-Avant d'essayer d'ajouter des étudiants [assurez vous d'avoir créé votre première classe](/help/en/education/create-new-class.html).
+Avant d'essayer d'ajouter des étudiants, [assurez vous d'avoir créé votre première classe](/help/fr/education/creer-une-classe.html).
 
-Ce guide s'adresse à tous nos utilisateur qui **n'utilisent pas d'application de gestion de classe**. Si vous utilisez une de celles listées ci-dessous, vous pouvez suivre un guide dédié:
+Ce guide s'adresse à tous nos utilisateurs qui **n'utilisent pas d'applications de gestion de classe**. Si vous utilisez une de celles listées ci-dessous, vous pouvez suivre un guide dédié :
 
 * [Google Classroom](/help/en/education/google-classroom/)
+* [Microsoft Teams](help/en/education/microsoft-teams/)
 * [Canvas](/help/en/education/canvas-lms/)
 * [Schoology](/help/en/education/schoology/)
 
-## Ajouter des étudiants dans une classe existante
+## Ajouter des étudiants et enseignants dans une classe existante
 
-Si vous avez omis cette étape durant le processus de création d'une classe, ou que vous souhaitez rajouter des étudiants dans une classe existante, vous pouvez le faire depuis cette vue. Pour l'ouvrir, vous devez ouvrir une classe existante en cliquant dessus.
+Lorsque vous accédez à une classe dans Flat pour Education, vous pouvez accéder à plusieurs onglets. Cliquez sur l'onglet "**Utilisateurs**". 
 
-![](/help/assets/img/edu/class-people-tab-empty.png)
+![Class People](/help/assets/img/edu/class-people-tab-empty.png)
 
-## Comment ajouter des étudiants dans une classe
+Cliquez ensuite sur "**Ajouter des utilisateurs**". Plusieurs options vous sont alors proposées, nous allons les voir en détails ci-dessous. 
 
-![invite students choices](/help/assets/img/edu/class-add-people-manual.png)
+## Comment ajouter des étudiants à une classe
 
-Vous aurez le choix entre deux options pour ajouter vos étudiants
+Vous avez accès à trois options pour ajouter manuellement des étudiants à votre classe. 
 
-### Lien direct et / ou code d'accès
+![Invite students](/help/assets/img/edu/class-add-people-manual.png)
 
-Votre première possibilité sera de partager un lien d'accès direct avec vos étudiants. Vous pouvez procéder ainsi:
+### Partager un lien ou un code d'invitation
 
-* emails
-* document partagé
-* afficher avec un video projecteur
+La première option consiste à partager un lien (URL) à vos étudiants. Si vous avez la possibilité de partager ce lien directement avec eux, ou bien si vous pouvez afficher/écrire le code d'invitation au tableau, cette option sera la plus pratique pour vous. 
+
+C'est également la meilleure option si vos étudiants ont des comptes Google (G Suite for Education) ou bien Microsoft (Office 365), et que vous n'utilisez pas Google Classroom ou Microsoft Teams avec eux. Ainsi ils pourront rejoindre votre classe dans Flat en 1 click, avec leur comptes Google/Microsoft (Authentification Unique). 
+
+Une fois que les étudiants ont cliqué sur le lien d'invitation, ils auront la possibilité de se créer un nouveau compte, ou bien d'utiliser leur compte existant afin de rejoindre votre classe. 
+
+**ATTENTION :** Afin d'utiliser cette méthode, vos étudiants doivent avoir une adresse courriel valide. Si ce n'est pas le cas, veuillez vous référer à la section suivante. 
 
 ![Class code](/help/assets/img/edu/class-code.png)
 
-Dès que vos étudiants auront accedé au lien, ils seront en mesure de créer un nouveau compte utilisateur, ou en utiliser un existant pour rejoindre votre classe
+### Créer manuellement des comptes pour Flat pour Education
 
-**IMPORTANT:** Afin d'être en mesure d'utiliser cette methode, vos etudiants devront être en possession d'une adresse email valide et fonctionnelle. C'est a dire qu'ils seront en mesure de recevoir des emails de notre part.
+Ceci est la méthode à utiliser lorsque vos étudiants **n'ont pas d'adresse e-mail**, ou que **vous ne voulez pas utiliser leur adresse e-mail avec Flat**. 
 
-### Pré-creer les comptes manuellement
+Cliquez sur **Ajouter un utilisateur** ou bien cliquez sur **Importer un fichier .CSV** si vous voulez créer plusieurs comptes à la fois depuis un tableur. Une fois que vous avez terminé, cliquez sur **Créer des comptes** pour créer tous les comptes affichés. 
 
-Cette section est utile dans 2 situations:
+### Ajouter à votre classe des utilisateurs existants de votre école
 
-* Vos étudiants **ne disposent pas d'adresse email**, ou vous ne souhaitez pas qu'ils **utilisent leur adresse email sur la plateforme**.
-* Vos étudiants **ont déjà un compte dans votre organisation** et vous voulez **vous même configurer la classe** sans avoir à partager le code d'acces a la classe.
+Si vous avez déjà créé des comptes pour vos étudiants en utilisant une méthode décrite précédemment, ou s'ils ont utilisé un système d'authentification unique comme Google ou Office 365 pour créer leurs comptes, vous pouvez parcourir la liste des comptes utilisateurs de votre école pour pouvoir choisir ceux que vous désirez ajouter à votre classe. 
 
-![generateaccount](/help/assets/img/edu/class-create-account.png)
+Vous pouvez également utiliser cette option pour ajouter un autre enseignant à votre classe. 
 
-## What's next?
+![search people to add to your class](/help/assets/img/edu/class-add-existing-search.png)
 
-Maintenant que votre classe est créé et qu'elle dispose d'étudiants, vous allez pouvoir [créer vos premières activités](/help/en/education/assignments-activities.html)!
+Une fois que vous avez trouvé les utilisateurs à ajouter à votre classe, il vous faut les sélectionner dans la liste : 
+
+![Select students](/help/assets/img/edu/class-add-people-select-list.png)
+
+Cliquez sur "*Ajouter 3 utilisateurs*", et les étudiants seront effectivement ajoutés à votre classe. Ils font maintenant parti de votre classe ! 
+
+![addedstudents](/help/assets/img/edu/class-added-people.png)
+
+## Et maintenant ?
+
+Maintenant que votre classe est créé et qu'elle dispose d'étudiants, vous allez pouvoir [créer vos premières activités](/help/fr/education/devoirs-et-activites.html)!
