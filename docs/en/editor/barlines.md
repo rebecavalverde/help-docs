@@ -18,6 +18,7 @@ action.toggleRightRepeatBarline: true
 | Double barline | **Measure** | ![Double barline](https://prod.flat-cdn.com/img/icons/editorActions/barlineDouble.svg){:.tb} |  |
 | Left barline repeat | **Measure** | ![Left barline repeat](https://prod.flat-cdn.com/img/icons/editorActions/barlineRepeatLeft.svg){:.tb} | <span class="kbs-multi"><span class="kb-container"><span class="kb">[</span></span></span> |
 | Right barline repeat | **Measure** | ![Right barline repeat](https://prod.flat-cdn.com/img/icons/editorActions/barlineRepeatRight.svg){:.tb} | <span class="kbs-multi"><span class="kb-container"><span class="kb">]</span></span></span> |
+| Multiple Repeats | **Measure** | ![Multiple Repeats](https://prod.flat-cdn.com/img/icons/editorActions/repeatXTimes.svg){:.tb} |  |
 {:.feat}
 
 ## What are barline repeats?
@@ -44,4 +45,10 @@ The changes will be applied to every part in the score, in order to keep consist
 
 ![Barlines](/help/assets/img/editor/barlines.gif)
 
+## Multiple Repeats
 
+If you need to repeat a section more than one time, you can use the custom measure repeat. To use it, select the last measure of the section to be repeated, click on the button, then input the number of times you want it to be repeated. 
+
+![Multiple Repeats](/help/assets/img/editor/multiple-repeats.gif)
+
+In the example above, the section will be played 4 times (repeated 3 times). 
