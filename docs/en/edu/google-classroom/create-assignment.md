@@ -51,9 +51,15 @@ Finally, you can optionally add a **due date** and a **publication date**. When 
 
 Now that your assignment is ready you can post it. If you want to see how your students will experience Flat for Education, [check out our dedicated article](/help/en/education/student-view.html).
 
-⚠️ Due to a limitation of Google Classroom, Flat cannot change the attachments of the assignments once they are posted. Please carefully check that you selected the correct score(s) and the [correct assignment mode](#assignment-mode). If you made a mistake with the attachments, remove and re-create your assignment on Flat.
+⚠️ **Due to a limitation of Google Classroom**, Flat for Education cannot change the attachments of the assignments once they are posted. Please carefully check that you selected the correct score(s) and the [correct assignment mode](#assignment-mode). If you made a mistake with the attachments, remove and re-create your assignment using our interface.
 
 You can now discover [how your students will experience Flat with Google Classroom](/help/en/education/google-classroom/student-experience.html).
+
+### Copy an assignment to other classes (Re-use assignment)
+
+To re-use an assignment made with Flat for Education in another classes, [always click on "Re-use" from the Flat for Education website](/help/en/education/reuse-assignment.html).
+
+⚠️ **Due to a limitation of Google Classroom**, Flat for Education doesn't have the rights to access the assignments you copy from the Google Classroom interface. That's why we recommend to always make the copy using our interface.
 
 ### Reviews and follow up
 
