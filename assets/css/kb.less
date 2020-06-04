@@ -38,30 +38,29 @@
   &:last-child {
     margin-bottom: 0;
   }
-
-  .kb-item {
+}
+.kb-item {
+  display: flex;
+  align-items: center;
+  line-height: 32px;
+  margin-bottom: 8px;
+  width: 100%;
+}
+.kb-shortcuts {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+.kb-name {
+  display: flex;
+  align-items: center;
+  min-width: 315px;
+  color: @flat-blue-darkest;
+  .icon {
     display: flex;
-    align-items: center;
-    line-height: 32px;
-    margin-bottom: 8px;
-    width: 100%;
+    margin: -5px 0 -5px -5px;
   }
-  .kb-shortcuts {
-    display: flex;
-    align-items: center;
-    margin-left: 10px;
-  }
-  .kb-name {
-    display: flex;
-    align-items: center;
-    min-width: 315px;
-    color: @flat-blue-darkest;
-    .icon {
-      display: flex;
-      margin: -5px 0 -5px -5px;
-    }
-    .fill {
-      fill: @flat-blue-darkest;
-    }
+  .fill {
+    fill: @flat-blue-darkest;
   }
 }
