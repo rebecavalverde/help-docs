@@ -30,7 +30,7 @@ algolia:
   settings:
     searchableAttributes: [title, headings, unordered(content), nav]
     attributesForFaceting: [type, searchable(title), searchable(nav)]
-  nodes_to_index: 'p,table.index,ul'
+  nodes_to_index: 'p,table.index,ul,.kbs-list'
   max_record_size: 20000
 
 permalink: /:path/
