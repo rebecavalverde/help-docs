@@ -48,6 +48,8 @@ Each of your students will get a copy of one of your scores to start from. You c
 
 Once your students are done, they can send their work in 1-click from the editor.
 
+You can get more information regarding the template assignment on [this page](/help/en/education/templates.html). 
+
 #### Shared writing
 
 If you want to create a group activity with all the students working on the same piece in real-time.
