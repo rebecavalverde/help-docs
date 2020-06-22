@@ -7,13 +7,13 @@ permalink: en/education/site-license.html
 
 ## How does a site license work?
 
-A [Flat for Education site license](https://flat.io/edu/pricing) works like a bulk of license that you can during a chosen duration (1 year or 1 quarter). It includes a minimum of 50 licenses that can be used the users of your school account.
+A [Flat for Education site license](https://flat.io/edu/pricing) is a license for your school or district that includes a certain number of seats with unlimited access to Flat for Education. You can purchase a site license by year or quarter. Our site licenses include a minimum of 50 seats that can be used by the people of your school account (teachers or students).
 
 The advantages of our site license:
 
-* All the licenses purchase **start and end at the same date**, so you don't have to worry about specific accounts dates
-* You can **re-use licenses during the year**. When a student leaves your class, you can delete their account to make it available for another student
-* Licenses are **automatically assigned to active users**. For example, if you create more accounts or synchronize accounts from Google Classroom, and all the students don't use Flat you don't have to worry: their licenses can be used by other active students. When you move from a free trial to a site license, users get automatically get a new license from your site license.
+* All the seats **start and end at the same date**, so you don't have to worry about specific accounts dates.
+* You can **re-use seats during the year**. When a student leaves your class, you can delete their account to make available the seat for another student.
+* Seats are **automatically assigned to active people**. This means only the people from your school account who sign in will get a seat from your site license. When you move from a free trial to a purchased site license, people get automatically get a seat from your new site license.
 * They are **cheaper** than our individual product (97% cheaper), you can [discover our pricing here](https://flat.io/edu/pricing).
 
 ## How can I purchase a site license for my school?
