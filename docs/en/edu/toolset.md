@@ -8,10 +8,10 @@ nexttext: Review students' work and give feedback
 nexturl: en/education/review-assignments-activities.html
 ---
 
-For some assignments, you might want to reduce the number of tools available to your students. 
+For some assignments, you might want to reduce the number of tools available to your students in the music notation editor.
 It can be for the sake of clarity, by removing advanced notations for young students, or it can be because of the nature of the assignment, that only require specific tools to be completed. 
 
-When you create/edit an assignment, you can apply to it a specific toolset in the extra section. 
+When you create or edit an assignment, you can select or create a custom toolset in the options section ("Extras").
 
 ![Toolset Extra](/help/assets/img/edu/class-assignment-toolset.png)
 
