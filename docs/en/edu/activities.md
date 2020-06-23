@@ -84,6 +84,8 @@ You can set a **due date** for your assignment to turn in their work.
 
 You can also create your assignment in advance and **set a publication date** when the assignment will become available to the classroom.
 
+You can limit the **tools** available for your student when working on the assignment. You will find more information [here](/help/en/education/toolset.html). 
+
 ### Post your assignment
 
 Now that your assignment is ready you can post it. If you want to see how your students will experience Flat for Education, [check out our dedicated article](/help/en/education/student-view.html).
