@@ -39,3 +39,18 @@ Yes, we do accept Purchase Orders. Please [contact us](mailto:edu@flat.io) to ge
 
 Once your Purchase Order is ready, please send us by email at [edu@flat.io](mailto:edu@flat.io) or by fax at +1 845 666 2519. We usually process POs the next business day.
 
+## How seats from a site license work?
+
+Once you purchased a site license, you can have an overview of the usage of this one in your settings: [School Settings > Billing](https://flat.io/settings/school/billing). This page gives you a breakdown of the seats from your site license as well as information about the expiration date and direct links to the people list using this site license.
+
+![Site license overview](/help/assets/img/edu/site-license-your-plan-active-unused.png)
+
+The breakdown can include the following lines:
+
+* **Active seats**: The seats that are assigned and used by people from your school account. Seats are automatically assigned when people sign in to Flat for Education.
+* **Unused seats**: Remaining seats that are not used yet. When someone starts using their Flat for Education account, we automatically take an unused seat and assign it to their account.
+* **Surplus accounts with no seats**: Once all your seats are used, you will see here how many accounts won't have a seat and won't be able to use Flat for Education. In this case, you can either purchase additional seats or remove old and inactive accounts who are using a seat. If you have too many accounts, this will also be displayed in red next to the total seats number:
+
+![Surplus accounts](/help/assets/img/edu/site-license-your-plan-surplus-total.png)
+
+To re-use a seat and remove an account, you can either open the list of people using a seat from that page, or from the "People" navigation item. [Check out our dedicated guide to learn how to remove Flat for Education accounts](/help/en/education/remove-students-organization.html).
