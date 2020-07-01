@@ -42,9 +42,9 @@ Do you have a question that is not answered on this website? Please [contact us]
 ## Education Licenses
 
 * [Can I get a free trial for my school?](/help/en/education/free-trial.html)
-* [How does a site license work?](/help/en/education/site-license.html)
-* [How can I purchase a site license for my school?](/help/en/education/site-license.html#how-can-i-purchase-a-site-license-for-my-school)
-* [Do you accept Purchase Orders?](/help/en/education/site-license.html#do-you-accept-purchase-orders-po)
+* [How does a Flat for Education plan work?](/help/en/education/plan.html)
+* [How can I purchase a plan for my school?](/help/en/education/plan.html#how-can-i-purchase-a-plan-for-my-school)
+* [Do you accept Purchase Orders?](/help/en/education/plan.html#do-you-accept-purchase-orders-po)
 {:.faqul}
 
 <!-- * [A user is marked as not active, what does that mean?]()

@@ -10,3 +10,8 @@
   from = "/"
   to = "/help"
   status = 302
+
+[[redirects]]
+  from = "/help/en/education/site-license.html"
+  to = "/help/en/education/plan.html"
+  status = 302
