@@ -28,17 +28,20 @@ layout: default
 </div>
 
 <script>
-  var email;
-  if (window.location.search.indexOf('utm_medium=ios-app') !== -1) {
-    email = 'ios@flat.io';
+  var email, domain = '@flat.io';
+  if (typeof navigator !== 'undefined' && navigator.language === 'ja') {
+    email = 'japan'
+  }
+  else if (window.location.search.indexOf('utm_medium=ios-app') !== -1) {
+    email = 'ios' ;
   }
   else if (window.location.search.indexOf('edu=true') !== -1) {
-    email = 'edu@flat.io';
+    email = 'edu';
   }
   if (email) {
     Array.from(document.getElementsByClassName('email-support-address')).forEach(function (el) {
-      el.innerText = email;
+      el.innerText = email + domain;
     });
-    document.getElementById('email-support-address-link').setAttribute('href', 'mailto:' + email);
+    document.getElementById('email-support-address-link').setAttribute('href', 'mailto:' + email + domain);
   }
 </script>
