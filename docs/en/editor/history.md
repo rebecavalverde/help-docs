@@ -13,7 +13,7 @@ When you make changes to your music scores on [Flat](https://flat.io), we **auto
 
 ## Auto-save
 
-When using Flat you won't see a save button. Don't worry, **every single change you make is automatically synchronized to our servers**, so you won't never lose a single note.
+When using Flat, **every single change you make is automatically synchronized to our servers**, so you will never lose a single note. That's why you won't see a save button in our editor, new versions are automatically created.
 
 We display the **date of the last modification synchronized to our servers** on the top of the screen and create a full save of your document more often and faster than before (e.g., a few seconds after you stop working on a document). And **you can click on this last modification date to open the history** of your document.
 
