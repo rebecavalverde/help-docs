@@ -58,7 +58,7 @@ While we don't have a limit on the number of participants, we recommend keeping 
 
 ### Choose the score(s)
 
-If you choose "**Template**" or "**Shared writing**", you will need to select one or multiple scores that will be used for your assignment.
+If you choose "**[Template](/help/en/education/templates.html)**" or "**Shared writing**", you will need to select one or multiple scores that will be used for your assignment.
 
 Click on "**Select score**" and choose a score you have in your Flat for Education account, either [created using our editor](/help/en/music-notation-software/create-your-first-music-score.html) or [imported in your account](/help/en/music-notation-software/import.html).
 
@@ -76,17 +76,17 @@ You can then add instructions to your new assignment. They can either be some te
 
 Finally, you can add some extra options to your assignment:
 
+
+* **Due Date**: You can choose when your students need to submit their work. (Note: Students will be still able to send their work after the due date, but they will be marked as turned in late.)
+* **Publication Date**: You can create your assignment in advance and set a publication date when the assignment will become available to the classroom.
+* **[Assigned students](/help/en/education/assign-individual-students.html)**: By default, the assignment is assigned to all the students from your class, you can choose here to assign individual students. [Learn more](/help/en/education/assign-individual-students.html).
+* **[Toolset](/help/en/education/toolset.html)**: You can limit the **tools** available for your student when working on the assignment. [Learn more](/help/en/education/toolset.html).
+* **[Lock Template](/help/en/education/templates.html#locking-template)**: If you are using a score as a template in your assignment, you can prevent your students from changing the original notes. [Learn more](/help/en/education/templates.html#locking-template).
+* **Google Classroom Topic**: If you are using Google Classroom, you can choose [in which topic](https://support.google.com/edu/classroom/answer/9093681) your assignment will be created.
+
 ![Assignment extra options](/help/assets/img/edu/class-new-assignment-extras.png)
 
-You can set a **due date** for your assignment to turn in their work.
-
-💡 Students will be still able to send their work after the due date but they will be marked as turned in late.
-
-You can also create your assignment in advance and **set a publication date** when the assignment will become available to the classroom.
-
-You can limit the **tools** available for your student when working on the assignment. You will find more information [here](/help/en/education/toolset.html). 
-
-### Post your assignment
+### 5. Post your assignment
 
 Now that your assignment is ready you can post it. If you want to see how your students will experience Flat for Education, [check out our dedicated article](/help/en/education/student-view.html).
 
