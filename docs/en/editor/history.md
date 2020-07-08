@@ -13,7 +13,7 @@ When you make changes to your music scores on [Flat](https://flat.io), we **auto
 
 ## Auto-save
 
-Since December 2018, **you won't find a save button on Flat anymore**. No worries, **every single change is automatically synchronized to our servers**. We drastically improved the performance and reliability of the auto-save feature and how we now create new versions of your score. 
+When using Flat you won't see a save button. Don't worry, **every single change you make is automatically synchronized to our servers**, so you won't never lose a single note.
 
 We display the **date of the last modification synchronized to our servers** on the top of the screen and create a full save of your document more often and faster than before (e.g., a few seconds after you stop working on a document). And **you can click on this last modification date to open the history** of your document.
 
@@ -52,7 +52,7 @@ When you are viewing a version of the document, you can see how this version has
 
 ## Restore, Copy as a new Score and Export
 
-When viewing older modifications you made to a document, you can recover this version by using the tools at the top of the history.
+When viewing older modifications that you made to a document, you can recover this version by using the tools at the top of the history.
 
 Click on "**Restore this version**" to replace the current score with the displayed score (the history will be kept intact, so you still recover the last modification you made any time).
 
