@@ -1,31 +1,32 @@
 ---
-title: Synchronize an external audio recording with your score
-description: Replace Flat's playback with your own recording hosted on YouTube, SoundCloud or Vimeo on any of your scores. Quickly synchro
+title: Synchronize an audio recording with your score
+description: Replace Flat's playback on any of your scores with your own recording uploaded as MP3, or hosted on YouTube, SoundCloud or Vimeo.
 nav: editor
-pid: ext-recording
+pid: sync-recording
 permalink: en/music-notation-software/synchronize-external-recording.html
 ---
 
 By default, Flat provides [a great audio playback](/help/en/music-notation-software/playback.html) that interprets the music you write and discover directly in your web browser. However, sometimes you want to play a recording of the score or tab to listen to a real interpretation of the creation, or simply help you transcribe it on your score.
 
-You can simply link and synchronize music recordings with your sheet music from the following services:
+You **can upload your own MP3 file** or **link music recordings** with your sheet music.
 
-* ![Youtube](https://prod.flat-cdn.com/img/icons/product/yt.svg) YouTube
-* ![Soundcloud](https://prod.flat-cdn.com/img/icons/product/soundcloud-small.svg) SoundCloud
-* <img src="https://prod.flat-cdn.com/img/icons/product/vimeo-small.svg" alt="Vimeo" width="16px"/> Vimeo
+* ![MP3](https://prod.flat-cdn.com/img/icons/_common/export_mp3.svg) Upload your MP3 files
+* ![Youtube](https://prod.flat-cdn.com/img/icons/product/yt.svg) YouTube videos
+* ![Soundcloud](https://prod.flat-cdn.com/img/icons/product/soundcloud-small.svg) SoundCloud tracks
+* <img src="https://prod.flat-cdn.com/img/icons/product/vimeo-small.svg" alt="Vimeo" width="16px"/> Vimeo videos
 {:.nobullets}
 
-You can also add multiple external recordings to your score and choose what will be played by default when someone will open your score. The external recordings are available in our [web editor](/help/en/music-notation-software/), our [public viewer](https://blog.flat.io/showcase-and-share-your-compositions/) and [web embed](/help/en/music-notation-embed/).
+You can sync multiple recordings to your score and choose what will be played by default when someone will open your score. This features is available in our [web editor](/help/en/music-notation-software/), our [public viewer](https://blog.flat.io/showcase-and-share-your-compositions/) and [web embed](/help/en/music-notation-embed/).
 
 ## Sync a new recording
 
-### 1. Link the recording
+### 1. Link or Upload the recording
 
 To start synchronizing an audio recording, open the score in our web editor, and click on the arrow next to the play button and choose **Add a recording** or **Manage recordings** and choose **Add a recording**.
 
 ![Play > Add a new recording](/help/assets/img/editor/recording-ddn-add.png)
 
-Then **enter the link (URL) of your recording**. This link can be a YouTube or Vimeo video, or an audio track hosted on SoundCloud.
+Then **enter the link (URL) of your recording**, or **choose the file to upload**. If you provide a link, this one can be a YouTube or Vimeo video, or an audio track hosted on SoundCloud.
 
 ![Paste the recording link](/help/assets/img/editor/recording-link-add.png)
 
