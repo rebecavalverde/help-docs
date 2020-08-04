@@ -34,3 +34,5 @@ You can add/remove a repeat ending by going to the **"Measure" toolbar**. Select
 If the repeat ending encompasses multiple measures, you can select a range of measures, then click on the repeat ending button. 
 
 ![Add an ending in a range](/help/assets/img/editor/endings-toolbar-range.gif)
+
+These toolbar buttons are toggle buttons: to remove an ending, click on one of the active endings in the toolbar.
