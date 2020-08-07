@@ -44,6 +44,7 @@ Each of your students will get a copy of one of your scores to start from. You c
 * Complete the intervals/chords
 * Write a missing part
 * Finish the composition
+* [Melodic and Rhythmic dictation](/help/en/education/dictation.html)
 * ... The possibilities are endless.
 
 Once your students are done, they can send their work in 1-click from the editor.
@@ -82,6 +83,7 @@ Finally, you can add some extra options to your assignment:
 * **[Assigned students](/help/en/education/assign-individual-students.html)**: By default, the assignment is assigned to all the students from your class, you can choose here to assign individual students. [Learn more](/help/en/education/assign-individual-students.html).
 * **[Toolset](/help/en/education/toolset.html)**: You can limit the **tools** available for your student when working on the assignment. [Learn more](/help/en/education/toolset.html).
 * **[Lock Template](/help/en/education/templates.html#locking-template)**: If you are using a score as a template in your assignment, you can prevent your students from changing the original notes. [Learn more](/help/en/education/templates.html#locking-template).
+* **[Playback limit](/help/en/education/dictation.html#3-create-the-assignment)**: If you want to limit the number of times your students will play the score. You can use this option for [your dictation and ear training activities](/help/en/education/dictation.html).
 * **Google Classroom Topic**: If you are using Google Classroom, you can choose [in which topic](https://support.google.com/edu/classroom/answer/9093681) your assignment will be created.
 
 ![Assignment extra options](/help/assets/img/edu/class-new-assignment-extras.png)
