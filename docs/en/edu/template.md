@@ -16,6 +16,7 @@ You can imagine many different activities around that:
 * Complete the intervals/chords
 * Write a missing part
 * Finish the composition
+* [Melodic and Rhythmic dictation](/help/en/education/dictation.html)
 * ... The possibilities are endless.
 
 First, you need to set the assignment type to **Template**, and select the scores you want your students to work on. 
