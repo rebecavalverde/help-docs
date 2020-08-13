@@ -24,7 +24,7 @@ If your students already have Flat accounts, [check out our tips below to automa
 Once you got [your LTI Credentials from your Flat for Education account (Consumer Key and Shared Secret)](https://flat.io/settings/lti/canvas):
 
 1. **Open a course** and choose **Settings** on the navigation;
-2. Go in the **Apps** tab, Search **"Flat"**.
+2. Go in the **Apps** tab, Search **"Flat for Education"**.
 3. Click **Add App** and enter your [**Consumer Key and Shared Secret**](https://flat.io/settings/lti/canvas).
 
 Your integration is now ready to use! You and your students can now access Flat from Canvas, and you can post content and Flat activities in your Canvas course. [Discover the possibilities below](#sso-with-canvas-single-sign-in).
@@ -39,7 +39,7 @@ Once you got [your LTI Credentials from your Flat for Education account (Consume
 
 1. **Open a course** and choose **Settings** on the navigation;
 2. Go in the **Apps** tab, and click to **View Apps Configuration**.
-3. Click to **+App** to add Flat and in "**Configuration Type**" choose "**By URL**".
+3. Click to **+App** to add Flat for Education and in "**Configuration Type**" choose "**By URL**".
 4. Enter the following settings then click on **Submit**.
   * *Name*: Flat
   * *Consumer Key and Secret Key*: [your credentials](https://flat.io/settings/lti/canvas).

@@ -9,40 +9,23 @@ permalink: en/education/canvas-lms/assignments.html
 
 *You will need a Flat for Education account to use this feature, [check out the introduction](/help/en/education/canvas-lms/).*
 
-[Once your Canvas course is configured to use Flat](/help/en/education/canvas-lms/setup-configuration.html), you can use Flat to make assignments in Canvas.
+[Once your Canvas course is configured to use our app](/help/en/education/canvas-lms/setup-configuration.html), you can use Flat for Education to make assignments in Canvas.
 
-There are two solutions to use Flat in a Canvas assignment, using Flat as an [*External Tool*](#flat-as-an-external-tool) or as an *Online submission*: The [*External Tool*](#flat-as-an-external-tool) is probably the solution you will choose here: it will directly bring your students on Flat to complete their assignments and they will be able to submit it in 1-click. The [*Online submission*](#flat-as-an-online-submission) will display Flat as a solution to submit their work, they can also submit a file or a link instead.
+## New Canvas assignment
 
-Once the assignment has been completed by your students, [you can use Canvas SpeedGrader to review and grade their work](#review-submissions-with-speedgrader).
+Start by opening the "**Assignment**" page in your Canvas course, then click on "**+ Assignment**". You can complete the assignment details like any other Canvas assignments.
 
-## Flat as an *External Tool*
-
-Using Flat as an **external tool** when creating a music notation assignment in Canvas is probably the most seamless solution. You link a Flat resource that your students can open in 1-click, and they can submit their work to Canvas in 1-click from Flat.
-
-During the creation of your assignment, in **Submission Type** choose **External Tool**, then click on **Find** and Choose **Flat** in the list:
+To use Flat for Education for your assignment, in **Submission Type** choose **External Tool**, then click on **Find** and Choose **Flat** in the list, and **Select** the tool.
 
 ![External Tool](/help/assets/img/edu/canvas-assignment-submission-type-ext-tool.png)
 
 ![External Tools List](/help/assets/img/edu/canvas-assignment-submission-type-ext-flat.png)
 
-Once you choose **Flat**, you will see our resource picker with different options:
+You can then click on **Save** at the bottom of the Canvas page. This will give you the ability to select the options for your Flat for Education assignment.
 
-* If you want to let your students create a score from zero and let them choose the instruments, you can choose **Link the creation of the new score**.
-* The other best solution is to create or import a score in your Flat account is **Use it as a template**. When your students will open the assignment, they will automatically get a copy of the score opened and work on that copy.
+Select the assignment type (New score, Template, Sharing Writing) and the different options, then click on **Create** at the bottom of the page to make the assignment available for your students. You can also [check out dedicated guide for more details on the available options](/help/en/education/assignments-activities.html#creating-a-new-assignment).
 
-![Flat Resource Picker for assignments in Canvas](/help/assets/img/edu/canvas-assignment-submission-type-ext-picker.png)
-
-That's all, your assignment is ready! You might want to [experience it as a student](#experience-as-a-student) in Canvas to see how your students will use Flat in Canvas.
-
-## Flat as an *Online Submission*
-
-When you choose "*Online*" as *Submission Type*, Flat will be automatically be listed as an option for your students.
-
-![Assignment creation: Online submission type](/help/assets/img/edu/canvas-assignment-submission-type-online.png)
-
-They will be able to submit an existing Flat score from their Flat account, or work on the assignment using a different format (file, URL, etc.):
-
-![Online submission as a student](/help/assets/img/edu/canvas-assignment-submission-type-online-stu.png)
+![Select options for your Flat for Education assignment](/help/assets/img/edu/canvas-assignment-flat-config-start.png)
 
 That's all, your assignment is ready! You might want to [experience it as a student](#experience-as-a-student) in Canvas to see how your students will use Flat in Canvas.
 

@@ -18,7 +18,6 @@ Discover today [how to set up Flat in your Canvas courses](#setup-and-configurat
 
 * [SSO from your courses](/help/en/education/canvas-lms/sso.html). We automatically create and update the accounts for you, [create groups](/help/en/education/canvas-lms/sso.html#automatic-classes-creation-on-flat) and assignments on Flat.
 * [Embed your sheet music in 1-click from the Canvas Editor](/help/en/education/canvas-lms/embed.html) (Pages, Assignment content, Quizzes, etc.).
-* Your students [can submit their work using the Homework features, or you can simply choose Flat as the tool to use for a designed assignment](/help/en/education/canvas-lms/assignments.html). You can then use [Canvas SpeedGrader with Flat to review and grade their work](/help/en/education/canvas-lms/assignments.html#review-submissions-with-speedgrader).
-* Share your music scores as templates, we automatically make copies for your students.
+* [Use Flat for Education for your assignments: New Scores, Templates, Sharing writing](/help/en/education/canvas-lms/assignments.html). You can then use [Canvas SpeedGrader to review and grade your students' work](/help/en/education/canvas-lms/assignments.html#review-submissions-with-speedgrader).
 
 But first, [let's configure your Canvas course or instance](/help/en/education/canvas-lms/setup-configuration.html) to use your Flat for Education account.
