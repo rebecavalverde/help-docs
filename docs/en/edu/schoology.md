@@ -1,5 +1,5 @@
 ---
-title: Using Schoology with Flat
+title: Using Schoology with Flat for Education
 ptitle: Using Flat with Schoology to create music notation assignments
 description: Discover how to use Flat in Schoology to embed rich music notation in your Schoology pages, create seamless assignments from music theory to music compsition in your favorite LMS.
 nav: edu
@@ -21,13 +21,13 @@ On this help page you will discover how to:
   * [Embed on your Materials page](#embed-on-your-materials-page)
   * [Embed on a Schoology page](#embed-on-a-schoology-page)
 
-*If you need any help to configure or use Schoology with Flat, please contact us at [edu@flat.io](mailto:edu@flat.io).*
+*If you need any help to configure or use Schoology with Flat for Education, please contact us at [edu@flat.io](mailto:edu@flat.io).*
 
 ## Setup your Schoology Integration
 
 It only takes a couple of seconds to set up Schoology for your [Flat for Education account](https://flat.io/edu).
 
-1. Go to your **[Account Settings > Integrations > Schoology](https://flat.io/settings/lti/schoology)** and copy the **Consumer Key** and **Shared Secret**. Keep these details private, they will allow Schoology to access to your Flat school account.
+1. Go to your **[Account Settings > Integrations > Schoology](https://flat.io/settings/lti/schoology)** and copy the **Consumer Key** and **Shared Secret**. Keep these details private, they will allow Schoology to access to your Flat for Education school account.
 2. [Click here to open Flat in Schoology's App Center](https://app.schoology.com/apps/profile/1107847206). On the app page, click on "**Install LTI App**" and choose the course where you will use Flat.
 3. Open the course(s), click on **Course Options**, then **External Tools**. Choose the fresh installed Flat app and enter the configuration settings [obtained at the first step](https://flat.io/settings/lti/schoology).
 

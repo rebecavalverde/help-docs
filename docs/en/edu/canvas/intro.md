@@ -1,6 +1,6 @@
 ---
-title: Using Flat with Canvas LMS
-ptitle: Using Flat with Canvas LMS to create music notation assignments
+title: Using Flat for Education with Canvas LMS
+ptitle: Using Flat for Education with Canvas LMS to create music notation assignments
 description: Discover how to use Flat in Canvas to embed rich music notation in your Canvas pages, create seamless assignments from music theory to music compsition in your favorite LMS.
 nav: edu
 pid: canvas-intro
