@@ -1,5 +1,5 @@
 ---
-title: Flat with Google Classroom
+title: Flat for Education with Google Classroom
 ptitle: Your Google Classroom music notation and composition assignments
 description: Use Flat with Google Classroom to seamlessly create activities and assignments including music notation. From music theory to composition and collaboration, Flat provides the best Google Classroom integration available on the market.
 nav: edu
