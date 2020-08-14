@@ -1,6 +1,7 @@
 ---
 title: 音符の長さ変更と挿入モード
-description: 長さを変更する際に挿入モードが有効であれば、音符/休符の長さが増えると、以降全体の内容は削除されずに右に移動します。長さを減らすと左側に移動します。nav: editor
+description: 長さを変更する際に挿入モードが有効であれば、音符/休符の長さが増えると、以降全体の内容は削除されずに右に移動します。長さを減らすと左側に移動します。
+nav: editor
 pid: insertmode
 permalink: ja/music-notation-software/change-duration-insert.html
 

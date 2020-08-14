@@ -1,5 +1,5 @@
 ---
-title: Using Schoology with Flat
+title: Using Schoology with Flat for Education
 ptitle: Using Flat with Schoology to create music notation assignments
 description: Discover how to use Flat in Schoology to embed rich music notation in your Schoology pages, create seamless assignments from music theory to music compsition in your favorite LMS.
 nav: edu
@@ -16,18 +16,18 @@ On this help page you will discover how to:
 
 * [Setup your Schoology Integration](#setup-your-schoology-integration)
 * [SSO (Single Sign-On), Accounts Provisioning and Rostering](#sso-single-sign-on-accounts-provisioning-and-rostering)
+* [Assignments with Flat for Education in Schoology](#assignments-with-flat-for-education-in-schoology)
 * [Embed interactive sheet music in Schoology](#embed-interactive-sheet-music-in-schoology)
   * [Embed on your Materials page](#embed-on-your-materials-page)
   * [Embed on a Schoology page](#embed-on-a-schoology-page)
-* [Assignments with Flat on Schoology](#assignments-with-flat-on-schoology)
 
-*If you need any assistance to configure or use Schoology with Flat, please contact us at [edu@flat.io](mailto:edu@flat.io).*
+*If you need any help to configure or use Schoology with Flat for Education, please contact us at [edu@flat.io](mailto:edu@flat.io).*
 
 ## Setup your Schoology Integration
 
 It only takes a couple of seconds to set up Schoology for your [Flat for Education account](https://flat.io/edu).
 
-1. Go to your **[Account Settings > Integrations > Schoology](https://flat.io/settings/lti/schoology)** and copy the **Consumer Key** and **Shared Secret**. Keep these details private, they will allow Schoology to access to your Flat school account.
+1. Go to your **[Account Settings > Integrations > Schoology](https://flat.io/settings/lti/schoology)** and copy the **Consumer Key** and **Shared Secret**. Keep these details private, they will allow Schoology to access to your Flat for Education school account.
 2. [Click here to open Flat in Schoology's App Center](https://app.schoology.com/apps/profile/1107847206). On the app page, click on "**Install LTI App**" and choose the course where you will use Flat.
 3. Open the course(s), click on **Course Options**, then **External Tools**. Choose the fresh installed Flat app and enter the configuration settings [obtained at the first step](https://flat.io/settings/lti/schoology).
 
@@ -42,6 +42,28 @@ Flat is accessible in 1-click on the navigation of your courses. We will automat
 We also automatically create Classes on Flat and enroll your students in them, so you easily make assignments with Flat, and share scores with your students.
 
 ![Automatic rostering from Schoology](/help/assets/img/edu/schoology-rostering.png)
+
+## Assignments with Flat for Education in Schoology
+
+You can create Flat for Education assignments directly in Schoology. Open your course, go to your "**Materials**" tab, then choose "**Add Materials**" and "**Add File/Link/External Tool**".
+
+![Add Materials > Add File/Link/External Tool](/help/assets/img/edu/schoology-new-material-list.png)
+
+Choose "**External Tool**":
+
+![External tool](/help/assets/img/edu/schoology-materials-ext-tool.png)
+
+As **Tool provider**, choose "Flat", then add at least a title for your new assignment. Don't add any URL, Consumer Key or Shared secret here. You can use options like Grading and individual assignments if you want. Press "**Submit"** to create your assignment in Canvas.
+
+![Add external tool](/help/assets/img/edu/schoology-add-ext-tool.png)
+
+The second step is to complete the configuration of your newly created Flat for Education assignment. To do that, open the created material from your list of materials.
+
+Select the assignment type (New score, Template, Sharing Writing) and the different options, then click on **Create** at the bottom of the page to make the assignment available for your students. You can also [check out dedicated guide for more details on the available options](/help/en/education/assignments-activities.html#creating-a-new-assignment).
+
+![Configure Flat for Eucation assignment](/help/assets/img/edu/schoology-config-flat-edu-assignment.png)
+
+That's all, your assignment is ready! As soon as your student open the assignment from this Schoology page, you will see their names listed on this assignment page, [have access to their work and be able to give them live feedback](/help/en/education/review-assignments-activities.html).
 
 ## Embed interactive sheet music in Schoology
 
@@ -72,9 +94,3 @@ You can also embed a score in a dedicated Schoology Page with some other content
 Once inserted, you can adjust the size of the embed to have a better display of your content on the page.
 
 ![Resize your embed on a schoology page](/help/assets/img/edu/schoology-embed-resize.gif)
-
-## Assignments with Flat on Schoology
-
-We recommend you to use the assignments feature on Flat to create activities for your students using Schoology. This one allows to easily collect work made by your students in 1-click (with our Turn in button), automatically distribute copies of your templates, and organize live collaborations. Your students will have access to your Flat assignments using the Flat link in your Schoology class navigation.
-
-[Learn more about our assignment system on our dedicated help page](/help/en/education/assignments-activities.html). 
