@@ -22,22 +22,40 @@ If you already have a Flat for Education Account, you can purchase it online or 
 
 If you are purchasing a Flat for Education plan for a teacher of your school or need more info or help, please send us an email at [edu@flat.io](mailto:edu@flat.io) and we will be back to you shortly.
 
-We accept payments for Flat for Education plans:
+We accept the following payments methods for Flat for Education plans:
 * Online by card in [your account settings](https://flat.io/settings/your-plan) or via a guest purchase link ([contact us](mailto:edu@flat.io))
-* With Purchase Orders (PO) at [edu@flat.io](mailto:edu@flat.io) and by fax at +1 845 666 2519
-* By Bank transfer (SWIFT, SEPA, BACS, ACH and BSB)
-* By Check for US customers only
-* By PayPal
-
-In the US, Flat is distributed by Tutteo Inc, our US-based company. For the rest of the word, Flat is sold by Tutteo Ltd, our UK-based company. You can also purchase Flat from local resellers in certain regions.
-
-Please contact us for more information or any questions at [edu@flat.io](mailto:edu@flat.io).
+* [Purchase Orders (PO)](#do-you-accept-purchase-orders-po)
+* Bank transfer (SWIFT, SEPA, BACS, ACH and BSB)
+* Check for US customers only
+* PayPal
 
 ## Do you accept Purchase Orders (PO)?
 
-Yes, we do accept Purchase Orders. Please [contact us](mailto:edu@flat.io) to get a quote with all the information you need for your PO or if you need a W9 tax for in the US.
+Yes, we do accept Purchase Orders. Please [contact us](mailto:edu@flat.io) if you need a quote for your PO.
+**You can send us your Purchase Orders by email at [edu@flat.io](mailto:edu@flat.io).**
 
-Once your Purchase Order is ready, please send us by email at [edu@flat.io](mailto:edu@flat.io) or by fax at +1 845 666 2519. We usually process POs the next business day.
+### Company addresses
+
+**USA**:
+
+<ul style="list-style: none">
+<li>Tutteo Inc.</li>
+<li>2093 Philadelphia Pike #3615</li>
+<li>Claymont, DE 19703</li>
+</ul>
+
+[You can download our W-9 form here if your school needs one.](https://flat.io/legal/W9-Tutteo-Inc-Flat.pdf)
+
+**For the rest of the world**:
+
+<ul style="list-style: none">
+<li>Tutteo Ltd.</li>
+<li>9th Floor, 107 Cheapside</li>
+<li>EC2V 6DN London</li>
+<li>Great Britain</li>
+</ul>
+
+Note: Payment by check is only accepted within the USA.
 
 ## How seats from a Flat for Education plan work?
 
