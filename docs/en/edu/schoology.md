@@ -8,7 +8,7 @@ permalink: en/education/schoology
 ---
 
 <div class="fll" style="margin: 15px 15px 15px 0"><img src="https://flat.io/img/icons/product/schoology.svg" alt="Flat with Schoology" style="width: 48px;height:48px;border:0"></div>
-Using Schoology for your music courses? [Flat for Education](https://flat.io/edu) is the best solution to **create any music notation activity in Schoology**. Flat provides you seamless integration with Schoology: SSO (Single Sign-in) and rostering, assignments with Flat and the ability to embed interactive music notation in your Schoology pages.
+Using Schoology for your music courses? [Flat for Education](https://flat.io/edu) is the best solution to **create any music notation activity in Schoology**. Flat provides you seamless integration with Schoology: SSO (Single Sign-in), rostering, assignments with Flat and the ability to embed interactive music notation in your Schoology pages.
 
 <div class="btn-cta-wrapper"><a href="https://flat.io/edu/signup?ref=help-schoology" class="btn-cta-site">Sign up to Flat for Education</a></div>
 
