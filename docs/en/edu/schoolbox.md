@@ -52,3 +52,5 @@ The second step is to complete the configuration of your newly created Flat for 
 ![Complete assignment setup in Schoolbox](/help/assets/img/edu/schoolbox-complete-activity-setup.png)
 
 That's all, your assignment is ready! As soon as your student open the assignment from this Schoolbox page, you will see their names listed on this assignment page, [have access to their work and be able to give them live feedback](/help/en/education/review-assignments-activities.html).
+
+[![Student view example](/help/assets/img/edu/schoolbox-student-view.png)](/help/en/education/review-assignments-activities.html)
