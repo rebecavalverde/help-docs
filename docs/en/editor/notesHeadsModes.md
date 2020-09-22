@@ -56,6 +56,22 @@ Here are some examples of the automatic modes applied to a scale:
 
 ![Shape note](https://prod.flat-cdn.com/img/icons/scoreEditor/notesheadsScaleShape.svg){:.noBorder}
 
+### Do type
+
+You can choose wether to use **movable do** or **fixed do**. 
+
+#### Fixed Do
+With the fixed do, the color/shape used with a note will only depends on its pitch. A **G** will always be displayed with a **So** in Fixed do. 
+
+![Fixed do](https://prod.flat-cdn.com/img/icons/scoreEditor/notesheadsFixedDo.svg){:.noBorder}
+
+#### Movable Do
+With the movable do, the color/shape used with a note will only depends on the pitch in 
+relation to the tonic of the key signature. 
+A **G** with a **G major** key signature will be displayed with a **Do** in movable do. 
+
+![Movable do](https://prod.flat-cdn.com/img/icons/scoreEditor/notesheadsMovableDo.svg){:.noBorder}
+
 ### Combined modes
 
 **Pro Tip**: You can combine a color mode and a shape mode, for example, the notes names and the Boomwhackers colors:
