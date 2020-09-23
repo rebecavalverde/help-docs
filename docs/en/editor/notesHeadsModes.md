@@ -66,7 +66,7 @@ With the fixed do, the color/shape used with a note will only depends on its pit
 ![Fixed do](https://prod.flat-cdn.com/img/icons/scoreEditor/notesheadsFixedDo.svg){:.noBorder}
 
 #### Movable Do
-With the movable do, the color/shape used with a note will only depends on the pitch and the key signature's tonic. 
+With the movable do, the color/shape used with a note will depends on the pitch and the key signature's tonic. 
 A **G** with a **G major** key signature will be displayed with a **Do** in movable do. 
 
 ![Movable do](https://prod.flat-cdn.com/img/icons/scoreEditor/notesheadsMovableDo.svg){:.noBorder}
