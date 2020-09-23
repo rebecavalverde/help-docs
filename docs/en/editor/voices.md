@@ -28,3 +28,7 @@ To add multiple of different durations that play at the same time in a single st
 To add a second voice in your measure, click on the **Voice button** on the left the toolbars, then choose "**Voice 2**". Use the same button to toggle between voices and remove one voice. If you use keyboard shortcuts, you can also press **v** to toggle your voices.
 
 ![Add/Remove a voice](/help/assets/img/editor/voiceAdd.gif)
+
+## Split staff
+
+From the voice drop-down, you can also access tools to perform voice/staff operations, such as [splitting a staff](/help/en/music-notation-software/split-staff.html) into two. 
