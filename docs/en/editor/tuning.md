@@ -29,3 +29,9 @@ And open the "**Tablature and Tuning**" panel to change the options of the tabla
 Start **by adjusting the number of strings** of your instrument (between 3 and 14), then choose the new tuning to use from our presets list or by setting your own configuration. You can also adjust the capo at the same place.
 
 When updating the tuning, **your existing tab will be updated to use the new settings**. If you didn't have a tab enabled before, we will **generate the tablature based on your music notation**. You can then make the changes you want on the tab.
+
+## Changing the Capo
+
+If you only change the capo of a part, you have the possibility to keep the current fret/strings of notes, and have the pitches and key signature transposed. 
+
+![Change of capo](/help/assets/img/editor/change-capo.gif)
