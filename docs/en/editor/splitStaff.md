@@ -15,7 +15,7 @@ action.splitStaff: true
 
 ## Purpose
 
-You can use this tool when there is a staff that is shared by two instruments, and when you want each player to have his/her staff. 
+You can use this tool when there is a staff that is shared by two instruments, and when you want each player to have their part.
 
 ## Behavior
 
