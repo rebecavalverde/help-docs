@@ -29,6 +29,6 @@ To add a second voice in your measure, click on the **Voice button** on the left
 
 ![Add/Remove a voice](/help/assets/img/editor/voiceAdd.gif)
 
-## Split staff
+## Split staff & Swap voices
 
-From the voice drop-down, you can also access tools to perform voice/staff operations, such as [splitting a staff](/help/en/music-notation-software/split-staff.html) into two. 
+From the voice drop-down, you can also access tools to perform voice/staff operations, such as [splitting a staff](/help/en/music-notation-software/split-staff.html) into two, or [swapping the voices](/help/en/music-notation-software/swap-voices.html) assigned to notes to invert the stems directions. 
