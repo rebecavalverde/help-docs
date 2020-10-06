@@ -58,9 +58,8 @@ If you are an individual or business using our embed product [Flat Embed](https:
 
 ### For users of our Google Docs and Slides Add-on
 
-Our add-on **doesn't store** nor **manipulate** any student's PII.
-It's a lighter and simpler version that we are happy to provide for free.
-If you have any questions about the add-on please reach out to us.
+Our add-on **doesn't** process or store any personal information.
+It's a lighter and simpler version of our main platform that we are happy to provide for free without any concerns about data privacy.
 
 ## Frequently Asked Questions (FAQ) about our terms
 
