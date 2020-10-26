@@ -1,6 +1,6 @@
 ---
-title: Review assignments and give feedback
-description: Discover how you can easily review your Flat for Education assignments and give feedback
+title: Review and grade assignments
+description: Discover how you can easily review your Flat for Education assignments and grade students' work
 nav: edu
 pid: reviews
 permalink: en/education/review-assignments-activities.html
@@ -14,13 +14,15 @@ During your assignments you can follow the progress of your students from the as
 
 The information displayed on this page and all other education pages is always up to date, so no need to refresh your pages to get the updates. You will see the states updated as soon as your students start working on your activities.
 
-## Review an assignment
+## Review and grade an assignment
 
-When clicking on an assignment, **you will see the assignment page with all the students who are part of your class and their progress**.
+When clicking on an assignment link, you have access to the assignment details and your students' work. In this **students' work** tab, you will all the students who are part of this assignment and their progress.
 
 ![Assignment view](/help/assets/img/edu/class-assignments-view-started.png)
 
 **As soon they start working on your assignments, you will have access to their work and give live feedback**. When clicking on a student name from the list, you will have direct access to their work. You can see them working in real-time, [write contextualized feedback on the score](/help/en/music-notation-software/inline-comments.html) that will see instantly, and return their work with more general feedback if you want.
+
+From this page you can also add grades to your students' work. If your assignment [has been posted to Google Classroom](/help/en/education/google-classroom/) or an LMS like [Canvas](/help/en/education/canvas-lms/), Schoology, MusicFirst or Moodle, **grades are automatically added to your LMS gradebook** and synchronized with your LMS. 
 
 ![Review submissions](/help/assets/img/edu/assignment-review-inline-comment.png)
 

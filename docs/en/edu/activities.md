@@ -77,9 +77,9 @@ You can then add instructions to your new assignment. They can either be some te
 
 Finally, you can add some extra options to your assignment:
 
-
 * **Due Date**: You can choose when your students need to submit their work. (Note: Students will be still able to send their work after the due date, but they will be marked as turned in late.)
 * **Publication Date**: You can create your assignment in advance and set a publication date when the assignment will become available to the classroom.
+* **Grading**: You can set the maximum number of points for the assignment. If you connected Google Classroom or an LMS, the grades added to Flat for Education will automatically be added to your LMS gradebook.
 * **[Assigned students](/help/en/education/assign-individual-students.html)**: By default, the assignment is assigned to all the students from your class, you can choose here to assign individual students. [Learn more](/help/en/education/assign-individual-students.html).
 * **[Toolset](/help/en/education/toolset.html)**: You can limit the **tools** available for your student when working on the assignment. [Learn more](/help/en/education/toolset.html).
 * **[Lock Template](/help/en/education/templates.html#locking-template)**: If you are using a score as a template in your assignment, you can prevent your students from changing the original notes. [Learn more](/help/en/education/templates.html#locking-template).
