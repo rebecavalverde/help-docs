@@ -48,11 +48,11 @@ As soon as your students start their assignments, you can see their work and giv
 
 ## The submissions on Google Classroom
 
-Once your students send their work, you can review the submissions from Google Classroom or Flat, the same info is available on both apps.
+Once your students send their work, you can review and grade the submissions from Google Classroom or Flat for Education, the same information is available on both apps.
 
 ![Submissions of a music notation assignment on Google Classroom](/help/assets/img/edu/gc-assignment-done.png)
 
-In 1-click you can view your students' work on Flat, even if their submissions are not turned in yet. On our review page, you can [give live feedback](#live-feedback-during-the-activity) using [our inline comments](/help/en/music-notation-software/inline-comments.html) and review their submitted scores.
+In 1-click you can view your students' work on Flat for Education, even if their submissions are not turned in yet. On our review page, you can [give live feedback](#live-feedback-during-the-activity) using [our inline comments](/help/en/music-notation-software/inline-comments.html) and grade their submitted scores.
 
 ![Flat review page](/help/assets/img/edu/assignment-review-inline-comment.png)
 

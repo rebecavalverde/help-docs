@@ -45,7 +45,7 @@ First, **the name and the instructions** of the assignment. That's the main info
 
 You also have the possibility to link attachments or embed content: simply paste links into the description, we will automatically resolve them and attach them to your Google Classroom assignment.
 
-Finally, you can optionally add a **due date** and a **publication date**. When specifying a post date, your assignment will be marked as "draft" in your Google Classroom course. This is also a great way to test the creation of an assignment without making it available to your students.
+Finally, you can optionally **enabling grading**, and add a **due date** and a **publication date**. When specifying a post date, your assignment will be marked as "draft" in your Google Classroom course. This is also a great way to test the creation of an assignment without making it available to your students.
 
 ### Post your assignment
 
