@@ -4,7 +4,7 @@ ptitle: エディタで作曲を開始する。
 description: チュートリアル：楽譜作成ソフトFlatのエディタを使って作曲・記譜を開始します。
 nav: editor
 pid: discover-interface
-permalink: en/music-notation-software/エディタを使用する.html
+permalink: ja/music-notation-software/エディタを使用する.html
 nexturl: en/music-notation-software/tutorial-key-time-signature.html
 nexttext: Set Time and Key Signatures
 ---

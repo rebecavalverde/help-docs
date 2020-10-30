@@ -3,7 +3,7 @@ title: 拍子記号と調号
 description: チュートリアル：Flatのスコアエディタで作曲開始！拍子記号と調号を設定してみましょう。
 nav: editor
 pid: tuto-timesig
-permalink: en/music-notation-software/拍子記号と調号.html
+permalink: ja/music-notation-software/拍子記号と調号.html
 nexturl: en/music-notation-software/inputting-your-first-notes.html
 nexttext: Inputting your first notes
 ---

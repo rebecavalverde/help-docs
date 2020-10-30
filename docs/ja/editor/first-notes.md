@@ -4,7 +4,7 @@ ptitle: 音符を入力して作曲を始めましょう。
 description: 音符の入力方法をチェックして、Flatでのオンライン作曲・記譜を始めましょう。
 nav: editor
 pid: first-notes
-permalink: en/music-notation-software/音符の入力.html
+permalink: ja/music-notation-software/音符の入力.html
 nexturl: en/music-notation-software/notation-features.html
 nexttext: Discover all the music notation tools
 
