@@ -18,6 +18,6 @@ bundle exec jekyll serve
 # Open your web browser at http://127.0.0.1:4000/help/
 ```
 
-## Licenses
+## License
 
-Documentation content (except specified on the top of the markdown files, bottom of the page, and except our privacies) is released under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/). See [notices](docs/notices.md) for complete details, including attribution guidelines, contribution terms.
+Copyright © 2020 Tutteo Limited

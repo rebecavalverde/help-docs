@@ -23,8 +23,8 @@ Jekyll::Hooks.register :site, :pre_render do |site|
     # map pages per id & locale
     pages_map = Hash.new
     site.pages.each do |page|
-        next if !page['nav'] || !page['pid']
-        unique_pid = page['nav'] + '#' + page['pid']
+        next if !page['nav']
+        unique_pid = page['nav'] + '#' + page['name']
         locale = page.permalink.split('/').first
         page.data['locale'] = locale
         pages_map[unique_pid] ||= Hash.new
