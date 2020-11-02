@@ -3,10 +3,19 @@
   <div id="hits"></div>
   <script>
     window.addEventListener('load', function () {
+      var locale = '{{page.locale}}';
+      if  (locale.length === 0) {
+        locale = 'en';
+      }
       var search = instantsearch({
         appId: '4NUHS4DS6H',
         apiKey: '5610d85268f93eafca9a82d8de096ca4',
         indexName: 'production_help_en',
+        searchParameters: {
+          facetsRefinements: {
+            locale: [locale],
+          },
+        }
       });
 
       search.addWidget(
