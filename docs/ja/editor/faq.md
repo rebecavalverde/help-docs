@@ -1,6 +1,6 @@
 ---
-title:　よくある質問
-description: Flatご利用時によく頂く質問をまとめました。エディタの使い方などこちらからご確認ください。
+title: よくある質問
+description: Flatご利用時によく頂く質問をまとめました。エディタの使い方などこちらからご確認ください。 
 nav: editor
 pid: faq
 permalink: ja/music-notation-software/よくある質問.html
