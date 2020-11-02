@@ -53,7 +53,7 @@ Flatのエディタでは、**小節は設定された拍子記号に合わせ�
 
 マウスでの入力はカーソルを入力したい箇所にあわせ、五線譜上の希望の音の高さの場所を選んでクリックします。
 
-![マウスで音符を入力する](/help/assets/img/editor-ja/editor-first-notes-mouse.gif?1)
+![マウスで音符を入力する](/help/assets/img/editor-ja/editor-first-notes-mouse.gif)
 <br>
 
 
