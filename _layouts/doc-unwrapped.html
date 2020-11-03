@@ -5,6 +5,7 @@ layout: default
 {% if page.nav == 'general' %}{% include nav-general.html %}
 {% elsif page.nav == 'edu' %}{% include nav-edu.html %}
 {% elsif page.nav == 'embed' %}{% include nav-embed.html %}
+{% elsif page.nav == 'editor' and page.locale == 'ja' %}{% include nav-editor-ja.html %}
 {% elsif page.nav == 'editor' %}{% include nav-editor.html %}{% endif %}
 
 <div class="page {{page.cssPage}}">
