@@ -28,7 +28,7 @@ Flat for Educationについてのご質問がヘルプページで解決でき�
 ## 教育版について
 
 * [FlatとFlat for Educationの違いは何ですか？](/help/ja/education/個人と教育版の違い.html)
-* [Flat利用方法の研修はありますか？](/help/en/education/professional-development.html)
+* [Flat for Education利用方法の研修はありますか？](/help/en/education/professional-development.html)
 * [すでにFlatアカウントを持っています。スクールアカウントを作成するにはどうしたら良いですか？](/help/en/education/convert-individual-account-education.html)
 * [Google classroomでFlatを利用する方法は?](/help/en/education/google-classroom/)
 * [Flatでクラスを作成する方法は？](/help/ja/education/クラスの作成.html)
