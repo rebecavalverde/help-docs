@@ -10,7 +10,7 @@ They are various kinds of activities and assignments you can create in Flat for 
 
 ## Creating a worksheet 
 
-To create a worksheet, you must create a class [created your first class](/help/en/education/create-new-class.html). Now you need to create a new assignment [create a new assignment](/help/en/education/activities.html) and choose the option "**workseet**".
+To create a worksheet, you must create a class [created your first class](/help/en/education/create-new-class.html). Now you need to create a new assignment [create a new assignment](/help/en/education/activities.html) and choose the option "**worksheet**".
 
 
 ![Create a worksheet](/help/assets/img/edu/worksheet.png)
