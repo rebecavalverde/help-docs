@@ -67,8 +67,8 @@ Then click on "**Turn in**" to send their work. That's all! You will receive a n
 
 ## Edit a submitted assignment 
 
-Once the student has turned in the assignment, he/she will be able to edit it and add pre-existing or new scores to the assignment . To do so, he/she must go to the desired assignemt, click on edit, make the necessary changes and click on "**Turn in**" again. 
+Once the student has turned in the assignment, he/she will be able to edit it and add pre-existing or new scores to the assignment. To do so, he/she must go to the desired assignemt, click on edit, make the necessary changes and click on "**Turn in**" again. 
 
-![Edit a submitted assignment](/help/assets/img/edu/student-edit-assignment.gif)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RQ7NFkpml94" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
