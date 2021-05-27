@@ -61,7 +61,13 @@ Choose if your unpitched part will have **staves with 1 or 5 lines**.
 
 ![Number of lines for your staves](/help/assets/img/editor/custom-instru-unpitched-lines.png)
 
-### 3. Percussions instruments for your kit
+### 3. How to create a rhythmic score with one stave 
+
+If you want to create a rhythmic score with one stave you need to create a score with an unpitched instrument with one stave.  
+
+![Rhythmic score with one stave](/help/assets/img/editor/rhythmic-one-stave.gif.png)
+
+### 4. Percussions instruments for your kit
 
 You can then choose all the percussions instruments you want to include in the part:
 
